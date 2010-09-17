@@ -1,293 +1,1304 @@
-# Spanish translation for wesay
-# Copyright (c) 2007 Rosetta Contributors and Canonical Ltd 2007
-# This file is distributed under the same license as the wesay package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2007.
+# WeSay Spanish Translation File
+# Copyright (C) 2010
+# This file is distributed under the same license as the WeSay package.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: wesay\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2007-11-23 05:56+0000\n"
-"PO-Revision-Date: 2008-05-24 14:24+0000\n"
-"Last-Translator: Emilio Gómez Fernández <Unknown>\n"
-"Language-Team: Spanish <es@li.org>\n"
+"Project-Id-Version: WeSay\n"
+"Report-Msgid-Bugs-To: hattonjohn@gmail.com\n"
+"POT-Creation-Date: 2010-09-15 15:14:05\n"
+"PO-Revision-Date: 2010-09-17 01:04-0400\n"
+"Last-Translator: Ricardo A. Hermosilla Carrillo <ra.hermosillac@gmail.com>\n"
+"Language-Team: SPANISH <ES@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2008-06-02 09:36+0000\n"
-"X-Generator: Launchpad (build Unknown)\n"
 
+msgid "Meanings"
+msgstr "Significados"
+
+msgid "Add meanings (senses) to entries where they are missing."
+msgstr "Agregar significados a las entradas cuando falten."
+
+msgid "Parts of Speech"
+msgstr "Partes del Discurso"
+
+msgid "Add parts of speech to senses where they are missing."
+msgstr "Agregar partes del discurso cuando falten."
+
+msgid "Example Sentences"
+msgstr "Frases de Ejemplo"
+
+msgid "Add example sentences to senses where they are missing."
+msgstr "Agregar frases de ejemplo cuando falten."
+
+msgid "Base Forms"
+msgstr "Formas Base"
+
+msgid "Identify the \"base form\" word that this word is built from. In the printed dictionary, the derived or variant words can optionally be shown as subentries of their base forms."
+msgstr "Identificar la palabra \"forma base\" . En el diccionario impreso, las palabras derivadas o variante, opcionalmente, se pueden mostrar como subentradas de sus formas base."
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\BackupDialog.cs
+msgid "Looking for USB Keys..."
+msgstr "Buscando Dispositivos USB ..."
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\BackupDialog.cs
+msgid "Backing Up..."
+msgstr "Haciendo Copia de Seguridad..."
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\BackupDialog.cs
+msgid "Backup Complete"
+msgstr "Copia de Seguridad Completa"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\BackupDialog.cs
+msgid "Files backed up to {0}"
+msgstr "Archivos respaldados en {0}"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\BackupDialog.cs
+msgid "Files were not backed up."
+msgstr "Los archivos no fueron respaldados."
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\BackupDialog.cs
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.AddinLib\ActionSetupDialog.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\AboutBox.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProject.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProjectInformationDialog.Designer.cs
+msgid "&OK"
+msgstr "&OK"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\BackupDialog.cs
+msgid "Please insert the USB Key to backup to."
+msgstr "Por favor, inserte su Dispositivo USB para hacer la copia de seguridad."
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\BackupDialog.cs
+msgid "Unable to look for the device due to an error."
+msgstr "No se puede buscar el dispositivo debido a un error."
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
+msgid "status goes here"
+msgstr "estado va aquí"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
+msgid "Secondary status goes here"
+msgstr "Estado secundario va aquí"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProject.Designer.cs
+msgid "&Cancel"
+msgstr "&Cancelar"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\BackupToDevice.cs
+#. Long name for action which makes a zip file on a usb flash-drive
+msgid "Backup To USB Flash Drive"
+msgstr "Respaldo en Dispositivo USB"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\BackupToDevice.cs
+#. description of usb backup action
+msgid "Saves a backup on an external device, like a USB key."
+msgstr "Guarda una copia de seguridad en un dispositivo externo, como en un USB."
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\BackupToDevice.cs
+#. Short buton label for usb flash-drive backup action
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\SettingsControl.Designer.cs
+msgid "Backup"
+msgstr "Copia de Seguridad"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\SendProjectEmail.cs
+msgid "Email this dictionary to {0}"
+msgstr "Enviar este diccionario por email a {0}"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\SendProjectEmail.cs
+msgid "Email this dictionary as a compressed attachment"
+msgstr "Enviar este diccionario como un archivo comprimido adjunto por email"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\SendProjectEmail.cs
+msgid "The latest WeSay project data is attached."
+msgstr "Los últimos datos del proyecto WeSay están adjuntos."
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\SendProjectEmail.cs
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
+msgid "Email"
+msgstr "Email"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
+msgid "Recipient Name"
+msgstr "Destinatario"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
+msgid "Send Project Email Settings..."
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
+msgid "<"
+msgstr "<"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
+msgid ">"
+msgstr ">"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI\AutoCompleteTextBox\AutoCompleteWithCreationBox.Designer.cs
+msgid "+"
+msgstr "+"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
+msgid "-"
+msgstr "-"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.LiftReports\Report.Designer.cs
+msgid "Lexicon Report"
+msgstr "Reporte Lexicon"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.LiftReports\Report.Designer.cs
+msgid "Entries Contents"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.LiftReports\Report.Designer.cs
+msgid "Senses Contents"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.LiftReports\Report.Designer.cs
+msgid "label4"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.LiftReports\ReportMaker.cs
+msgid "View Report"
+msgstr "Ver Reporte"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.LiftReports\ReportMaker.cs
+msgid "Shows some information about the lexicon."
+msgstr "Muestra alguna información acerca del léxico."
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.LiftReports\ReportMaker.cs
+msgid "Report"
+msgstr "Reporte"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.LiftReports\XPathChart.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\LongStartupNotification.Designer.cs
+msgid "label1"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\HtmlInWord.cs
+msgid "Export to Word"
+msgstr "Exportar a Word"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\HtmlInWord.cs
+msgid "Creates a very basic dictionary publication in Microsoft Word."
+msgstr "Crea una publicación del diccionario muy básica en Microsoft Word."
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\HtmlTransformer.cs
+msgid "Export to HTML"
+msgstr "Exportar a HTML"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\HtmlTransformer.cs
+msgid "Creates a simple Html version of the dictionary.  Not a very good way to go."
+msgstr "Crea una versión HTML simple de este diccionario. No es una buena manera."
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
+msgid "Backing up..."
+msgstr "Respaldando..."
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\LongStartupNotification.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\TabbedForm.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\WeSayApp.cs
+#. It's up to you whether to bother translating this or not.
+msgid "WeSay"
+msgstr "WeSay"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
+msgid "http://lexiquepro.com"
+msgstr "http://lexiquepro.com"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
+msgid "http://lexiquepro.com/test.htm"
+msgstr "http://lexiquepro.com/test.htm"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
+msgid "About Lexique Pro"
+msgstr "Acerca de Lexique Pro"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\LexiquePro\LexiqueProSender.cs
+msgid "Open in Lexique Pro"
+msgstr "Abrir en Lexique Pro"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\LexiquePro\LexiqueProSender.cs
+msgid "Open dictionary in Lexique Pro for printing or web-page creation. Requires version LP ver 3.0 or higher."
+msgstr "Abrir diccionario en Lexique Pro para imprimir o para crear una página web. Requiere la versión 3.0 o mayor."
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
+msgid "Save in OpenOffice"
+msgstr "Guardar en OpenOffice"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
+msgid "Open Document Text"
+msgstr "Abrir Documento de Texto"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
+msgid "http://princexml.com"
+msgstr "http://princexml.com"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
+msgid "http://wesay.org/wiki/MakePdfDictionary"
+msgstr "http://wesay.org/wiki/MakePdfDictionary"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
+msgid "About Make Pdf Dictionary"
+msgstr "Acerca de Crear Diccionario PDF"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\PdfDictionary\PdfMaker.cs
+msgid "Make Pdf Dictionary"
+msgstr "Crear Diccionario PDF"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "Tweaks"
+msgstr "Tareas"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "Language Output"
+msgstr "Lenguaje de Salida"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\Tasks\WritingSystemFilterControl.Designer.cs
+msgid "English"
+msgstr "Inglés"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "National"
+msgstr "Nacional"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "Regional"
+msgstr "Regional"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "Vernacular"
+msgstr "Corriente (Vulgar)"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "Setup Standard Format Export..."
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\SfmTransformer.cs
+msgid "Export To SFM"
+msgstr "Exportar a SFM"
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\SfmTransformer.cs
+msgid "Saves the lexicon in a form of standard format."
+msgstr "Guarda el léxico en una forma de formato estándar."
+
+#: c:\src\sil\WeSay\bld\..\src\Addin.Transform\Xhtml\XHtml.cs
+msgid "Export to XHTML"
+msgstr "Exportar a xHTML"
+
+#: c:\src\sil\WeSay\bld\..\src\Image Picker Test App\ImagePicker\Form1.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Form1"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\Image Picker Test App\ImagePicker\ImageDisplayWidget.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI\PictureControl.cs
+msgid "Cannot find {0}"
+msgstr "No se puede encontrar {0}"
+
+#: c:\src\sil\WeSay\bld\..\src\Image Picker Test App\ImagePicker\ImageDisplayWidget.Designer.cs
+msgid "Choose Image..."
+msgstr "Seleccionar imagen..."
+
+#: c:\src\sil\WeSay\bld\..\src\Image Picker Test App\ImagePicker\ImageDisplayWidget.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI\PictureControl.Designer.cs
+msgid "What is the problem?"
+msgstr "¿Cuál es el problema?"
+
+#: c:\src\sil\WeSay\bld\..\src\Image Picker Test App\ImagePicker\ImageDisplayWidget.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI\PictureControl.Designer.cs
+msgid "Remove Image..."
+msgstr "Remover imagen..."
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalModel.Tests\Foundation\SpellCheckerIdToDisplayStringConverterTests.cs
+#: c:\src\sil\WeSay\bld\..\src\LexicalModel\Foundation\WritingSystem.cs
+msgid "Not installed"
+msgstr "No está instalado"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalModel\KeyToEntryIdInitializer.cs
+#. This is what shows for a word in a list when the user hasn't yet typed anything in for the word.  Like if you click the 'New Word' button repeatedly.
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
+#. This is what shows for a word in a list when the user hasn't yet typed anything in for the word.  Like if you click the 'New Word' button repeatedly.
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
+#. This is what shows for a word in a list when the user hasn't yet typed anything in for the word.  Like if you click the 'New Word' button repeatedly.
+msgid "Empty"
+msgstr "Vacío"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools.Tests\DictionaryControlTests.cs
+msgid "a note"
+msgstr "una nota"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools.Tests\DictionaryControlTests.cs
+msgid "bar"
+msgstr "bar"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools.Tests\DictionaryControlTests.cs
+msgid "foo"
+msgstr "foo"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools.Tests\EntryViewControlTests.cs
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools.Tests\EntryViewControlTests.cs
+msgid "test"
+msgstr "prueba"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools.Tests\EntryViewControlTests.cs
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\Dashboard\ShapeControl.cs
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\EntryHeaderView.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldsControl.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProject.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProject.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProjectFromFLExDialog.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\SettingsControl.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI.Tests\AutoCompleteWithCreationBoxTests.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI.Tests\ReferenceCollectionEditorTests.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI\GhostBinding.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI\TextBoxes\MultiTextControl.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI\TextBoxes\WeSayTextBox.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI\TextBoxes\WeSayTextBox.cs
+msgid " "
+msgstr " "
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools.Tests\MissingInfoTaskTests.cs
+msgid "Remaining count:"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools.Tests\MissingInfoTaskTests.cs
+msgid "Reference count:"
+msgstr "Contador de Referencia:"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools.Tests\RelationControllerTests.cs
+msgid "NonExistantId"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools.Tests\RelationControllerTests.cs
+msgid "new"
+msgstr "nuevo"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoConfiguration.cs
+msgid "Entries without this:"
+msgstr "Entradas sin esto:"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoConfiguration.cs
+msgid "Total Entries:"
+msgstr "Entradas Totales:"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
+msgid "Congratulations. You have completed this task."
+msgstr "Felicitaciones. Ha completado esta tarea."
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
+msgid "There is no work left to be done on this task."
+msgstr "No hay trabajo por hacer en esta tarea."
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.Designer.cs
+msgid "To Do:"
+msgstr "Por hacer:"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.Designer.cs
+msgid "Completed:"
+msgstr "Completado:"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
+msgid "(Page Down Key)"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoViewMaker.cs
+#. The user will click this to say that this word has no baseform.  E.g. Kindness has Kind as a baseform, but Kind has no other word as a baseform.
+msgid "&This word has no Base Form"
+msgstr "&Esta palabra no tiene Forma Base"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\AddPictures\AddPicturesControl.Designer.cs
+msgid "Search Words"
+msgstr "Buscar Palabras"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\AddPictures\AddPicturesControl.Designer.cs
+msgid "Search"
+msgstr "Buscar"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\CongratulationsControl.Designer.cs
+msgid "✔"
+msgstr "✔"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\Dashboard\Dash.cs
 #. The label for the 'dashboard'; the task which lets you see the status of other tasks and jump to them.
 msgid "Home"
 msgstr "Inicio"
 
-msgid "Dictionary Browse & Edit"
-msgstr "Navegar y editar diccionario"
-
-msgid "Add Meanings"
-msgstr "Añadir definiciones"
-
-msgid "Add meanings to entries where they are missing."
-msgstr "Añadir definiciones a las entradas cuando falten"
-
-msgid "Add Parts of Speech"
-msgstr "Añadir partes de discurso"
-
-msgid "Add a Part Of Speech to senses where they are missing."
-msgstr "Añadir una parte del discurso cuando falte"
-
-msgid "Add Examples"
-msgstr "Añadir ejemplo"
-
-msgid "Add example sentences to entries where they are missing."
-msgstr "Añadir frases de ejemplo a las entradas cuando falten"
-
-msgid "Add Base Forms"
-msgstr "Añadir Formas Base"
-
-msgid ""
-"Identify the \"base form\" word that this word is built from. In the printed "
-"dictionary, these can optionally be shown as subentries."
-msgstr ""
-"Identificar la palabra \"forma de base\" de la cual esta palabra está "
-"formada. En el diccionario impreso, pueden ser mostradas como subentradas."
-
-msgid "Collect Word List (D)"
-msgstr ""
-
-msgid ""
-"Collect new words by translating from words in another language. This is a "
-"list of 1700 words from John Duerksen."
-msgstr ""
-
-msgid "Collect Word List (PNG)"
-msgstr ""
-
-msgid ""
-"Collect new words by translating from words in another language. This is a "
-"list of around 900 words and phrases from PNG."
-msgstr ""
-
-msgid "Collect Words By Semantic Domain"
-msgstr "Recopilar palabras por dominios semánticos"
-
-#, fuzzy
-msgid ""
-"Collect new words organized by semantic domains and questions about those "
-"domains."
-msgstr ""
-"Recopilar nuevas palabras organizadas por dominios semánticos y preguntas "
-"acerca de los dominios"
-
-msgid "Actions"
-msgstr "Acciones"
-
-msgid "Looking for USB Keys..."
-msgstr "Buscando llaves USB..."
-
-msgid "Backing Up..."
-msgstr "Haciendo copia de seguridad..."
-
-msgid "Backup Complete"
-msgstr "Copia de seguridad completa"
-
-msgid "Files backed up to {0}"
-msgstr "Archivos recuperados al {0}"
-
-msgid "Files were not backed up."
-msgstr "Los archivos no fueron recuperados"
-
-msgid "Please insert the USB Key to backup to."
-msgstr "Por favor, inserte la llave USB para realizar la copia de seguridad"
-
-msgid "&Cancel"
-msgstr "&Cancelar"
-
-#. Label for usb flash-drive backup action
-msgid "Backup To Device"
-msgstr "Hacer copia de seguridad al Dispositivo"
-
-#. description of usb backup action
-msgid "Saves a backup on an external device, like a USB key."
-msgstr ""
-"Guarda una copia de seguridad en un dispositivo externo, como una llave USB."
-
-msgid "Email My Work to {0}"
-msgstr "Enviar por email My Work a {0}"
-
-msgid "Send a zipped email containing all your WeSay work."
-msgstr "Enviar todo su trabajo de WeSay en un archivo ZIP por mail."
-
-msgid "View Report"
-msgstr "Ver reporte"
-
-msgid "Shows some information about the lexicon."
-msgstr "Muestra información sobre lexicon"
-
-msgid "Export to Word"
-msgstr "Exportar a Word"
-
-msgid "Creates a very basic dictionary publication in Microsoft Word."
-msgstr "Crea una publicación muy básica en Microsoft Word"
-
-msgid "Export to HTML"
-msgstr "Exportar a HTML"
-
-msgid "Creates a simple Html version of the dictionary, ready for printing."
-msgstr "Crea una version simple en Html del diccionario lista para imprimir."
-
-msgid "Export To SFM"
-msgstr "Exportar a SFM"
-
-msgid "Saves the lexicon in a form of standard format."
-msgstr "Guarda el léxico conforme a un formato estándar."
-
-#. The description of the Actions task.
-msgid "Backup, print, etc."
-msgstr "Copia de seguridad, Imprimir, etc."
-
-msgid "Current task:"
-msgstr "Tarea actual:"
-
-msgid "Tasks"
-msgstr "Tareas"
-
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\Dashboard\Dash.cs
 msgid "Switch tasks and see current status of tasks"
-msgstr "Cambiar tareas y ver el estado actual de las mismas"
+msgstr "Cambiar tareas y ver el estado actual de las tareas"
 
-msgid "Your dictionary has {0} words"
-msgstr "Su diccionario tiene {0} palabras"
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\Dashboard\Dash.Designer.cs
+msgid "NOTE: This control should be the same size as the initial tab page size so the in"
+msgstr "NOTA: Este control debe ser del mismo tamaño como el de la pestaña de página inicial"
 
-msgid "Cannot find {0}"
-msgstr "Imposible encontrar {0}"
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
+msgid "{1} dictionary has {0} words"
+msgstr "El diccionario {1} tiene {0} palabras"
 
-msgid "No Senses"
-msgstr "Sin Sentidos"
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\Dashboard\GroupHeader.designer.cs
+msgid "_label"
+msgstr "_etiqueta"
 
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\Dashboard\TaskIndicator.designer.cs
+msgid "Gather from Foo words"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\Dashboard\TaskIndicator.designer.cs
+msgid "See words in Foo, write the same words in Boo"
+msgstr "Ver palabras en Foo, escribir las mismas palabras en Boo"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
+msgid "&Delete"
+msgstr "&Borrar"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
+msgid "This will permanently remove this entry."
+msgstr "Esto removerá permanentemente esta entrada."
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
+msgid "Confirm Delete"
+msgstr "Confirmar"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryBrowseAndEditConfiguration.cs
+#. The label for the task that lets you see all entries, search for entries, and edit various fields.  We don't like the English name very much, so feel free to call this something very different in the language you are translating to.
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryBrowseAndEditConfiguration.cs
+#. The long label for the task that lets you see all entries, search for entries, and edit various fields.  We don't like the English name very much, so feel free to call this something very different in the language you are translating to.
+msgid "Dictionary Browse && Edit"
+msgstr "Examinar y Editar diccionario"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
 #. This is what shows if the user is listing words by the glossing language, but the word doesn't have a gloss.
-#, fuzzy
 msgid "No Gloss"
-msgstr "Sin brillo"
+msgstr ""
 
-msgid "Hide Uncommon Fields"
-msgstr "Ocultar campos poco frecuentes"
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
+msgid "Hide &Uncommon Fields"
+msgstr "Ocultar campos &extraños"
 
-msgid "Show Uncommon Fields"
-msgstr "Mostrar campos poco frecuentes"
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
+msgid "Show &Uncommon Fields"
+msgstr "Mostrar campos &extraños"
 
-msgid "&Delete This Word"
-msgstr "&Borrar esta palabra"
-
-msgid "&New Word"
-msgstr "&Nueva Palabra"
-
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.Designer.cs
 msgid "&Show All Fields"
 msgstr "&Mostrar todos los campos"
 
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.Designer.cs
+msgid "&Delete This Word"
+msgstr "&Borrar esta palabra"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.Designer.cs
+msgid "&New Word"
+msgstr "&Nueva palabra"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryTask.cs
 #. The description of the 'Dictionary' task.  In place of the {0} will be the number of words in the dictionary.  In place of the {1} will be the name of the project.
 msgid "See all {0} {1} words."
-msgstr "Ver todas las {0} palabras de {1}"
+msgstr "Mostrar todas las {0} palabras {0} del proyecto {1}."
 
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\SearchBoxControl.Designer.cs
+msgid "en"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\ViewTemplate.cs
 #. The label for the field showing the Lexeme Form of the entry.
 msgid "Word"
 msgstr "Palabra"
 
-msgid "(Page Down Key)"
-msgstr "(Tecla Avpág)"
-
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "(Enter Key)"
-msgstr "(Tecla Intro)"
-
-msgid "Try thinking of words you use to talk about these things."
 msgstr ""
-"Intente pensar en palabras que usa para hablar acerca de estas cosas."
 
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+msgid "Try thinking of words you use to talk about these things."
+msgstr "Intente pensar en las palabras que usted usa para hablar acerca de estas cosas."
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\LexSenseLayouter.cs
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\LexSenseLayouter.cs
+#. This label is shown once, but has two roles.  1) it labels the defintion field, and 2) marks the beginning of the set of fields which make up a sense. So, in english, if we labelled this 'definition', it would describe the field well but wouldn't label the section well.
+msgid "Meaning"
+msgstr "Significado"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainTask.cs
+#. This is shown in the Gather By Semantic Domains task after each semantic domain question. The questions contain example words to help clarify what the domain is about, and this was added to remind the user that he/she is gathering based on the domain, not these examples.
+msgid "Do not just translate these words; instead think of words in your own language."
+msgstr "No se limite a traducir estas palabras, sino pensar en palabras en su propio idioma."
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Try thinking of ways to say these words in your language."
-msgstr "Intente pensar en maneras de decir estas palabras en su lenguaje."
+msgstr "Intente pensar en las formas de decir estas palabras en su idioma."
 
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Word:"
 msgstr "Palabra:"
 
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
+msgid "Foobar"
+msgstr "Foobar"
+
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\LexExampleSentenceLayouter.cs
 #. This is the field containing an example sentence of a sense of a word.
-#. This is the field containing an example sentence of a sense of a word."), "Sentence
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\LexExampleSentenceLayouter.cs
+#. This is the field containing an example sentence of a sense of a word.
 msgid "Example"
 msgstr "Ejemplo"
 
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\LexExampleSentenceLayouter.cs
 #. This is the field for putting in a translation of an example sentence.
 msgid "Translation"
 msgstr "Traducción"
 
-#. This label is shown once, but has two roles.  1) it labels contains the gloss, and 2) marks the beginning of the set of fields which make up a sense. So, in english, if we labelled this 'gloss', it would describe the field well but wouldn't label the section well.
-msgid "Meaning"
-msgstr "Significado"
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\LexSenseLayouter.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\ViewTemplate.cs
+#. The label for the field showing a single word translation, as used in interlinear text glossing.
+msgid "Gloss"
+msgstr ""
 
-msgid "Congratulations. You have completed this task."
-msgstr "Felicitaciones. Completó esta tarea."
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\TaskBase.cs
+#. Generic desciption of how many items in a task are left to do.
+msgid "Remaining:"
+msgstr "Aún por hacer:"
 
-msgid "There is no work left to be done on this task."
-msgstr "No queda más trabajo por hacer en esta tarea."
+#: c:\src\sil\WeSay\bld\..\src\LexicalTools\TaskBase.cs
+#. Generic description of how many total items there are in a task.
+msgid "Total:"
+msgstr "Total:"
 
-msgid "To Do:"
-msgstr "Para hacer:"
+#: c:\src\sil\WeSay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Refresh"
+msgstr "Actualizar"
 
-msgid "Completed:"
-msgstr "Completado:"
+#: c:\src\sil\WeSay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\OptionListControl.Designer.cs
+msgid "Key"
+msgstr "Clave"
 
-#. The user will click this to say that this word has no baseform.  E.g. Kindess has Kind as a baseform, but Kind has no other word as a baseform.
-#, fuzzy
-msgid "This word has no Base Form"
-msgstr "Esta palabra no tiene una forma básica o raíz"
+#: c:\src\sil\WeSay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Value"
+msgstr "Valor"
 
+#: c:\src\sil\WeSay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Placeholder for control which uses generics so breaks the designer"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Reference Collection"
+msgstr "Colección de Referencias"
+
+#: c:\src\sil\WeSay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Source Collection"
+msgstr "Colección de Fuentes"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.AddinLib\ActionItemControl.cs
+msgid "Make visible in WeSay"
+msgstr "Hacer visible en WeSay"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.AddinLib\ActionItemControl.cs
+msgid "Make invisible in WeSay"
+msgstr "Hacer invisible en WeSay"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+msgid "blah blah blah"
+msgstr "blah blah blah"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+msgid "Action Name"
+msgstr "Nombre de la Acción"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+msgid "Set up..."
+msgstr "Establecer..."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+msgid "Visible In WeSay"
+msgstr "Visible en WeSay"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+msgid "More Info..."
+msgstr "Más información..."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.AddinLib\ActionSetupDialog.Designer.cs
+msgid "Setup Action..."
+msgstr "Establecer acción..."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\CommandLineParser.cs
+msgid "Count number of lines in the input text."
+msgstr "Contar el número de lineas en el texto de entrada."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\CommandLineParser.cs
+msgid "Count number of words in the input text."
+msgstr "Contar el número de palabras en el texto de entrada."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\CommandLineParser.cs
+msgid "Count number of chars in the input text."
+msgstr "Contar el número de caracteres en el texto de entrada."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\CommandLineParser.cs
+msgid "Input files to count."
+msgstr "Archivos de entrada para contar."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\StatusBarController.cs
+#. Shown at the bottom of the screen.
+msgid "Dictionary has {0} words"
+msgstr "El diccionario tiene {0} palabras"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\StatusBarController.cs
+msgid "error"
+msgstr "error"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\TabbedForm.cs
 #. Appended to the name of a task, in its tab, while the user is waiting for the task to come up.
 msgid "Loading..."
 msgstr "Cargando..."
 
-#. It's up to you whether to bother translating this or not.") + ": " + project.Name + "
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\TabbedForm.Designer.cs
+msgid "tabPage2"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Please wait while WeSay prepares your data"
+msgstr "Por favor, espere mientras WeSay prepara sus datos"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
+msgstr "Ruta al archivo XML Lift (por ejemplo, en windows: \"C:\\thai\\wesay\\thai.lift\")."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Language to show the user interface in."
+msgstr "Idioma para mostrar en la interfaz de usuario."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Start without a user interface (will have no effect if WeSay is already running with a UI."
+msgstr "Iniciar sin una Interfaz de Usuario (no tendrá efectos si WeSay ya está corriendo con una IU)."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Some things, like backup, just gum up automated tests.  This is used to turn them off."
+msgstr "Algunas cosas, como Respaldos, sólo interfieren en las pruebas automatizadas. Esto se utiliza para apagarlos."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool.Tests\FieldDetailControlTests.cs
+msgid "new description"
+msgstr "nueva descripción"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool.Tests\TestProjectMenu.cs
+msgid "Blah blah blah?"
+msgstr "Blah blah blah?"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool.Tests\TestProjectMenu.cs
+msgid "Don't ask me again"
+msgstr "No me pregunte de nuevo"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\AboutBox.Designer.cs
+msgid "Product Name"
+msgstr "Nombre del Producto"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\AboutBox.Designer.cs
+msgid "Version"
+msgstr "Versión"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\AboutBox.Designer.cs
+msgid "WeSay.org"
+msgstr "WeSay.org"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\AboutBox.Designer.cs
+msgid "AboutBox"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\ActionsControl.Designer.cs
+msgid "Choose which actions to make available in WeSay, and customize them."
+msgstr "Seleccione las acciones para hacer disponible en WeSay y personalicelas"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\BackupPlanControl.cs
+#. Checkin Description in WeSay Config Tool used when you change the backup path
+msgid "BackupPlan path changed"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\BackupPlanControl.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FontControl.designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\InterfaceLanguageControl.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProjectFromFLExDialog.Designer.cs
+msgid "..."
+msgstr "..."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\BackupPlanControl.Designer.cs
+msgid "Backup Media Location"
+msgstr "Localización del medio de Respaldo"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\ChorusControl.Designer.cs
+msgid "Run the Chorus Application"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\ConfigurationWindow.Designer.cs
+msgid "&Project"
+msgstr "&Proyecto"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\ConfigurationWindow.Designer.cs
+msgid "&New Project..."
+msgstr "&Nuevo Proyecto..."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\ConfigurationWindow.Designer.cs
+msgid "&Open Project..."
+msgstr "&Abrir Proyecto..."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\ConfigurationWindow.Designer.cs
+msgid "E&xit"
+msgstr "&Salir"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\ConfigurationWindow.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\ConfigurationWindow.Designer.cs
+msgid "&Help"
+msgstr "&Ayuda"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\ConfigurationWindow.Designer.cs
+msgid "toolStrip2"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\ConfigurationWindow.Designer.cs
+msgid "Create new WeSay Project..."
+msgstr "Crear un nuevo proyecto WeSay..."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\ConfigurationWindow.Designer.cs
+msgid "Open another WeSay project..."
+msgstr "Abrir otro proyecto WeSay..."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\ConfigurationWindow.Designer.cs
+msgid "Open in WeSay"
+msgstr "Abrir en WeSay"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\ConfigurationWindow.Designer.cs
+msgid "Open this in WeSay"
+msgstr "Abrir esto en WeSay"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\ConfigurationWindow.Designer.cs
+msgid "version"
+msgstr "versión"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\ConfigurationWindow.Designer.cs
+msgid "&About WeSay"
+msgstr "&Acerca de WeSay"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\ConfigurationWindow.Designer.cs
+msgid "WeSay Configuration Tool"
+msgstr "Herramienta de Configuración WeSay"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldDetailControl.Designer.cs
+msgid "Name for display"
+msgstr "Nombre para mostrar"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldDetailControl.Designer.cs
+msgid "Name in file"
+msgstr "Nombre en archivo"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldDetailControl.Designer.cs
+msgid "Belongs to"
+msgstr "Pertenece a"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldDetailControl.Designer.cs
+msgid "Data Type"
+msgstr "Tipo de Dato"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldDetailControl.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\SettingsControl.Designer.cs
+msgid "Writing Systems"
+msgstr "Sistemas de Escritura"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldDetailControl.Designer.cs
+msgid "Normally hidden if empty"
+msgstr "Normalmente oculto si está vacío"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldDetailControl.Designer.cs
+msgid "Description"
+msgstr "Descripción"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldDetailControl.Designer.cs
+msgid "Visibility"
+msgstr "Visibilidad"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldDetailControl.Designer.cs
+msgid "Spelling"
+msgstr "Ortografía"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldDetailControl.Designer.cs
+msgid "Option List File"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldDetailControl.Designer.cs
+msgid "Enable spell checking"
+msgstr "Habilitar Corrección Ortográfica"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldDetailControl.Designer.cs
 #, fuzzy
-msgid "WeSay"
-msgstr "NosotrosDecimos"
+msgid "Spellchecking has not been installed on this machine. Please install Enchant to e"
+msgstr "La Corrección Ortográfica no ha sido instalada en esta máquina. Por favor instale "
 
-#. The label for the field holding the citation form.
-msgid "CitationForm"
-msgstr "TipoCita"
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldDetailControl.Designer.cs
+msgid "Paragraph"
+msgstr "Párrafo"
 
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldDetailControl.Designer.cs
+msgid "Allow multiple paragraphs"
+msgstr "Permitir párrafos múltiples"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldsControl.cs
+#. Checkin description when setting the description of field in WeSay Configuration Tool.
+msgid "Set description of field '{0}'"
+msgstr "Establecer descripción del campo '{0}'"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldsControl.cs
+#. Checkin description when setting the kind of field in WeSay Configuration Tool.
+msgid "Set class of field '{0}'"
+msgstr "Establecer clase del campo '{0}'"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldsControl.cs
+#. Checkin description when enabling a field in WeSay Configuration Tool.
+msgid "Enabled field '{0}'"
+msgstr "Campo '{0}' habilitado"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldsControl.cs
+#. Checkin description when disabling a field in WeSay Configuration Tool.
+msgid "Disabled field '{0}'"
+msgstr "Campo '{0}' deshabilitado"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldsControl.cs
+#. Checkin description When adding a new field in WeSay Configuration Tool.
+msgid "Added field"
+msgstr "Campo añadido"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldsControl.cs
+#. Checkin description when deleting a field in WeSay Configuration Tool.
+msgid "Remove field '{0}'"
+msgstr "Remover campo '{0}'"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldsControl.cs
+#. Checkin description when moving a field in WeSay Configuration Tool.
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldsControl.cs
+#. Checkin description when moving a field in WeSay Configuration Tool.
+msgid "Adjusted field order"
+msgstr "Orden de campo ajustada"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldsControl.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\OptionListControl.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\SettingsControl.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WritingSystemSetup.Designer.cs
+msgid "toolStrip1"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldsControl.Designer.cs
+msgid "New Field"
+msgstr "Nuevo Campo"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldsControl.Designer.cs
+msgid "Delete Field"
+msgstr "Borrar Campo"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldsControl.Designer.cs
+msgid "Setup"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FieldsControl.Designer.cs
+msgid "Check each field you want WeSay to display. "
+msgstr "Marque cada campo que quiere que WeSay muestre. "
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FontControl.cs
+#. Checkin description in WeSay Config Tool used when you change the Font of a writing system.
+msgid "Changed Font of '{0}' to '{1}'"
+msgstr "Fuente de '{0}' cambiada a '{1}'"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\FontControl.designer.cs
+msgid "Text Sample Area:"
+msgstr "Área de Texto de ejemplo:"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\InterfaceLanguageControl.cs
+#. Checkin Description in WeSay Config Tool used when you change the User Interface language.
+msgid "Changed UI Language to {0}"
+msgstr "Lenguaje de Interfaz de Usuario cambiado a {0}"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\InterfaceLanguageControl.Designer.cs
+msgid "Interface Font"
+msgstr "Fuente de Interfaz"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\InterfaceLanguageControl.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\SettingsControl.Designer.cs
+msgid "Interface Language"
+msgstr "Lenguaje de Interfaz"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProject.cs
+msgid "Unable to create a new project there."
+msgstr "No se puede crear un nuevo proyecto aquí."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProject.Designer.cs
+msgid "What would you like to call this project?"
+msgstr "¿Cómo desea llamar a este proyecto?"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProject.Designer.cs
+msgid "pathInfo"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProject.Designer.cs
+msgid "New Project"
+msgstr "Nuevo Proyecto"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProjectFromFLExDialog.Designer.cs
+msgid "Don't do this if you already have a corresponding WeSay project.  To learn how to add changes from FLEx to an existing WeSay project, read this web page."
+msgstr "No haga esto si ya tiene un proyecto WeSay.  Para aprender cómo agregar cambios desde FLEx a un proyecto WeSay existente, lea esta página."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProjectFromFLExDialog.Designer.cs
+msgid "Where is the LIFT file exported from FLEx?"
+msgstr "¿Dónde está el archivo Lift exportado desde FLEx?"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProjectFromFLExDialog.Designer.cs
+msgid "Create Project From FLEx LIFT Export"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProjectInformationDialog.Designer.cs
+msgid "(click here if you want it somewhere else)"
+msgstr "(presione aquí si lo quiere en otra parte)"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProjectInformationDialog.Designer.cs
+msgid "Your project has been created here:\\r\\n{0}"
+msgstr "Su proyecto ha sido creado aquí:\\r\\n{0}"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProjectInformationDialog.Designer.cs
+msgid "The project is ready to use: just click on \"Open in WeSay\" button in the upper-right.  Later, you can come back here and make adjustments."
+msgstr "Este proyecto está listo para usarse: sólo presione el botón \"Abrir en WeSay\" arriba a la derecha. Luego, puede volver aquí y hacer ajustes. "
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProjectInformationDialog.Designer.cs
+#, fuzzy
+msgid "One important adjustment is to edit the 'v' writing system, changing its ID to ma"
+msgstr "Un ajuste importante es editar el sistema de escritura 'v', cambiando su ID a ma"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\NewProjectCreation\NewProjectInformationDialog.Designer.cs
+msgid "New Project Information"
+msgstr "Nueva Información de Proyecto"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\OptionListControl.cs
+#. Checkin Description in WeSay Config Tool used when you edit an option list.
+msgid "Edited list for {0} field"
+msgstr "Lista editada para el campo {0}"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\OptionListControl.cs
+msgid "This project does not have any fields which use option lists."
+msgstr "Este proyecto no tiene ningún campo que use la lista de opciones."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\OptionListControl.Designer.cs
+msgid "Name"
+msgstr "Nombre"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\OptionListControl.Designer.cs
+msgid "New Option"
+msgstr "Nueva Opción"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\OptionListControl.Designer.cs
+msgid "Delete Option"
+msgstr "Borrar opción"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\OptionListControl.Designer.cs
+msgid "Field:"
+msgstr "Campo:"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\SettingsControl.Designer.cs
+msgid "Tasks"
+msgstr "Tareas"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\SettingsControl.Designer.cs
+msgid "Fields"
+msgstr "Campos"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\SettingsControl.Designer.cs
+msgid "Actions"
+msgstr "Acciones"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\SettingsControl.Designer.cs
+msgid "Option Lists"
+msgstr "Lista de Opciones"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\SettingsControl.Designer.cs
+msgid "Header"
+msgstr "Cabecera"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\TaskList.Designer.cs
+msgid "About this Task"
+msgstr "Acerca de esta Tarea"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\TaskList.Designer.cs
+msgid "Check each task you want to make available inside WeSay."
+msgstr "Marque cada tarea que desee hacer disponible dentro de WeSay."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\Tasks\DefaultTaskConfigurationControl.Designer.cs
+msgid "About this task: "
+msgstr "Acerca de esta tarea:"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\Tasks\DefaultTaskConfigurationControl.Designer.cs
+msgid "Setup: "
+msgstr "Establecer: "
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\Tasks\GatherBySemDomTaskConfigControl.Designer.cs
+msgid "Allow a short definition to be collected along with each word"
+msgstr "Permitir una definición breve para ser recolectada a lo largo de cada palabra"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\Tasks\MissingInfoTaskConfigControl.Designer.cs
+msgid "Select items where any of the following writing systems are empty:"
+msgstr "Seleccionar elementos donde cualquiera de los sistemas de escritura está vacío:"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\Tasks\MissingInfoTaskConfigControl.Designer.cs
+msgid "And where at least one of the following writing systems is already filled in:"
+msgstr "Y cuando a lo menos uno de los siguiente sistemas de escritura ya está completo:"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\Tasks\MissingInfoTaskConfigControl.Designer.cs
+msgid "Also show an editable translation field underneath the example"
+msgstr "También muestra un campo de traducción editable debajo del ejemplo"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\Tasks\TaskListView.cs
+#. Checkin Description in WeSay Config Tool used when you enable a task.
+msgid "Enabled {0}"
+msgstr "{0} habilitada"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\Tasks\TaskListView.cs
+#. Checkin Description in WeSay Config Tool used when you disable a task.
+msgid "Disabled {0}"
+msgstr "{0} deshabilitada"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\Tasks\TaskListView.Designer.cs
+msgid "Select which tasks to enable. "
+msgstr "Seleccione las tareas para habilitar."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\Tasks\WritingSystemFilterControl.Designer.cs
+msgid "menuStrip2"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\Tasks\WritingSystemFilterControl.Designer.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\Tasks\WritingSystemFilterControl.Designer.cs
+msgid "Any"
+msgstr "Cualquiera"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\Tasks\WritingSystemFilterControl.Designer.cs
+msgid "Voice"
+msgstr "Voz"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\Tasks\WritingSystemFilterControl.Designer.cs
+msgid "Tok Pisin"
+msgstr "Tok Pisin"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WelcomeControl.cs
+msgid "  "
+msgstr "  "
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WelcomeControl.Designer.cs
+msgid "Use this tool to create and configure WeSay Projects."
+msgstr "Use esta herramienta para crear y configurar proyectos WeSay."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WelcomeControl.Designer.cs
+msgid "   templateButton"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WelcomeControl.Designer.cs
+msgid "Template Label"
+msgstr "Plantilla de la Etiqueta"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WritingSystemBasic.cs
+#. Checkin Description in WeSay Config Tool used when you edit a writing system.
+#, fuzzy
+msgid "Modified {0} of Writing System {1}"
+msgstr "Sistema de Escritura {1} modificado {0}"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WritingSystemSetup.cs
+#. Checkin Description in WeSay Config Tool used when you remove a writing system.
+msgid "Removed writing system '{0}'"
+msgstr "Sistema de escritura '{0}' removido"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WritingSystemSetup.cs
+#. Checkin Description in WeSay Config Tool used when you add a writing system.
+msgid "Added writing system"
+msgstr "Sistema de escritura añadido"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WritingSystemSetup.Designer.cs
+msgid "New"
+msgstr "Nuevo"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WritingSystemSetup.Designer.cs
+msgid "Delete"
+msgstr "Borrar"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WritingSystemSetup.Designer.cs
+msgid "Basic"
+msgstr "Básico"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WritingSystemSetup.Designer.cs
+msgid "Font"
+msgstr "Fuente"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WritingSystemSetup.Designer.cs
+msgid "Sorting"
+msgstr "Ordenando"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WritingSystemSortControl.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WritingSystemSortControl.cs
+msgid "Changed Sort Rules of '{0}'"
+msgstr "Reglas de orden de '{0}' cambiadas"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WritingSystemSortControl.Designer.cs
+msgid "Sort as:"
+msgstr "Ordenar como:"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WritingSystemSortControl.Designer.cs
+msgid "pear\\r\\napple\\r\\norange\\r\\nmango\\r\\n"
+msgstr "pera\\r\\nmanzana\\r\\nnaranja\\r\\nmango\\r\\n"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WritingSystemSortControl.Designer.cs
+msgid "Test Sort"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.ConfigTool\WritingSystemSortControl.Designer.cs
+msgid "Help"
+msgstr "Ayuda"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project.Tests\BasilProjectTests.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project.Tests\BasilProjectTests.cs
+msgid "red"
+msgstr "rojo"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\ChorusBackupMaker.cs
+msgid "Wesay Automatic Backup"
+msgstr "Respaldo automático WeSay"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\FailedLoadTask.cs
+msgid "Failed To Load: {0}"
+msgstr "Fallo al cargar: {0}"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\FailedLoadTask.cs
+msgid "Error: {0}"
+msgstr "Error: {0}"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
+#. Label for action which uses Chorus to synchronize the dictionary with other users, devices, and servers. Here, 'synchronizing' means putting your changes in the repository, and getting changes that others have put in the repository. In English, we are going with Send/Receive because it is similar to email and this is the term Paratext uses.
+msgid "Send/Receive"
+msgstr "Enviar/Recibir"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
+#. description of send/receive action
+msgid "Sends your changes to usb key, server, or other users, and receives the changes made by other members of your team."
+msgstr "Enviar sus cambios a un dispositivo USB, servidor u otros usuarios y recibir los cambios hechos por otros miembros de su grupo."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
+msgid "WeSay Send/Receive"
+msgstr "WeSay Enviar/Recibir"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
+#. Long label for send/receive action.
+msgid "Send/Receive Changes to devices, servers, or other users on your network."
+msgstr "Enviar/Recibir cambios en dispositivo, servidores u otros usuarios en su red."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\ViewTemplate.cs
+#. The label for the field holding the citation form, which is how the word will be displayed in the dictionary.  This is used in languages where the lexeme form may be different from what the Headword should be.
+msgid "Citation Form"
+msgstr "Forma de Citado"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\ViewTemplate.cs
 #. The label for the field showing the definition of the word.
 msgid "Definition"
 msgstr "Definición"
 
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\ViewTemplate.cs
 #. The label for the field showing the literal meaning of idiom or proverb.
 msgid "Literal Meaning"
-msgstr "Significado literal"
+msgstr "Significado Literal"
 
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\ViewTemplate.cs
 #. The label for the field showing a note.
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\ViewTemplate.cs
 #. The label for the field showing a note.
 msgid "Note"
 msgstr "Nota"
 
-#. The label for the field showing Part Of Speech
-msgid "POS"
-msgstr "PDO"
-
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\ViewTemplate.cs
 #. The label for the field showing a picture.
 msgid "Picture"
-msgstr "Imagen"
+msgstr "Fotografía"
 
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\ViewTemplate.cs
+#. The label for the field showing Part Of Speech
+msgid "POS"
+msgstr "PdD"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\ViewTemplate.cs
 #. The label for the field showing an example use of the word.
 msgid "Example Sentence"
-msgstr "Frase de ejemplo"
+msgstr "Frase de Ejemplo"
 
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\ViewTemplate.cs
 #. The label for the field showing the example sentence translated into other languages.
 msgid "Example Translation"
-msgstr "Traducción de ejemplo"
+msgstr "Traducción de Ejemplo"
 
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\ViewTemplate.cs
 #. The label for the field showing Semantic Domains
 msgid "Sem Dom"
-msgstr "Dom Sem"
+msgstr "Dominios semánticos"
 
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\ViewTemplate.cs
 #. The label for the field showing the entry which this entry is derived from, is a subentry of, etc.
 msgid "Base Form"
 msgstr "Forma Base"
 
+#: c:\src\sil\WeSay\bld\..\src\WeSay.Project\ViewTemplate.cs
+msgid "Cross Reference"
+msgstr "Referencia cruzada"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI.Tests\AutoCompleteWithCreationBoxTests.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI.Tests\ReferenceCollectionEditorTests.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI.Tests\ReferenceCollectionEditorTests.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI.Tests\ReferenceCollectionEditorTests.cs
+msgid "two"
+msgstr "dos"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI.Tests\BindingTests.cs
+msgid "aaa"
+msgstr "aaa"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI.Tests\GhostBindingTests.cs
+msgid "John"
+msgstr "John"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI.Tests\GhostBindingTests.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI.Tests\GhostBindingTests.cs
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI.Tests\GhostBindingTests.cs
+msgid "Samuel"
+msgstr "Samuel"
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI\CheckBoxControl.Designer.cs
+msgid "checkBox1"
+msgstr ""
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI\PictureControl.Designer.cs
+msgid "Choose Image File..."
+msgstr "Seleccionar un archivo de imagen..."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI\PictureControl.Designer.cs
+msgid "Search Gallery..."
+msgstr "Buscar Galería..."
+
+#: c:\src\sil\WeSay\bld\..\src\WeSay.UI\SingleOptionControl.cs
 #. This is shown in a combo-box (list of options, like Part Of Speech) when no option has been chosen, or the user just doesn't know what to put in this field.
 msgid "unknown"
 msgstr "desconocido"
