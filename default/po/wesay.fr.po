@@ -1,19 +1,19 @@
-# French translation for wesay
-# Copyright (c) 2007 Rosetta Contributors and Canonical Ltd 2007
-# This file is distributed under the same license as the wesay package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2007.
-#
-"Project-Id-Version: wesay\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2009-03-03 06:45+0000\n"
-"PO-Revision-Date: 2009-04-23 21:25+0000\n"
-"Last-Translator: David Rowe <Unknown>\n"
+msgid ""
+msgstr ""
+"Project-Id-Version: WeSay\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Cambell <cambell.prince@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2010-02-02 20:40+0000\n"
-"X-Generator: Launchpad (build Unknown)\n"
+"X-Poedit-Language: French\n"
+
+# Project-Id-Version: WeSay
+# Report-Msgid-Bugs-To: hattonjohn@gmail.com
+# POT-Creation-Date: 2010-09-20T08:39:08
+# Content-Type: text/plain; charset=UTF-8
 
 msgid "Add example sentences to senses where they are missing."
 msgstr "Ajouter des phrases illustratives aux sens qui en manquent."
@@ -26,9 +26,7 @@ msgstr "En train de sauvegarder..."
 
 #. description of syncrhonize action
 msgid "Updates the repository with our work, and gets the work of others."
-msgstr ""
-"Mettre à jour le dépôt avec notre travail, puis charger le travail des "
-"autres."
+msgstr "Mettre à jour le dépôt avec notre travail, puis charger le travail des autres."
 
 msgid "View Report"
 msgstr "Afficher le rapport"
@@ -82,17 +80,8 @@ msgstr "Phrases illustratives"
 msgid "Base Forms"
 msgstr "Formes de base"
 
-msgid ""
-"Identify the \"base form\" word that this word is built from. In the printed "
-"dictionary, the derived or variant words can optionally be shown as "
-"subentries of their base forms."
-msgstr ""
-"Identifier la \"forme de base\" sur laquelle ce mot est construit.  Dans le "
-"dictionnaire imprimé, les mots dérivés ou variants peuvent parfois être "
-"presentés comme sous-entrées de leurs formes de base."
-
-
-msgstr "En train de détecter des clefs USB..."
+msgid "Identify the \"base form\" word that this word is built from. In the printed dictionary, the derived or variant words can optionally be shown as subentries of their base forms."
+msgstr "Identifier la \"forme de base\" sur laquelle ce mot est construit.  Dans le dictionnaire imprimé, les mots dérivés ou variants peuvent parfois être presentés comme sous-entrées de leurs formes de base."
 
 msgid "Backup Complete"
 msgstr "Fin de la sauvegarde"
@@ -162,21 +151,14 @@ msgstr "Exporter vers Word"
 msgid "Export to HTML"
 msgstr "Exporter en HTML"
 
-msgid ""
-"Creates a simple Html version of the dictionary.  Not a very good way to go."
-msgstr ""
-"Crée une simple version Html du dictionnaire. Ce n'est pas une bonne "
-"solution."
+msgid "Creates a simple Html version of the dictionary.  Not a very good way to go."
+msgstr "Crée une simple version Html du dictionnaire. Ce n'est pas une bonne solution."
 
 msgid "Open in Lexique Pro"
 msgstr "Ouvrir dans Lexique Pro"
 
-msgid ""
-"Open dictionary in Lexique Pro for printing or web-page creation. Requires "
-"version LP ver 3.0 or higher."
-msgstr ""
-"Ouvrir le dictionnaire dans Lexique Pro pour imprimer ou créer une page web. "
-"Nécessite LP en version 3.0 ou supérieure."
+msgid "Open dictionary in Lexique Pro for printing or web-page creation. Requires version LP ver 3.0 or higher."
+msgstr "Ouvrir le dictionnaire dans Lexique Pro pour imprimer ou créer une page web. Nécessite LP en version 3.0 ou supérieure."
 
 msgid "Export To SFM"
 msgstr "Exporter en SFM"
@@ -222,15 +204,10 @@ msgid "See all {0} {1} words."
 msgstr "Afficher tous les {0} mots du dictionnaire (1)."
 
 #. This is shown in the Gather By Semantic Domains task after each semantic domain question. The questions contain example words to help clarify what the domain is about, and this was added to remind the user that he/she is gathering based on the domain, not these examples.
-msgid ""
-"Do not just translate these words; instead think of words in your own "
-"language."
-msgstr ""
-"Ne vous contentez pas de simplement traduire ces mots, mais pensez à des "
-"mots dans votre propre langue."
+msgid "Do not just translate these words; instead think of words in your own language."
+msgstr "Ne vous contentez pas de simplement traduire ces mots, mais pensez à des mots dans votre propre langue."
 
 #. This is the field containing an example sentence of a sense of a word.
-
 msgid "Example"
 msgstr "Exemple"
 
