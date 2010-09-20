@@ -587,7 +587,6 @@ msgstr "ความหมาย"
 #. the domain is about, and this was added to remind the user that he/she is
 #. gathering based on the domain, not these examples.
 #: C\src\sil\wesay\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainTask.cs
-#, fuzzy
 msgid "Do not just translate these words; instead think of words in your own language."
 msgstr "แปลโดยไม่ต้องคิดถึงคำในคำในภาษานั้น ๆ"
 
@@ -671,7 +670,7 @@ msgstr ""
 
 #: C\src\sil\wesay\bld\..\src\WeSay.AddinLib\ActionItemControl.cs
 msgid "Make invisible in WeSay"
-msgstr ""
+msgstr "ทำให้ WeSay ไม่ปรากฏ"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
 msgid "blah blah blah"
@@ -681,31 +680,34 @@ msgstr ""
 #: C\src\sil\wesay\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
 #, fuzzy
 msgid "Action Name"
-msgstr "การทำงาน"
+msgstr "ชื่อผู้ใช้ระบบปฏิบัติการ"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
 msgid "Set up..."
-msgstr ""
+msgstr "ตั้งค่า"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+#, fuzzy
 msgid "Visible In WeSay"
-msgstr ""
+msgstr "ทำให้ปรากฏใน WeSay"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
 msgid "More Info..."
-msgstr ""
+msgstr "ข้อมูลเพิ่มเติม"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.AddinLib\ActionSetupDialog.Designer.cs
+#, fuzzy
 msgid "Setup Action..."
-msgstr ""
+msgstr "ตั้งค่าระบบปฏิบัติการ"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\CommandLineParser.cs
+#, fuzzy
 msgid "Count number of lines in the input text."
-msgstr ""
+msgstr "นับจำนวนบรรทัดในการเพิ่มเข้าของข้อความ"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\CommandLineParser.cs
 msgid "Count number of words in the input text."
-msgstr ""
+msgstr "นับจำนวนคำในการเพิ่มเข้าของข้อความ"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\CommandLineParser.cs
 msgid "Count number of chars in the input text."
@@ -713,26 +715,24 @@ msgstr ""
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\CommandLineParser.cs
 msgid "Input files to count."
-msgstr ""
+msgstr "เพิ่มแฟ้มเข้าเพื่อนับ"
 
 #. Shown at the bottom of the screen.
 # ; ..\src\CommonTools\DictionaryStatusControl.Designer.cs
 #: C\src\sil\wesay\bld\..\src\WeSay.App\StatusBarController.cs
-#, fuzzy
 msgid "Dictionary has {0} words"
 msgstr "พจนานุกรมของท่านมี {0} คำ"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "error"
-msgstr ""
+msgstr "ล้มเหลว"
 
 #. Appended to the name of a task, in its tab, while the user is waiting for
 #. the task to come up.
 # ; ..\src\Addin.Backup\BackupDialog.cs
 #: C\src\sil\wesay\bld\..\src\WeSay.App\TabbedForm.cs
-#, fuzzy
 msgid "Loading..."
-msgstr "ข้อมูลสำรอง"
+msgstr "กำลังโหลด"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\TabbedForm.Designer.cs
 msgid "tabPage2"
@@ -740,7 +740,7 @@ msgstr ""
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Please wait while WeSay prepares your data"
-msgstr ""
+msgstr "กรุณารอในขณะที่ WeSay กำลังเตรียมข้อมูล"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
