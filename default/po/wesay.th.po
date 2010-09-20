@@ -173,12 +173,10 @@ msgid "Lexicon Report"
 msgstr "ดูการแสดงผลพจนานุกรม"
 
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\Report.Designer.cs
-#, fuzzy
 msgid "Entries Contents"
 msgstr "การส่งเข้าเนื้อหา"
 
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\Report.Designer.cs
-#, fuzzy
 msgid "Senses Contents"
 msgstr "เนื้อหาที่มีความหมายหลาย ๆ อย่าง"
 
