@@ -316,7 +316,7 @@ msgstr "นำออกไปสู่ SFM"
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\SfmTransformer.cs
 #, fuzzy
 msgid "Saves the lexicon in a form of standard format."
-msgstr "จัดเก็บรายการคำในรูปแบบ SFM"
+msgstr "จัดเก็บพจนุกรมในรูปแบบมาตราฐาน SFM"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\Xhtml\XHtml.cs
 #, fuzzy
@@ -416,15 +416,15 @@ msgstr "คำนี้ไม่มีรูปแบบพื้นฐาน"
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\AddPictures\AddPicturesControl.Designer.cs
 msgid "Search Words"
-msgstr ""
+msgstr "ค้นหาคำ"
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\AddPictures\AddPicturesControl.Designer.cs
 msgid "Search"
-msgstr ""
+msgstr "ค้นหา"
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\CongratulationsControl.Designer.cs
 msgid "✔"
-msgstr ""
+msgstr "✔"
 
 #. The label for the 'dashboard'; the task which lets you see the status of
 #. other tasks and jump to them.
@@ -445,7 +445,6 @@ msgstr ""
 
 # ; ..\src\CommonTools\DictionaryStatusControl.Designer.cs
 #: C\src\sil\wesay\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
-#, fuzzy
 msgid "{1} dictionary has {0} words"
 msgstr "พจนานุกรมของท่านมี {0} คำ"
 
@@ -545,7 +544,6 @@ msgstr "Enter"
 
 # ; ..\src\LexicalTools\GatherBySemanticDomainsControl.Designer.cs
 #: C\src\sil\wesay\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
-#, fuzzy
 msgid "Try thinking of words you use to talk about these things."
 msgstr "ลองคิดคำที่ใช้เพื่อจะพูดถึงสิ่งนี้"
 
@@ -570,7 +568,6 @@ msgstr "แปลโดยไม่ต้องคิดถึงคำในค
 
 # ; ..\src\LexicalTools\GatherWordListControl.Designer.cs
 #: C\src\sil\wesay\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
-#, fuzzy
 msgid "Try thinking of ways to say these words in your language."
 msgstr "ลองคิดวิธีพูดคำนี้ในภาษาของท่าน"
 
