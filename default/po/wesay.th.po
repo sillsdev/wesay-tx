@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-02-05 09:12+0000\n"
-"X-Poedit-Language: Thai\n"
 "X-Generator: Launchpad (build Unknown)\n"
+"X-Poedit-Language: Thai\n"
 
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
@@ -606,18 +606,18 @@ msgstr "ไม่โดดเด่น"
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
 #: C\src\sil\wesay\bld\..\src\LexicalTools\TaskBase.cs
-#, fuzzy
 msgid "Remaining:"
-msgstr "ความหมาย"
+msgstr "คงเหลือ"
 
 #. Generic description of how many total items there are in a task.
 #: C\src\sil\wesay\bld\..\src\LexicalTools\TaskBase.cs
 msgid "Total:"
-msgstr ""
+msgstr "รวม"
 
 #: C\src\sil\wesay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+#, fuzzy
 msgid "Refresh"
-msgstr ""
+msgstr "Refresh"
 
 #: C\src\sil\wesay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Key"
@@ -641,7 +641,7 @@ msgstr ""
 
 #: C\src\sil\wesay\bld\..\src\WeSay.AddinLib\ActionItemControl.cs
 msgid "Make visible in WeSay"
-msgstr ""
+msgstr "ทำให้ WeSay ปรากฏ"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.AddinLib\ActionItemControl.cs
 msgid "Make invisible in WeSay"
@@ -653,7 +653,6 @@ msgstr ""
 
 # ; ..\src\CommonTools\ActionsControl.cs
 #: C\src\sil\wesay\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
-#, fuzzy
 msgid "Action Name"
 msgstr "ชื่อผู้ใช้ระบบปฏิบัติการ"
 
