@@ -53,31 +53,26 @@ msgstr "ระบุว่า \"รูปแบบพื้นฐาน\" ขอ
 
 # ; ..\src\Addin.Backup\BackupDialog.cs
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\BackupDialog.cs
-#, fuzzy
 msgid "Looking for USB Keys..."
 msgstr "ค้นหาอุปกรณ์เก็บข้อมูล USB"
 
 # ; ..\src\Addin.Backup\BackupDialog.cs
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\BackupDialog.cs
-#, fuzzy
 msgid "Backing Up..."
 msgstr "กำลังสำรองข้อมูล"
 
 # ; ..\src\Addin.Backup\BackupDialog.cs
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\BackupDialog.cs
-#, fuzzy
 msgid "Backup Complete"
 msgstr "เสร็จสิ้นการสำรองข้อมูล"
 
 # ; ..\src\Addin.Backup\BackupDialog.cs
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\BackupDialog.cs
-#, fuzzy
 msgid "Files backed up to {0}"
 msgstr "แฟ้มข้อมูลถูกสำรองไว้ใน {0}"
 
 # ; ..\src\Addin.Backup\BackupDialog.cs
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\BackupDialog.cs
-#, fuzzy
 msgid "Files were not backed up."
 msgstr "ยังไม่มีการสำรองแฟ้มข้อมูล"
 
@@ -92,7 +87,6 @@ msgstr "&ตกลง"
 
 # ; ..\src\Addin.Backup\BackupDialog.cs
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\BackupDialog.cs
-#, fuzzy
 msgid "Please insert the USB Key to backup to."
 msgstr "โปรดติดตั้งอุปกรณ์เก็บข้อมูล USB เพื่อสำรองข้อมูล"
 
@@ -120,14 +114,12 @@ msgstr "ยกเลิก"
 # ; ..\src\Addin.Backup\BackupToDevice.cs
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\BackupToDevice.cs
-#, fuzzy
 msgid "Backup To USB Flash Drive"
 msgstr "สำรองข้อมูลลงในอุปกรณ์"
 
 #. description of usb backup action
 # ; ..\src\Addin.Backup\BackupToDevice.cs
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\BackupToDevice.cs
-#, fuzzy
 msgid "Saves a backup on an external device, like a USB key."
 msgstr "เก็บข้อมูลสำรองในอุปกรณ์เชื่อมต่อภายนอก เช่น อุปกรณ์เก็บข้อมูล USB"
 
@@ -138,30 +130,29 @@ msgstr "สำรองข้อมูล"
 
 # ; ..\src\Addin.Backup\SendProjectEmail.cs
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\SendProjectEmail.cs
-#, fuzzy
 msgid "Email this dictionary to {0}"
-msgstr "ส่งงานทางอีเมลถึง {0}"
+msgstr "ส่งพจนานุกรมทางอีเมลถึง {0}"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\SendProjectEmail.cs
 msgid "Email this dictionary as a compressed attachment"
-msgstr ""
+msgstr "อีเมลพจนุกรมโดยการบีบอัดข้อมูลเพื่อแนบไปด้วย"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\SendProjectEmail.cs
 msgid "The latest WeSay project data is attached."
-msgstr ""
+msgstr "ชิ้นงานล่าสุดของWeSayที่ถูกแนบมาด้วย"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\SendProjectEmail.cs
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
 msgid "Email"
-msgstr ""
+msgstr "อีเมล"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
 msgid "Recipient Name"
-msgstr ""
+msgstr "ชื่อผู้รับ"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
 msgid "Send Project Email Settings..."
-msgstr ""
+msgstr "การตั้งค่าการส่งชิ้นงานทางอีเมล"
 
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
 msgid "<"
