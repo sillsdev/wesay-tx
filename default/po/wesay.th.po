@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-02-05 09:12+0000\n"
-"X-Poedit-Language: Thai\n"
 "X-Generator: Launchpad (build Unknown)\n"
+"X-Poedit-Language: Thai\n"
 
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
@@ -97,7 +97,6 @@ msgid "Please insert the USB Key to backup to."
 msgstr "โปรดติดตั้งอุปกรณ์เก็บข้อมูล USB เพื่อสำรองข้อมูล"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\BackupDialog.cs
-#, fuzzy
 msgid "Unable to look for the device due to an error."
 msgstr "ไม่สามารถดูอุปกรณ์พิเศษในขณะที่เกิดความผิดพลาด"
 
@@ -166,11 +165,11 @@ msgstr ""
 
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
 msgid "<"
-msgstr ""
+msgstr "ก่อนหน้านี้"
 
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
 msgid ">"
-msgstr ""
+msgstr "ถัดไป"
 
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
 #: C\src\sil\wesay\bld\..\src\WeSay.UI\AutoCompleteTextBox\AutoCompleteWithCreationBox.Designer.cs
@@ -183,9 +182,8 @@ msgstr ""
 
 # ; ..\src\Addin.LiftReports\ReportMaker.cs
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\Report.Designer.cs
-#, fuzzy
 msgid "Lexicon Report"
-msgstr "ดูการแสดงผล"
+msgstr "ดูการแสดงผลพจนานุกรม"
 
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\Report.Designer.cs
 msgid "Entries Contents"
