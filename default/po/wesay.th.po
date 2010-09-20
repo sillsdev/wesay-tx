@@ -20,7 +20,6 @@ msgstr ""
 
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
-#, fuzzy
 msgid "Meanings"
 msgstr "ความหมาย"
 
@@ -28,7 +27,6 @@ msgstr "ความหมาย"
 msgid "Add meanings (senses) to entries where they are missing."
 msgstr "ป้อนความหมายของคำที่ยังไม่ได้รับการป้อน"
 
-#, fuzzy
 msgid "Parts of Speech"
 msgstr "ป้อนชนิดของคำ"
 
@@ -38,9 +36,8 @@ msgstr "ป้อนการแยกส่วนคำบรรยายสู
 
 # ; ..\src\LexicalTools\LexExampleSentenceLayouter.cs
 # ; ..\src\LexicalTools\LexExampleSentenceLayouter.cs
-#, fuzzy
 msgid "Example Sentences"
-msgstr "ตัวอย่าง"
+msgstr "ตัวอย่างประโยค"
 
 #, fuzzy
 msgid "Add example sentences to senses where they are missing."
@@ -100,16 +97,17 @@ msgid "Please insert the USB Key to backup to."
 msgstr "โปรดติดตั้งอุปกรณ์เก็บข้อมูล USB เพื่อสำรองข้อมูล"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\BackupDialog.cs
+#, fuzzy
 msgid "Unable to look for the device due to an error."
-msgstr ""
+msgstr "ไม่สามารถดูอุปกรณ์พิเศษในขณะที่เกิดความผิดพลาด"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
 msgid "status goes here"
-msgstr ""
+msgstr "สถานะในขณะนี้"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
 msgid "Secondary status goes here"
-msgstr ""
+msgstr "สถานะส่วนสำรองขณะนี้"
 
 # ; ..\src\Addin.Backup\BackupDialog.Designer.cs
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
@@ -137,7 +135,7 @@ msgstr "เก็บข้อมูลสำรองในอุปกรณ์
 #. Short buton label for usb flash-drive backup action
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\BackupToDevice.cs
 msgid "Backup"
-msgstr ""
+msgstr "สำรองข้อมูล"
 
 # ; ..\src\Addin.Backup\SendProjectEmail.cs
 #: C\src\sil\wesay\bld\..\src\Addin.Backup\SendProjectEmail.cs
