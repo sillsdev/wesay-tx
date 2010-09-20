@@ -23,14 +23,12 @@ msgstr ""
 msgid "Meanings"
 msgstr "ความหมาย"
 
-#, fuzzy
 msgid "Add meanings (senses) to entries where they are missing."
 msgstr "ป้อนความหมายของคำที่ยังไม่ได้รับการป้อน"
 
 msgid "Parts of Speech"
 msgstr "ป้อนชนิดของคำ"
 
-#, fuzzy
 msgid "Add parts of speech to senses where they are missing."
 msgstr "ป้อนการแยกส่วนคำบรรยายสู่ที่ที่ขาดความหมาย"
 
@@ -39,11 +37,9 @@ msgstr "ป้อนการแยกส่วนคำบรรยายสู
 msgid "Example Sentences"
 msgstr "ตัวอย่างประโยค"
 
-#, fuzzy
 msgid "Add example sentences to senses where they are missing."
 msgstr "ป้อนประโยคตัวอย่างของคำที่ยังไม่ได้รับการป้อน"
 
-#, fuzzy
 msgid "Base Forms"
 msgstr "รูปแบบพื้นฐาน"
 
@@ -190,19 +186,16 @@ msgstr ""
 
 # ; ..\src\Addin.LiftReports\ReportMaker.cs
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\ReportMaker.cs
-#, fuzzy
 msgid "View Report"
 msgstr "ดูการแสดงผล"
 
 # ; ..\src\Addin.LiftReports\ReportMaker.cs
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\ReportMaker.cs
-#, fuzzy
 msgid "Shows some information about the lexicon."
-msgstr "แสดงข้อมูลเกี่ยวกับรายการคำ"
+msgstr "แสดงข้อมูลเกี่ยวกับพจนานุกรม"
 
 # ; ..\src\Addin.LiftReports\ReportMaker.cs
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\ReportMaker.cs
-#, fuzzy
 msgid "Report"
 msgstr "ดูการแสดงผล"
 
@@ -230,7 +223,6 @@ msgstr "สร้างคำแปล HTML แบบง่ายในพจน
 
 # ; ..\src\Addin.Backup\BackupDialog.cs
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
-#, fuzzy
 msgid "Backing up..."
 msgstr "กำลังสำรองข้อมูล"
 
