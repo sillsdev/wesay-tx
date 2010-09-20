@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-02-05 09:12+0000\n"
-"X-Poedit-Language: Thai\n"
 "X-Generator: Launchpad (build Unknown)\n"
+"X-Poedit-Language: Thai\n"
 
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
@@ -282,7 +282,7 @@ msgstr "สร้างพจนานุกรมโดยใช้Pdf"
 # ; ..\src\CommonTools\DashboardControl.cs
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "Tweaks"
-msgstr ""
+msgstr "กดเข้า"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "Language Output"
@@ -305,8 +305,9 @@ msgid "Vernacular"
 msgstr "ภาษาพื้นเมือง"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+#, fuzzy
 msgid "Setup Standard Format Export..."
-msgstr ""
+msgstr "คำอธิบาย"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\SfmTransformer.cs
 msgid "Export To SFM"
@@ -620,24 +621,29 @@ msgid "Refresh"
 msgstr "Refresh"
 
 #: C\src\sil\wesay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+#, fuzzy
 msgid "Key"
-msgstr ""
+msgstr "Key"
 
 #: C\src\sil\wesay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+#, fuzzy
 msgid "Value"
-msgstr ""
+msgstr "Value"
 
 #: C\src\sil\wesay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+#, fuzzy
 msgid "Placeholder for control which uses generics so breaks the designer"
-msgstr ""
+msgstr "Placeholder for control which uses generics so breaks the designer"
 
 #: C\src\sil\wesay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+#, fuzzy
 msgid "Reference Collection"
-msgstr ""
+msgstr "Reference Collection"
 
 #: C\src\sil\wesay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+#, fuzzy
 msgid "Source Collection"
-msgstr ""
+msgstr "Source Collection"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.AddinLib\ActionItemControl.cs
 msgid "Make visible in WeSay"
@@ -648,8 +654,9 @@ msgid "Make invisible in WeSay"
 msgstr "ทำให้ WeSay ไม่ปรากฏ"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+#, fuzzy
 msgid "blah blah blah"
-msgstr ""
+msgstr "blah blah blah"
 
 # ; ..\src\CommonTools\ActionsControl.cs
 #: C\src\sil\wesay\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
@@ -681,8 +688,9 @@ msgid "Count number of words in the input text."
 msgstr "นับจำนวนคำในการเพิ่มเข้าของข้อความ"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\CommandLineParser.cs
+#, fuzzy
 msgid "Count number of chars in the input text."
-msgstr ""
+msgstr "Count number of chars in the input text."
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\CommandLineParser.cs
 msgid "Input files to count."
@@ -715,11 +723,11 @@ msgstr "กรุณารอในขณะที่ WeSay กำลังเ�
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
-msgstr ""
+msgstr "หนทางเข้าสู่ Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Language to show the user interface in."
-msgstr ""
+msgstr "ภาษาที่ใช้แสดงในหน้าของผู้่ใช้"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\WeSayApp.cs
 #, fuzzy
@@ -727,8 +735,9 @@ msgid "Start without a user interface (will have no effect if WeSay is already r
 msgstr "Start without a user interface (will have no effect if WeSay is already running with a UI."
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\WeSayApp.cs
+#, fuzzy
 msgid "Some things, like backup, just gum up automated tests.  This is used to turn them off."
-msgstr ""
+msgstr "Some things, like backup, just gum up automated tests.  This is used to turn them off."
 
 #: C\src\sil\wesay\bld\..\src\WeSay.Project\ChorusBackupMaker.cs
 msgid "Wesay Automatic Backup"
