@@ -292,30 +292,31 @@ msgid "About Make Pdf Dictionary"
 msgstr ""
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\PdfDictionary\PdfMaker.cs
+#, fuzzy
 msgid "Make Pdf Dictionary"
-msgstr ""
+msgstr "สร้างพจนานุกรมโดยใช้Pdf"
 
 # ; ..\src\CommonTools\DashboardControl.cs
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
-#, fuzzy
 msgid "Tweaks"
-msgstr "งาน"
+msgstr ""
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+#, fuzzy
 msgid "Language Output"
-msgstr ""
+msgstr "ภาษาที่ส่งออก"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "English"
-msgstr ""
+msgstr "ภาษาอังกฤษ"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "National"
-msgstr ""
+msgstr "ภาษาประจำชาติ"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "Regional"
-msgstr ""
+msgstr "ภาษาประจำถิ่น"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "Vernacular"
@@ -357,23 +358,23 @@ msgstr "ไม่พบ {0}"
 #: C\src\sil\wesay\bld\..\src\Image Picker Test
 #: App\ImagePicker\ImageDisplayWidget.Designer.cs
 msgid "Choose Image..."
-msgstr ""
+msgstr "เลือกรูปภาพ"
 
 #: C\src\sil\wesay\bld\..\src\Image Picker Test
 #: App\ImagePicker\ImageDisplayWidget.Designer.cs
 #: C\src\sil\wesay\bld\..\src\WeSay.UI\PictureControl.Designer.cs
 msgid "What is the problem?"
-msgstr ""
+msgstr "ปัญหานี้คืออะไร"
 
 #: C\src\sil\wesay\bld\..\src\Image Picker Test
 #: App\ImagePicker\ImageDisplayWidget.Designer.cs
 #: C\src\sil\wesay\bld\..\src\WeSay.UI\PictureControl.Designer.cs
 msgid "Remove Image..."
-msgstr ""
+msgstr "ย้ายภาพ"
 
 #: C\src\sil\wesay\bld\..\src\LexicalModel\Foundation\WritingSystem.cs
 msgid "Not installed"
-msgstr ""
+msgstr "ยังไม่ติดตั้ง"
 
 #. This is what shows for a word in a list when the user hasn't yet typed
 #. anything in for the word.  Like if you click the 'New Word' button
@@ -388,15 +389,17 @@ msgstr ""
 #: C\src\sil\wesay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
 #: C\src\sil\wesay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
 msgid "Empty"
-msgstr ""
+msgstr "ว่าง"
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoConfiguration.cs
+#, fuzzy
 msgid "Entries without this:"
-msgstr ""
+msgstr "ป้อนเข้าโดยปราศจากสิ่งนี้"
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoConfiguration.cs
+#, fuzzy
 msgid "Total Entries:"
-msgstr ""
+msgstr "ป้อนเข้าทั้งหมด"
 
 # ; ..\src\LexicalTools\MissingInfoControl.cs
 #: C\src\sil\wesay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
