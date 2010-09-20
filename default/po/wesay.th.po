@@ -687,7 +687,6 @@ msgid "Set up..."
 msgstr "ตั้งค่า"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
-#, fuzzy
 msgid "Visible In WeSay"
 msgstr "ทำให้ปรากฏใน WeSay"
 
@@ -696,12 +695,10 @@ msgid "More Info..."
 msgstr "ข้อมูลเพิ่มเติม"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.AddinLib\ActionSetupDialog.Designer.cs
-#, fuzzy
 msgid "Setup Action..."
 msgstr "ตั้งค่าระบบปฏิบัติการ"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\CommandLineParser.cs
-#, fuzzy
 msgid "Count number of lines in the input text."
 msgstr "นับจำนวนบรรทัดในการเพิ่มเข้าของข้อความ"
 
@@ -862,7 +859,7 @@ msgstr "รูปแบบพื้นฐาน"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Cross Reference"
-msgstr ""
+msgstr "คำที่เกี่ยวข้อง"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.UI\CheckBoxControl.Designer.cs
 msgid "checkBox1"
@@ -870,11 +867,11 @@ msgstr ""
 
 #: C\src\sil\wesay\bld\..\src\WeSay.UI\PictureControl.Designer.cs
 msgid "Choose Image File..."
-msgstr ""
+msgstr "เลือกแฟ้มภาพ"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.UI\PictureControl.Designer.cs
 msgid "Search Gallery..."
-msgstr ""
+msgstr "หาจากห้องภาพ"
 
 #. This is shown in a combo-box (list of options, like Part Of Speech) when no
 #. option has been chosen, or the user just doesn't know what to put in this
