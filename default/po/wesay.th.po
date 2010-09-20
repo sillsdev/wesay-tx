@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-02-05 09:12+0000\n"
-"X-Generator: Launchpad (build Unknown)\n"
 "X-Poedit-Language: Thai\n"
+"X-Generator: Launchpad (build Unknown)\n"
 
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
@@ -161,11 +161,11 @@ msgstr "ถัดไป"
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
 #: C\src\sil\wesay\bld\..\src\WeSay.UI\AutoCompleteTextBox\AutoCompleteWithCreationBox.Designer.cs
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
 msgid "-"
-msgstr ""
+msgstr "-"
 
 # ; ..\src\Addin.LiftReports\ReportMaker.cs
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\Report.Designer.cs
@@ -173,16 +173,18 @@ msgid "Lexicon Report"
 msgstr "ดูการแสดงผลพจนานุกรม"
 
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\Report.Designer.cs
+#, fuzzy
 msgid "Entries Contents"
-msgstr ""
+msgstr "การส่งเข้าเนื้อหา"
 
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\Report.Designer.cs
+#, fuzzy
 msgid "Senses Contents"
-msgstr ""
+msgstr "เนื้อหาที่มีความหมายหลาย ๆ อย่าง"
 
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\Report.Designer.cs
 msgid "label4"
-msgstr ""
+msgstr "label4"
 
 # ; ..\src\Addin.LiftReports\ReportMaker.cs
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\ReportMaker.cs
@@ -202,7 +204,7 @@ msgstr "ดูการแสดงผล"
 #: C\src\sil\wesay\bld\..\src\Addin.LiftReports\XPathChart.Designer.cs
 #: C\src\sil\wesay\bld\..\src\WeSay.App\LongStartupNotification.Designer.cs
 msgid "label1"
-msgstr ""
+msgstr "label1"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\HtmlInWord.cs
 msgid "Export to Word"
@@ -236,27 +238,27 @@ msgstr "เราบอก"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
 msgid "http://lexiquepro.com"
-msgstr ""
+msgstr "http://lexiquepro.com"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
 msgid "http://lexiquepro.com/test.htm"
-msgstr ""
+msgstr "http://lexiquepro.com/test.htm"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
 msgid "About Lexique Pro"
-msgstr ""
+msgstr "เกี่ยวกับ Lexique Pro"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\LexiquePro\LexiqueProSender.cs
 msgid "Open in Lexique Pro"
-msgstr ""
+msgstr "เปิดใช้ Lexique Pro"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\LexiquePro\LexiqueProSender.cs
 msgid "Open dictionary in Lexique Pro for printing or web-page creation. Requires version LP ver 3.0 or higher."
-msgstr ""
+msgstr "เปิดพจนานุกรมในLexique Pro ปริ๊น หรือ การสร้าง web - page ต้องใช้ เวอร์ชั่น LP เวอร์ชั่น 3.0 หรือรุ่นที่สูงกว่า"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 msgid "Save in OpenOffice"
-msgstr ""
+msgstr "บันทึกใน OpenOffice"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 msgid "Open Document Text"
@@ -264,11 +266,11 @@ msgstr "เปิดข้อความในเอกสาร"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
 msgid "http://princexml.com"
-msgstr ""
+msgstr "http://princexml.com"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
 msgid "http://wesay.org/wiki/MakePdfDictionary"
-msgstr ""
+msgstr "http://wesay.org/wiki/MakePdfDictionary"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
 #, fuzzy
@@ -302,7 +304,7 @@ msgstr "ภาษาประจำถิ่น"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "Vernacular"
-msgstr ""
+msgstr "ภาษาพื้นเมือง"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "Setup Standard Format Export..."
