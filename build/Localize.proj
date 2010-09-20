@@ -3,7 +3,7 @@
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Target Name="UpdatePot">
 	<!-- Update using mercurial -->
-	<Exec Command='hg commit -m "palaso_admin updated deafult/po/WeSay.pot" ../default/po/WeSay.pot'
+	<Exec Command='hg commit -u "bob" -m "palaso_admin updated deafult/po/WeSay.pot" ../default/po/WeSay.pot'
 		  WorkingDirectory="$(BaseDirectory)"/>
 	<Exec Command='hg push "$(PushRepo)"'
 		  WorkingDirectory="$(BaseDirectory)"/>
