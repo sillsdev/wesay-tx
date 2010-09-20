@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-02-05 09:12+0000\n"
-"X-Generator: Launchpad (build Unknown)\n"
 "X-Poedit-Language: Thai\n"
+"X-Generator: Launchpad (build Unknown)\n"
 
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
@@ -328,7 +328,7 @@ msgstr "นำออกไปที่ HTML"
 #: App\ImagePicker\Form1.Designer.cs
 #: C\src\sil\wesay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Form1"
-msgstr ""
+msgstr "Form1"
 
 # ; ..\src\Image Picker Test App\ImagePicker\ImageDisplayWidget.cs
 #: C\src\sil\wesay\bld\..\src\Image Picker Test
@@ -442,7 +442,7 @@ msgstr "สลับงานและดูสถานะปัจจุบั
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\Dashboard\Dash.Designer.cs
 msgid "NOTE: This control should be the same size as the initial tab page size so the in"
-msgstr ""
+msgstr "NOTE: This control should be the same size as the initial tab page size so the in"
 
 # ; ..\src\CommonTools\DictionaryStatusControl.Designer.cs
 #: C\src\sil\wesay\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
@@ -451,15 +451,15 @@ msgstr "พจนานุกรมของท่านมี {0} คำ"
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\Dashboard\GroupHeader.designer.cs
 msgid "_label"
-msgstr ""
+msgstr "_label"
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\Dashboard\TaskIndicator.designer.cs
 msgid "Gather from Foo words"
-msgstr ""
+msgstr "Gather from Foo words"
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\Dashboard\TaskIndicator.designer.cs
 msgid "See words in Foo, write the same words in Boo"
-msgstr ""
+msgstr "See words in Foo, write the same words in Boo"
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
 msgid "&Delete"
@@ -526,7 +526,7 @@ msgstr "ดูคำทั้งหมด {0} ใน {1}"
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\SearchBoxControl.Designer.cs
 msgid "en"
-msgstr ""
+msgstr "en"
 
 #. The label for the field showing the Lexeme Form of the entry.
 # ; ..\src\LexicalTools\GatherBySemanticDomainsControl.Designer.cs
@@ -539,9 +539,8 @@ msgstr "คำ"
 # ; ..\src\LexicalTools\GatherWordListControl.Designer.cs
 #: C\src\sil\wesay\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 #: C\src\sil\wesay\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
-#, fuzzy
 msgid "(Enter Key)"
-msgstr "Enter"
+msgstr "เข้าสู่"
 
 # ; ..\src\LexicalTools\GatherBySemanticDomainsControl.Designer.cs
 #: C\src\sil\wesay\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
@@ -579,7 +578,7 @@ msgstr "คำ"
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Foobar"
-msgstr ""
+msgstr "Foobar"
 
 #. This is the field containing an example sentence of a sense of a word.
 #. This is the field containing an example sentence of a sense of a word.
@@ -616,7 +615,6 @@ msgid "Total:"
 msgstr "รวม"
 
 #: C\src\sil\wesay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
-#, fuzzy
 msgid "Refresh"
 msgstr "Refresh"
 
