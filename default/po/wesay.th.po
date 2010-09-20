@@ -268,7 +268,7 @@ msgstr ""
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 msgid "Open Document Text"
-msgstr ""
+msgstr "เปิดข้อความในเอกสาร"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
 msgid "http://princexml.com"
@@ -279,8 +279,9 @@ msgid "http://wesay.org/wiki/MakePdfDictionary"
 msgstr ""
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
+#, fuzzy
 msgid "About Make Pdf Dictionary"
-msgstr ""
+msgstr "เกี่ยวกับการสร้างพจนานุกรมโดยใช้ Pdf"
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\PdfDictionary\PdfMaker.cs
 msgid "Make Pdf Dictionary"
@@ -340,7 +341,6 @@ msgstr ""
 #: C\src\sil\wesay\bld\..\src\Image Picker Test
 #: App\ImagePicker\ImageDisplayWidget.cs
 #: C\src\sil\wesay\bld\..\src\WeSay.UI\PictureControl.cs
-#, fuzzy
 msgid "Cannot find {0}"
 msgstr "ไม่พบ {0}"
 
@@ -390,13 +390,11 @@ msgstr "ป้อนเข้าทั้งหมด"
 
 # ; ..\src\LexicalTools\MissingInfoControl.cs
 #: C\src\sil\wesay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
-#, fuzzy
 msgid "Congratulations. You have completed this task."
 msgstr "ขอแสดงความยินดี ท่านทำงานชิ้นนี้เสร็จแล้ว"
 
 # ; ..\src\LexicalTools\MissingInfoControl.cs
 #: C\src\sil\wesay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
-#, fuzzy
 msgid "There is no work left to be done on this task."
 msgstr "ไม่มีสิ่งที่ต้องทำในงานชิ้นนี้แล้ว"
 
@@ -406,7 +404,6 @@ msgstr "ต้องทำ"
 
 # ; ..\src\Addin.Backup\BackupDialog.cs
 #: C\src\sil\wesay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.Designer.cs
-#, fuzzy
 msgid "Completed:"
 msgstr "ข้อมูลสำรองที่สมบูรณ์"
 
@@ -416,14 +413,12 @@ msgstr "ข้อมูลสำรองที่สมบูรณ์"
 #: C\src\sil\wesay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.Designer.cs
 #: C\src\sil\wesay\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 #: C\src\sil\wesay\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
-#, fuzzy
 msgid "(Page Down Key)"
-msgstr "Page Down"
+msgstr "เลื่อนลง"
 
 #. The user will click this to say that this word has no baseform.  E.g.
 #. Kindness has Kind as a baseform, but Kind has no other word as a baseform.
 #: C\src\sil\wesay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoViewMaker.cs
-#, fuzzy
 msgid "&This word has no Base Form"
 msgstr "คำนี้ไม่มีรูปแบบพื้นฐาน"
 
