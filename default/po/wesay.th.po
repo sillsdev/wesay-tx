@@ -619,27 +619,22 @@ msgid "Refresh"
 msgstr "Refresh"
 
 #: C\src\sil\wesay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
-#, fuzzy
 msgid "Key"
 msgstr "Key"
 
 #: C\src\sil\wesay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
-#, fuzzy
 msgid "Value"
 msgstr "Value"
 
 #: C\src\sil\wesay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
-#, fuzzy
 msgid "Placeholder for control which uses generics so breaks the designer"
 msgstr "Placeholder for control which uses generics so breaks the designer"
 
 #: C\src\sil\wesay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
-#, fuzzy
 msgid "Reference Collection"
 msgstr "Reference Collection"
 
 #: C\src\sil\wesay\bld\..\src\RelationControlTestApp\Form1.Designer.cs
-#, fuzzy
 msgid "Source Collection"
 msgstr "Source Collection"
 
@@ -652,7 +647,6 @@ msgid "Make invisible in WeSay"
 msgstr "ทำให้ WeSay ไม่ปรากฏ"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
-#, fuzzy
 msgid "blah blah blah"
 msgstr "blah blah blah"
 
@@ -686,7 +680,6 @@ msgid "Count number of words in the input text."
 msgstr "นับจำนวนคำในการเพิ่มเข้าของข้อความ"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\CommandLineParser.cs
-#, fuzzy
 msgid "Count number of chars in the input text."
 msgstr "Count number of chars in the input text."
 
@@ -728,12 +721,10 @@ msgid "Language to show the user interface in."
 msgstr "ภาษาที่ใช้แสดงในหน้าของผู้่ใช้"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\WeSayApp.cs
-#, fuzzy
 msgid "Start without a user interface (will have no effect if WeSay is already running with a UI."
 msgstr "Start without a user interface (will have no effect if WeSay is already running with a UI."
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\WeSayApp.cs
-#, fuzzy
 msgid "Some things, like backup, just gum up automated tests.  This is used to turn them off."
 msgstr "Some things, like backup, just gum up automated tests.  This is used to turn them off."
 
