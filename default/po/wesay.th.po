@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-02-05 09:12+0000\n"
-"X-Generator: Launchpad (build Unknown)\n"
 "X-Poedit-Language: Thai\n"
+"X-Generator: Launchpad (build Unknown)\n"
 
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
@@ -733,7 +733,7 @@ msgstr "กำลังโหลด"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\TabbedForm.Designer.cs
 msgid "tabPage2"
-msgstr ""
+msgstr "tabPage2"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Please wait while WeSay prepares your data"
@@ -748,8 +748,9 @@ msgid "Language to show the user interface in."
 msgstr ""
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\WeSayApp.cs
+#, fuzzy
 msgid "Start without a user interface (will have no effect if WeSay is already running with a UI."
-msgstr ""
+msgstr "Start without a user interface (will have no effect if WeSay is already running with a UI."
 
 #: C\src\sil\wesay\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Some things, like backup, just gum up automated tests.  This is used to turn them off."
@@ -757,15 +758,15 @@ msgstr ""
 
 #: C\src\sil\wesay\bld\..\src\WeSay.Project\ChorusBackupMaker.cs
 msgid "Wesay Automatic Backup"
-msgstr ""
+msgstr "WeSay สำรองข้อมูลอัตโนมัติ"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.Project\FailedLoadTask.cs
 msgid "Failed To Load: {0}"
-msgstr ""
+msgstr "ล้มเหลวในการโหลดข้อมูล"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.Project\FailedLoadTask.cs
 msgid "Error: {0}"
-msgstr ""
+msgstr "ล้มเหลว{0}"
 
 #. Label for action which uses Chorus to synchronize the dictionary with other
 #. users, devices, and servers. Here, 'synchronizing' means putting your
@@ -774,21 +775,21 @@ msgstr ""
 #. similar to email and this is the term Paratext uses.
 #: C\src\sil\wesay\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid "Send/Receive"
-msgstr ""
+msgstr "ส่ง/รับ"
 
 #. description of send/receive action
 #: C\src\sil\wesay\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid "Sends your changes to usb key, server, or other users, and receives the changes made by other members of your team."
-msgstr ""
+msgstr "ส่งการเปลี่ยนแปลงของคุณผ่าน usb, server,หรือผู้ใช้อื่น หรือรับการเปลี่ยนแปลงของสมาชิกอื่น ๆ ในทีมของคุณเอง"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid "WeSay Send/Receive"
-msgstr ""
+msgstr "WeSay ส่ง/รับ"
 
 #. Long label for send/receive action.
 #: C\src\sil\wesay\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid "Send/Receive Changes to devices, servers, or other users on your network."
-msgstr ""
+msgstr "ส่ง/รับ การเปลี่ยนแปลงอุปกรณ์พิเศษ,server,หรือ ผู้ใช้คนอื่นในระบบเครือข่าย"
 
 #. The label for the field holding the citation form, which is how the word
 #. will be displayed in the dictionary.  This is used in languages where the
@@ -823,7 +824,6 @@ msgstr "รูปภาพ"
 # ; ..\src\WeSay.Project\ViewTemplate.cs
 # ; ..\src\WeSay.Project\ViewTemplate.cs
 #: C\src\sil\wesay\bld\..\src\WeSay.Project\ViewTemplate.cs
-#, fuzzy
 msgid "POS"
 msgstr "หน้าที่ของคำ"
 
@@ -831,17 +831,15 @@ msgstr "หน้าที่ของคำ"
 # ; ..\src\LexicalTools\LexExampleSentenceLayouter.cs
 # ; ..\src\LexicalTools\LexExampleSentenceLayouter.cs
 #: C\src\sil\wesay\bld\..\src\WeSay.Project\ViewTemplate.cs
-#, fuzzy
 msgid "Example Sentence"
-msgstr "ตัวอย่าง"
+msgstr "ตัวอย่างประโยค"
 
 #. The label for the field showing the example sentence translated into other
 #. languages.
 # ; ..\src\LexicalTools\LexExampleSentenceLayouter.cs
 #: C\src\sil\wesay\bld\..\src\WeSay.Project\ViewTemplate.cs
-#, fuzzy
 msgid "Example Translation"
-msgstr "คำแปล"
+msgstr "ตัวอย่าคำแปล"
 
 #. The label for the field showing Semantic Domains
 # ; ..\src\WeSay.Project\ViewTemplate.cs
@@ -863,7 +861,7 @@ msgstr "คำที่เกี่ยวข้อง"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.UI\CheckBoxControl.Designer.cs
 msgid "checkBox1"
-msgstr ""
+msgstr "checkBox1"
 
 #: C\src\sil\wesay\bld\..\src\WeSay.UI\PictureControl.Designer.cs
 msgid "Choose Image File..."
