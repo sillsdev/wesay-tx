@@ -292,7 +292,6 @@ msgid "About Make Pdf Dictionary"
 msgstr ""
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\PdfDictionary\PdfMaker.cs
-#, fuzzy
 msgid "Make Pdf Dictionary"
 msgstr "สร้างพจนานุกรมโดยใช้Pdf"
 
@@ -302,7 +301,6 @@ msgid "Tweaks"
 msgstr ""
 
 #: C\src\sil\wesay\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
-#, fuzzy
 msgid "Language Output"
 msgstr "ภาษาที่ส่งออก"
 
@@ -392,12 +390,10 @@ msgid "Empty"
 msgstr "ว่าง"
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoConfiguration.cs
-#, fuzzy
 msgid "Entries without this:"
 msgstr "ป้อนเข้าโดยปราศจากสิ่งนี้"
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoConfiguration.cs
-#, fuzzy
 msgid "Total Entries:"
 msgstr "ป้อนเข้าทั้งหมด"
 
@@ -489,15 +485,15 @@ msgstr ""
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
 msgid "&Delete"
-msgstr ""
+msgstr "&ลบ"
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
 msgid "This will permanently remove this entry."
-msgstr ""
+msgstr "สิ่งนี้จะถูกลบออกจากการป้อนอย่างถาวร"
 
 #: C\src\sil\wesay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
 msgid "Confirm Delete"
-msgstr ""
+msgstr "ยืนยันการลบ"
 
 #. The label for the task that lets you see all entries, search for entries,
 #. and edit various fields.  We don't like the English name very much, so feel
@@ -508,9 +504,8 @@ msgstr ""
 #. much, so feel free to call this something very different in the language
 #. you are translating to.
 #: C\src\sil\wesay\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryBrowseAndEditConfiguration.cs
-#, fuzzy
 msgid "Dictionary Browse && Edit"
-msgstr "ดูข้อมูลในพจนานุกรมและแก้ไข"
+msgstr "หาข้อมูลในพจนานุกรมและแก้ไข"
 
 #. This is what shows if the user is listing words by the glossing language,
 #. but the word doesn't have a gloss.
@@ -592,8 +587,9 @@ msgstr "ความหมาย"
 #. the domain is about, and this was added to remind the user that he/she is
 #. gathering based on the domain, not these examples.
 #: C\src\sil\wesay\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainTask.cs
+#, fuzzy
 msgid "Do not just translate these words; instead think of words in your own language."
-msgstr ""
+msgstr "แปลโดยไม่ต้องคิดถึงคำในคำในภาษานั้น ๆ"
 
 # ; ..\src\LexicalTools\GatherWordListControl.Designer.cs
 #: C\src\sil\wesay\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
