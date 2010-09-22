@@ -1,6 +1,6 @@
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2010-09-22T04:23:45
+# POT-Creation-Date: 2010-09-22T04:28:07
 # Content-Type: text/plain; charset=UTF-8
 
 
@@ -488,6 +488,18 @@ msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Try thinking of words you use to talk about these things."
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+msgid "Question goes here."
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+msgid "Description goes here."
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+msgid "\"Don't translate\" warning goes here."
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
