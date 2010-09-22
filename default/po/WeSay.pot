@@ -1,6 +1,6 @@
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2010-09-22T06:53:54
+# POT-Creation-Date: 2010-09-22T07:17:36
 # Content-Type: text/plain; charset=UTF-8
 
 
@@ -473,6 +473,26 @@ msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\SearchBoxControl.Designer.cs
 msgid "en"
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
+msgid "Semantic Domains"
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
+msgid "Gather Words By Semantic Domain"
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
+msgid "Collect new words organized by semantic domains and questions about those domains."
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
+msgid "Domains without words"
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
+msgid "Total domains:"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
