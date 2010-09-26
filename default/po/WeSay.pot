@@ -1,6 +1,6 @@
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2010-09-24T07:33:11
+# POT-Creation-Date: 2010-09-26T15:28:32
 # Content-Type: text/plain; charset=UTF-8
 
 
