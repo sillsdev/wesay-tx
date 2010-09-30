@@ -1,6 +1,6 @@
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2010-09-29T07:56:03
+# POT-Creation-Date: 2010-09-30T02:52:13
 # Content-Type: text/plain; charset=UTF-8
 
 
@@ -240,7 +240,7 @@ msgid "Save in OpenOffice"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
-msgid "Open Document Text"
+msgid "Make OpenOffice Document"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
