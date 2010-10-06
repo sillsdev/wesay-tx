@@ -1,4 +1,4 @@
-# WeSay Spanish Translation File
+# Spanish translation for wesay
 # Copyright (C) 2010
 # This file is distributed under the same license as the WeSay package.
 #
