@@ -133,7 +133,7 @@ msgstr "Nom du destinataire"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
 msgid "Send Project Email Settings..."
-msgstr ""
+msgstr "Configuration d'Envoyer projet par courriel..."
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
 msgid "<"
@@ -257,9 +257,10 @@ msgstr "À propos de Make Pdf Dictionary"
 msgid "Make Pdf Dictionary"
 msgstr "Créer un dictionnaire PDF"
 
+# in sense of "adjustments"
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "Tweaks"
-msgstr ""
+msgstr "Réglage"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "Language Output"
@@ -369,11 +370,12 @@ msgstr "À faire :"
 msgid "Completed:"
 msgstr "Complétées :"
 
+# Also found "PgDn" or "PgSuiv"
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.Designer.cs
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "(Page Down Key)"
-msgstr ""
+msgstr "(touche Page Suivante)"
 
 #. The user will click this to say that this word has no baseform.  E.g. Kindness has Kind as a baseform, but Kind has no other word as a baseform.
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoViewMaker.cs
@@ -401,9 +403,10 @@ msgstr "Accueil"
 msgid "Switch tasks and see current status of tasks"
 msgstr "Changer de tâche et voir l'état actuel des tâches"
 
+# not part of UI
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\Dash.Designer.cs
 msgid "NOTE: This control should be the same size as the initial tab page size so the in"
-msgstr ""
+msgstr "NOTE: This control should be the same size as the initial tab page size so the in"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
 msgid "{1} dictionary has {0} words"
@@ -469,9 +472,10 @@ msgstr "&Nouveau mot"
 msgid "See all {0} {1} words."
 msgstr "Afficher tous les {0} mots du dictionnaire (1)."
 
+# not part of UI (en=ISO code for English)
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\SearchBoxControl.Designer.cs
 msgid "en"
-msgstr ""
+msgstr "en"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid "Semantic Domains"
@@ -502,7 +506,7 @@ msgstr "Mot"
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "(Enter Key)"
-msgstr ""
+msgstr "(touche Entrée)"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Try thinking of words you use to talk about these things."
@@ -583,9 +587,10 @@ msgstr "Clé"
 msgid "Value"
 msgstr "Valeur"
 
+# not part of UI
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Placeholder for control which uses generics so breaks the designer"
-msgstr ""
+msgstr "Placeholder for control which uses generics so breaks the designer"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Reference Collection"
@@ -643,7 +648,7 @@ msgstr "Compter le nombre de caractères dans le texte source."
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\CommandLineParser.cs
 msgid "Input files to count."
-msgstr ""
+msgstr "Fichiers source à compter."
 
 #. Shown at the bottom of the screen.
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
@@ -777,7 +782,6 @@ msgstr "checkBox1"
 msgid "Choose Image File..."
 msgstr "Choisir un fichier d'image..."
 
-# Or "Rechercher galerie..." if we're looking for one rather than in one.
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
 msgid "Search Gallery..."
 msgstr "Rechercher dans la galerie..."
