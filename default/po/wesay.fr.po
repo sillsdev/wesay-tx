@@ -40,7 +40,7 @@ msgid "Base Forms"
 msgstr "Formes de base"
 
 msgid "Identify the \"base form\" word that this word is built from. In the printed dictionary, the derived or variant words can optionally be shown as subentries of their base forms."
-msgstr "Identifier la \"forme de base\" sur laquelle ce mot est construit.  Dans le dictionnaire imprimé, les mots dérivés ou variants peuvent parfois être presentés comme sous-entrées de leurs formes de base."
+msgstr "Identifier la \"forme de base\" sur laquelle ce mot est construit.  Dans le lexique imprimé, les mots dérivés ou variants peuvent parfois être presentés comme sous-entrées de leurs formes de base."
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Looking for USB Keys..."
@@ -52,7 +52,7 @@ msgstr "En train de sauvegarder..."
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Backup Complete"
-msgstr "Fin de la sauvegarde"
+msgstr "Fin de sauvegarde"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Files backed up to {0}"
@@ -77,7 +77,7 @@ msgstr "Veuillez insérer la clé USB pour la sauvegarde."
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Unable to look for the device due to an error."
-msgstr ""
+msgstr "Impossible de trouver le dispositif en raison d'une erreur."
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
 msgid "status goes here"
@@ -103,7 +103,7 @@ msgstr "Sauvegarder sur clé USB"
 #. description of usb backup action
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
 msgid "Saves a backup on an external device, like a USB key."
-msgstr "Sauvegarde vers un périphérique externe, comme une clé USB"
+msgstr "Sauvegarder vers un périphérique externe, comme une clé USB"
 
 #. Short buton label for usb flash-drive backup action
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
@@ -112,11 +112,11 @@ msgstr "Sauvegarder"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
 msgid "Email this dictionary to {0}"
-msgstr "Envoyer ce dictionnaire à {0}"
+msgstr "Envoyer ce lexique à {0}"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
 msgid "Email this dictionary as a compressed attachment"
-msgstr "Envoyer ce dictionnaire en tant que pièce jointe compresée"
+msgstr "Envoyer ce lexique en tant que pièce jointe compresée"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
 msgid "The latest WeSay project data is attached."
@@ -158,11 +158,11 @@ msgstr "Rapport de lexique"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
 msgid "Entries Contents"
-msgstr ""
+msgstr "Contenu des entrées"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
 msgid "Senses Contents"
-msgstr ""
+msgstr "Contenu des sens"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
 msgid "label4"
@@ -191,7 +191,7 @@ msgstr "Exporter vers Word"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlInWord.cs
 msgid "Creates a very basic dictionary publication in Microsoft Word."
-msgstr "Crée un dictionnaire très simple dans Microsoft Word."
+msgstr "Créer un lexique très simple dans Microsoft Word."
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
 msgid "Export to HTML"
@@ -199,7 +199,7 @@ msgstr "Exporter en HTML"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
 msgid "Creates a simple Html version of the dictionary.  Not a very good way to go."
-msgstr "Crée une simple version Html du dictionnaire. Ce n'est pas une bonne solution."
+msgstr "Créer un lexique très simple en HTML. Ce n'est pas une bonne solution."
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
 msgid "Backing up..."
@@ -231,7 +231,7 @@ msgstr "Ouvrir dans Lexique Pro"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\LexiqueProSender.cs
 msgid "Open dictionary in Lexique Pro for printing or web-page creation. Requires version LP ver 3.0 or higher."
-msgstr "Ouvrir le dictionnaire dans Lexique Pro pour imprimer ou créer une page web. Nécessite LP en version 3.0 ou supérieure."
+msgstr "Ouvrir le lexique dans Lexique Pro (version 3.0 ou supérieure) pour imprimer ou créer une page web."
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 msgid "Save in OpenOffice"
@@ -251,11 +251,11 @@ msgstr "http://wesay.org/wiki/MakePdfDictionary"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
 msgid "About Make Pdf Dictionary"
-msgstr "À propos de Make Pdf Dictionary"
+msgstr "À propos de Créer un lexique PDF"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\PdfMaker.cs
 msgid "Make Pdf Dictionary"
-msgstr "Créer un dictionnaire PDF"
+msgstr "Créer un lexique PDF"
 
 # in sense of "adjustments"
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
@@ -292,7 +292,7 @@ msgstr "Exporter en SFM"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SfmTransformer.cs
 msgid "Saves the lexicon in a form of standard format."
-msgstr "Sauvegarde le lexique sous une forme de format standard."
+msgstr "Enregistrer le lexique en format standard."
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\Xhtml\XHtml.cs
 msgid "Export to XHTML"
@@ -347,7 +347,7 @@ msgstr "Vide"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoConfiguration.cs
 msgid "Entries without this:"
-msgstr "Entrées sans ceci :"
+msgstr "Entrées qui en manquent :"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoConfiguration.cs
 msgid "Total Entries:"
@@ -410,19 +410,21 @@ msgstr "NOTE: This control should be the same size as the initial tab page size 
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
 msgid "{1} dictionary has {0} words"
-msgstr "Le dictionnaire {1} contient {0} mots"
+msgstr "Le lexique {1} contient {0} mots"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\GroupHeader.designer.cs
 msgid "_label"
 msgstr "_label"
 
+# not to be translated
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\TaskIndicator.designer.cs
 msgid "Gather from Foo words"
-msgstr ""
+msgstr "Gather from Foo words"
 
+# not to be translated
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\TaskIndicator.designer.cs
 msgid "See words in Foo, write the same words in Boo"
-msgstr ""
+msgstr "See words in Foo, write the same words in Boo"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
 msgid "&Delete"
@@ -440,7 +442,7 @@ msgstr "Confirmer la suppression"
 #. The long label for the task that lets you see all entries, search for entries, and edit various fields.  We don't like the English name very much, so feel free to call this something very different in the language you are translating to.
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryBrowseAndEditConfiguration.cs
 msgid "Dictionary Browse && Edit"
-msgstr "Parcourir et modifier le dictionnaire"
+msgstr "Parcourir et modifier le lexique"
 
 #. This is what shows if the user is listing words by the glossing language, but the word doesn't have a gloss.
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
@@ -461,7 +463,7 @@ msgstr "Afficher tous les champs"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.Designer.cs
 msgid "&Delete This Word"
-msgstr "&Supprimer ce mot"
+msgstr "Supprimer ce mot"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.Designer.cs
 msgid "&New Word"
@@ -470,7 +472,7 @@ msgstr "&Nouveau mot"
 #. The description of the 'Dictionary' task.  In place of the {0} will be the number of words in the dictionary.  In place of the {1} will be the name of the project.
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryTask.cs
 msgid "See all {0} {1} words."
-msgstr "Afficher tous les {0} mots du dictionnaire (1)."
+msgstr "Afficher tous les {0} mots du lexique {1}."
 
 # not part of UI (en=ISO code for English)
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\SearchBoxControl.Designer.cs
@@ -653,7 +655,7 @@ msgstr "Fichiers source à compter."
 #. Shown at the bottom of the screen.
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "Dictionary has {0} words"
-msgstr "Le dictionnaire contient {0} mots"
+msgstr "Le lexique contient {0} mots"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "error"
