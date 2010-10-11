@@ -7,16 +7,15 @@ msgstr ""
 "Project-Id-Version: wesay\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2010-09-22 14:38+0700\n"
-"Last-Translator: Cambell <cambell.prince@gmail.com>\n"
+"PO-Revision-Date: 2010-10-11 22:03+0700\n"
+"Last-Translator: Cambell Prince <cambell_prince@sil.org>\n"
 "Language-Team: Thai <th@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Launchpad-Export-Date: 2008-02-05 09:12+0000\n"
 "X-Poedit-Language: Thai\n"
-"X-Generator: Launchpad (build Unknown)\n"
+"X-Poedit-Country: THAILAND\n"
 
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
@@ -260,8 +259,9 @@ msgid "Save in OpenOffice"
 msgstr "บันทึกใน OpenOffice"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
-msgid "Open Document Text"
-msgstr "เปิดข้อความในเอกสาร"
+#, fuzzy
+msgid "Make OpenOffice Document"
+msgstr "บันทึกใน OpenOffice"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
 msgid "http://princexml.com"
@@ -568,7 +568,7 @@ msgstr "สถานะในขณะนี้"
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "\"Don't translate\" warning goes here."
-msgstr ""
+msgstr "x"
 
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
 # ; ..\src\LexicalTools\LexSenseLayouter.cs
@@ -743,6 +743,31 @@ msgstr "Start without a user interface (will have no effect if WeSay is already 
 msgid "Some things, like backup, just gum up automated tests.  This is used to turn them off."
 msgstr "Some things, like backup, just gum up automated tests.  This is used to turn them off."
 
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+#, fuzzy
+msgid "Gather"
+msgstr "รวบรวม"
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+#, fuzzy
+msgid "Describe"
+msgstr "บรรยาย"
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+#, fuzzy
+msgid "Refine"
+msgstr "ปรับแต่ง"
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+#, fuzzy
+msgid "Review"
+msgstr "การทบทวน"
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+#, fuzzy
+msgid "Share"
+msgstr "ส่วนแบ่ง"
+
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ChorusBackupMaker.cs
 msgid "Wesay Automatic Backup"
 msgstr "WeSay สำรองข้อมูลอัตโนมัติ"
@@ -855,6 +880,9 @@ msgstr "หาจากห้องภาพ"
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\SingleOptionControl.cs
 msgid "unknown"
 msgstr "ไม่ทราบ"
+
+#~ msgid "Open Document Text"
+#~ msgstr "เปิดข้อความในเอกสาร"
 
 #~ msgid "Add Meanings"
 #~ msgstr "ป้อนความหมาย"
