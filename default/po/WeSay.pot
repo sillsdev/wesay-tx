@@ -1,6 +1,6 @@
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2010-10-09T23:01:11
+# POT-Creation-Date: 2010-10-11T14:29:27
 # Content-Type: text/plain; charset=UTF-8
 
 
@@ -684,6 +684,26 @@ msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Some things, like backup, just gum up automated tests.  This is used to turn them off."
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Gather"
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Describe"
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Refine"
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Review"
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Share"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ChorusBackupMaker.cs
