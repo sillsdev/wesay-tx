@@ -690,6 +690,26 @@ msgstr "Commencer sans interface utilisateur (inutile si WeSay a été déjà la
 msgid "Some things, like backup, just gum up automated tests.  This is used to turn them off."
 msgstr "Certaines choses, comme la sauvegarde, interfèrent avec des tests automatisés. Ceci est utilisé pour les éteindre."
 
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Gather"
+msgstr "Rassembler"
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Describe"
+msgstr "Décrire"
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Refine"
+msgstr "Élaborer"
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Review"
+msgstr "Vérifier"
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Share"
+msgstr "Partager"
+
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ChorusBackupMaker.cs
 msgid "Wesay Automatic Backup"
 msgstr "Sauvegarde WeSay automatique"
