@@ -1,12 +1,10 @@
-# Indonesian translation for wesay
-# This file is distributed under the same license as the wesay package.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
 "POT-Creation-Date: 2011-01-31T04:35:21\n"
-"PO-Revision-Date: 2011-02-11 04:49+0000\n"
+"PO-Revision-Date: 2011-02-14 03:48+0000\n"
 "Last-Translator: palaso_admin <admin@palaso.org>\n"
 "Language-Team: Indonesian <>\n"
 "MIME-Version: 1.0\n"
