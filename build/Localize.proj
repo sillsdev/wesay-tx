@@ -49,7 +49,7 @@
 			<destination>wesay.vi.po</destination>
 		</URL>
 		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/zh_CN/file/">
-			<destination>wesay.zh_CH.po</destination>
+			<destination>wesay.zh_CN.po</destination>
 		</URL>
 		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/km/file/">
 			<destination>wesay.km.po</destination>
