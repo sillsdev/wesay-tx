@@ -1,11 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<RootDir>$(teamcity_build_checkoutDir)</RootDir>
+	</PropertyGroup>
 
-<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <Target Name="UpdatePot">
-	<!-- Update using mercurial -->
-	<Exec Command='hg commit -u "bob" -m "palaso_admin updated deafult/po/WeSay.pot" ../default/po/WeSay.pot'
-		  WorkingDirectory="$(BaseDirectory)"/>
-	<Exec Command='hg push "$(PushRepo)"'
-		  WorkingDirectory="$(BaseDirectory)"/>
-  </Target>
+	<Target Name="UpdatePot">
+		<!-- Update using mercurial -->
+		<Exec Command='hg commit -u "bob" -m "palaso_admin updated deafult/po/WeSay.pot" default/po/WeSay.pot'
+			WorkingDirectory="$(RootDir)"/>
+		<Exec Command='hg push "$(PushRepo)"'
+			WorkingDirectory="$(RootDir)"/>
+	</Target>
+
+	<Target Name="UpdatePo" DependsOnTargets="PullFromTransifex">
+		<!-- Update using mercurial -->
+		<Exec Command='hg commit -u "bob" -m "palaso_admin updated deafult/po/ files" default/po/*.po'
+			WorkingDirectory="$(RootDir)"/>
+		<Exec Command='hg push "$(PushRepo)"'
+			WorkingDirectory="$(RootDir)"/>
+	</Target>
+
+	<ItemGroup>
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/id/file/">
+			<destination>wesay.id.po</destination>
+		</URL>
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/fr/file/">
+			<destination>wesay.fr.po</destination>
+		</URL>
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/hi/file/">
+			<destination>wesay.hi.po</destination>
+		</URL>
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/th/file/">
+			<destination>wesay.th.po</destination>
+		</URL>
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/es/file/">
+			<destination>wesay.es.po</destination>
+		</URL>
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/lo/file/">
+			<destination>wesay.lo.po</destination>
+		</URL>
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/my/file/">
+			<destination>wesay.my.po</destination>
+		</URL>
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/ru/file/">
+			<destination>wesay.ru.po</destination>
+		</URL>
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/vi/file/">
+			<destination>wesay.vi.po</destination>
+		</URL>
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/zh_CN/file/">
+			<destination>wesay.zh_CH.po</destination>
+		</URL>
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/km/file/">
+			<destination>wesay.km.po</destination>
+		</URL>
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/az/file/">
+			<destination>wesay.az.po</destination>
+		</URL>
+	</ItemGroup>
+
+	<Target Name="PullFromTransifex">
+		<Exec Command="wget -O$(RootDir)\default\po\%(destination) @(URL)" WorkingDirectory="." />
+		<!--<WebDownload FileUri="@(URL)" FileName="%(destination)" />-->
+	</Target>
 </Project>
