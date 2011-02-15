@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
 "POT-Creation-Date: 2011-01-31T04:35:21\n"
-"PO-Revision-Date: 2011-02-14 04:17+0000\n"
-"Last-Translator: dcgordon <darcurgor72@gmail.com>\n"
+"PO-Revision-Date: 2011-02-15 08:17+0000\n"
+"Last-Translator: palaso_admin <admin@palaso.org>\n"
 "Language-Team: Lao <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -80,11 +80,11 @@ msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
 msgid "status goes here"
-msgstr ""
+msgstr "status goes here"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
 msgid "Secondary status goes here"
-msgstr ""
+msgstr "Secondary status goes here"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
@@ -161,11 +161,11 @@ msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
 msgid "Senses Contents"
-msgstr ""
+msgstr "Senses Contents"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
 msgid "label4"
-msgstr ""
+msgstr "label4"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\ReportMaker.cs
 msgid "View Report"
@@ -173,7 +173,7 @@ msgstr "ເບິ່ງການສະແດງຜົນ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\ReportMaker.cs
 msgid "Shows some information about the lexicon."
-msgstr ""
+msgstr "Shows some information about the lexicon."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\ReportMaker.cs
 msgid "Report"
@@ -182,7 +182,7 @@ msgstr "ການສະແດງຜົນ"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\XPathChart.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\LongStartupNotification.Designer.cs
 msgid "label1"
-msgstr ""
+msgstr "label1"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlInWord.cs
 msgid "Export to Word"
@@ -262,7 +262,7 @@ msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "Language Output"
-msgstr ""
+msgstr "Language Output"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "English"
@@ -300,7 +300,7 @@ msgstr "ນຳອອກໄປສູ່ XHTML"
 #: App\ImagePicker\Form1.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Form1"
-msgstr ""
+msgstr "Form1"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
 #: App\ImagePicker\ImageDisplayWidget.cs
@@ -404,7 +404,7 @@ msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\Dash.Designer.cs
 msgid "NOTE: This control should be the same size as the initial tab page size so the in"
-msgstr ""
+msgstr "NOTE: This control should be the same size as the initial tab page size so the in"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
 msgid "{1} dictionary has {0} words"
@@ -412,15 +412,15 @@ msgstr "{1} ວັດຈະນານຸກັມຂອງທ່ານມີ {0} 
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\GroupHeader.designer.cs
 msgid "_label"
-msgstr ""
+msgstr "_label"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\TaskIndicator.designer.cs
 msgid "Gather from Foo words"
-msgstr ""
+msgstr "Gather from Foo words"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\TaskIndicator.designer.cs
 msgid "See words in Foo, write the same words in Boo"
-msgstr ""
+msgstr "See words in Foo, write the same words in Boo"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
 msgid "&Delete"
@@ -482,7 +482,7 @@ msgstr "ເບິ່ງຄຳທັງໝົດ {0} ໃນ {1}"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\SearchBoxControl.Designer.cs
 msgid "en"
-msgstr ""
+msgstr "en"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid "Semantic Domains"
@@ -529,7 +529,7 @@ msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "\"Don't translate\" warning goes here."
-msgstr ""
+msgstr "\"Don't translate\" warning goes here."
 
 #. This label is shown once, but has two roles.  1) it labels the defintion
 #. field, and 2) marks the beginning of the set of fields which make up a
@@ -559,7 +559,7 @@ msgstr "ຄຳ:"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Foobar"
-msgstr ""
+msgstr "Foobar"
 
 #. This is the field containing an example sentence of a sense of a word.
 #. This is the field containing an example sentence of a sense of a word.
@@ -626,7 +626,7 @@ msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
 msgid "blah blah blah"
-msgstr ""
+msgstr "blah blah blah"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
 msgid "Action Name"
@@ -681,7 +681,7 @@ msgstr "ຂໍ້ມູນສຳຮອງ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\TabbedForm.Designer.cs
 msgid "tabPage2"
-msgstr ""
+msgstr "tabPage2"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Please wait while WeSay prepares your data"
@@ -697,11 +697,11 @@ msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Start without a user interface (will have no effect if WeSay is already running with a UI."
-msgstr ""
+msgstr "Start without a user interface (will have no effect if WeSay is already running with a UI."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Some things, like backup, just gum up automated tests.  This is used to turn them off."
-msgstr ""
+msgstr "Some things, like backup, just gum up automated tests.  This is used to turn them off."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
 msgid "Gather"
@@ -820,7 +820,7 @@ msgstr "ອ້າງອິງ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\CheckBoxControl.Designer.cs
 msgid "checkBox1"
-msgstr ""
+msgstr "checkBox1"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
 msgid "Choose Image File..."
