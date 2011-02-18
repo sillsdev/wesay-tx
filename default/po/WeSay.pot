@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
-"POT-Creation-Date: 2011-02-11T20:25:20\n"
+"POT-Creation-Date: 2011-02-18T17:30:01\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -12,13 +12,18 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-02-11T20:25:20
+# POT-Creation-Date: 2011-02-18T17:30:01
 # Content-Type: text/plain; charset=UTF-8
 
 
 
 
 msgid "Meanings"
+msgstr ""
+
+
+
+msgid "Add Meanings"
 msgstr ""
 
 
@@ -33,6 +38,11 @@ msgstr ""
 
 
 
+msgid "Add Parts of Speech"
+msgstr ""
+
+
+
 msgid "Add parts of speech to senses where they are missing."
 msgstr ""
 
@@ -43,12 +53,22 @@ msgstr ""
 
 
 
+msgid "Add Example Sentences"
+msgstr ""
+
+
+
 msgid "Add example sentences to senses where they are missing."
 msgstr ""
 
 
 
 msgid "Base Forms"
+msgstr ""
+
+
+
+msgid "Add Base Forms"
 msgstr ""
 
 
