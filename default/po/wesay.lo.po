@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-01-31T04:35:21\n"
-"PO-Revision-Date: 2011-02-15 08:17+0000\n"
+"POT-Creation-Date: 2011-02-11T20:25:20\n"
+"PO-Revision-Date: 2011-02-18 17:39+0000\n"
 "Last-Translator: palaso_admin <admin@palaso.org>\n"
 "Language-Team: Lao <>\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-01-31T04:35:21
+# POT-Creation-Date: 2011-02-11T20:25:20
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "ຄວາມໝາຍ"
@@ -38,8 +38,14 @@ msgstr "ປ້ອນປະໂຫຍກຕົວຢ່າງຂອງຄຳທີ
 msgid "Base Forms"
 msgstr "ຮູບແບບພື້ນຖານ"
 
-msgid "Identify the \"base form\" word that this word is built from. In the printed dictionary, the derived or variant words can optionally be shown as subentries of their base forms."
-msgstr "ລະບຸວ່າຮູບແບບພື້ນຖານຂອງຄຳໆ ມີຮາກສັບມາຈາກໃສ ໃນວັດຈະນານຸກົມທົ່ວໄປທີ່ຕີພິມຂຶ້ນມາເປັນປຶ້ມ ຈະມີໃຫ້ເຫັນພຽງແຕ່ເປັນຫົວຂໍ້ຍ່ອຍເທົ່ານັ້ນ"
+msgid ""
+"Identify the \"base form\" word that this word is built from. In the "
+"printed dictionary, the derived or variant words can optionally be "
+"shown as subentries of their base forms."
+msgstr ""
+"ລະບຸວ່າຮູບແບບພື້ນຖານຂອງຄຳໆ ມີຮາກສັບມາຈາກໃສ "
+"ໃນວັດຈະນານຸກົມທົ່ວໄປທີ່ຕີພິມຂຶ້ນມາເປັນປຶ້ມ "
+"ຈະມີໃຫ້ເຫັນພຽງແຕ່ເປັນຫົວຂໍ້ຍ່ອຍເທົ່ານັ້ນ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Looking for USB Keys..."
@@ -197,7 +203,9 @@ msgid "Export to HTML"
 msgstr "ນຳອອກໄປທີ່ HTML"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
-msgid "Creates a simple Html version of the dictionary.  Not a very good way to go."
+msgid ""
+"Creates a simple Html version of the dictionary.  Not a very good way "
+"to go."
 msgstr "ສ້າງຄຳແປ HTML ແບບງ່າຍໃນວັດຈະນານຸກັມ, ພ້ອມສຳລັບການພິມ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
@@ -229,8 +237,12 @@ msgid "Open in Lexique Pro"
 msgstr "ເປີດໃນ ໂປຣແກຣມ Lexique Pro"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\LexiqueProSender.cs
-msgid "Open dictionary in Lexique Pro for printing or web-page creation. Requires version LP ver 3.0 or higher."
-msgstr "ເປີດວັດຈະນານຸກັມໃນໂປຣແກຣມ Lexique Pro ສຳລັບການພິມຫຼືການສ້າງໜ້າເວັບ ຕ້ອງລຸ້ນ LP ver 3.0 ຫຼືສູງກວ່າ"
+msgid ""
+"Open dictionary in Lexique Pro for printing or web-page creation. "
+"Requires version LP ver 3.0 or higher."
+msgstr ""
+"ເປີດວັດຈະນານຸກັມໃນໂປຣແກຣມ Lexique Pro ສຳລັບການພິມຫຼືການສ້າງໜ້າເວັບ "
+"ຕ້ອງລຸ້ນ LP ver 3.0 ຫຼືສູງກວ່າ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 msgid "Save in OpenOffice"
@@ -403,8 +415,12 @@ msgid "Switch tasks and see current status of tasks"
 msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\Dash.Designer.cs
-msgid "NOTE: This control should be the same size as the initial tab page size so the in"
-msgstr "NOTE: This control should be the same size as the initial tab page size so the in"
+msgid ""
+"NOTE: This control should be the same size as the initial tab page size"
+" so the in"
+msgstr ""
+"NOTE: This control should be the same size as the initial tab page "
+"size so the in"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
 msgid "{1} dictionary has {0} words"
@@ -493,7 +509,9 @@ msgid "Gather Words By Semantic Domain"
 msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
-msgid "Collect new words organized by semantic domains and questions about those domains."
+msgid ""
+"Collect new words organized by semantic domains and questions about "
+"those domains."
 msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
@@ -546,7 +564,9 @@ msgstr "ຄວາມໝາຍ"
 #. the domain is about, and this was added to remind the user that he/she is
 #. gathering based on the domain, not these examples.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainTask.cs
-msgid "Do not just translate these words; instead think of words in your own language."
+msgid ""
+"Do not just translate these words; instead think of words in your own "
+"language."
 msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
@@ -696,12 +716,20 @@ msgid "Language to show the user interface in."
 msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
-msgid "Start without a user interface (will have no effect if WeSay is already running with a UI."
-msgstr "Start without a user interface (will have no effect if WeSay is already running with a UI."
+msgid ""
+"Start without a user interface (will have no effect if WeSay is already"
+" running with a UI."
+msgstr ""
+"Start without a user interface (will have no effect if WeSay is "
+"already running with a UI."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
-msgid "Some things, like backup, just gum up automated tests.  This is used to turn them off."
-msgstr "Some things, like backup, just gum up automated tests.  This is used to turn them off."
+msgid ""
+"Some things, like backup, just gum up automated tests.  This is used to"
+" turn them off."
+msgstr ""
+"Some things, like backup, just gum up automated tests.  This is used "
+"to turn them off."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
 msgid "Gather"
@@ -746,8 +774,12 @@ msgstr "ສົ່ງ / ຮັບ"
 
 #. description of send/receive action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
-msgid "Sends your changes to usb key, server, or other users, and receives the changes made by other members of your team."
-msgstr "ສົ່ງການປ່ຽນແປງຂອງທ່ານ USB ກຸນແຈ ເຊີບເວີ ຫຼືຄົນອື່ນໆ ແລະໄດ້ຮັບການປ່ຽນແປງໂດຍສະມາຊິກຄົນອື່ນຂອງທີມ"
+msgid ""
+"Sends your changes to usb key, server, or other users, and receives the"
+" changes made by other members of your team."
+msgstr ""
+"ສົ່ງການປ່ຽນແປງຂອງທ່ານ USB ກຸນແຈ ເຊີບເວີ ຫຼືຄົນອື່ນໆ "
+"ແລະໄດ້ຮັບການປ່ຽນແປງໂດຍສະມາຊິກຄົນອື່ນຂອງທີມ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid "WeSay Send/Receive"
@@ -755,8 +787,12 @@ msgstr "ເຮົາບອກ ສົ່ງ / ຮັບ"
 
 #. Long label for send/receive action.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
-msgid "Send/Receive Changes to devices, servers, or other users on your network."
-msgstr "ສົ່ງ / ຮັບ ການປ່ຽນແປງໄປຍັງອຸປະກອນທີ່ເຊີບເວີຫຼືຜູ້ໃຊ້ອື່ນໆ ໃນເຄືອຂ່າຍຂອງທ່ານ"
+msgid ""
+"Send/Receive Changes to devices, servers, or other users on your "
+"network."
+msgstr ""
+"ສົ່ງ / ຮັບ ການປ່ຽນແປງໄປຍັງອຸປະກອນທີ່ເຊີບເວີຫຼືຜູ້ໃຊ້ອື່ນໆ "
+"ໃນເຄືອຂ່າຍຂອງທ່ານ"
 
 #. The label for the field holding the citation form, which is how the word
 #. will be displayed in the dictionary.  This is used in languages where the

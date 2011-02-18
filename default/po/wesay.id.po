@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-01-31T04:35:21\n"
-"PO-Revision-Date: 2011-02-15 08:17+0000\n"
+"POT-Creation-Date: 2011-02-11T20:25:20\n"
+"PO-Revision-Date: 2011-02-18 17:39+0000\n"
 "Last-Translator: palaso_admin <admin@palaso.org>\n"
 "Language-Team: Indonesian <>\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-01-31T04:35:21
+# POT-Creation-Date: 2011-02-11T20:25:20
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "Artinya"
@@ -38,8 +38,14 @@ msgstr "Tambah contoh kalimat pada pengertian di mana belum ada."
 msgid "Base Forms"
 msgstr "Bentuk Dasar"
 
-msgid "Identify the \"base form\" word that this word is built from. In the printed dictionary, the derived or variant words can optionally be shown as subentries of their base forms."
-msgstr "Tentukanlah \"Bentuk Dasar\" kata dari mana kata ini dibuat. Dalam kamus yang dicetak, bentuk turunan atau varian boleh ditampilkan sebagai subentri dari bentuk dasarnya."
+msgid ""
+"Identify the \"base form\" word that this word is built from. In the "
+"printed dictionary, the derived or variant words can optionally be "
+"shown as subentries of their base forms."
+msgstr ""
+"Tentukanlah \"Bentuk Dasar\" kata dari mana kata ini dibuat. Dalam kamus"
+" yang dicetak, bentuk turunan atau varian boleh ditampilkan sebagai "
+"subentri dari bentuk dasarnya."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Looking for USB Keys..."
@@ -197,8 +203,12 @@ msgid "Export to HTML"
 msgstr "Salin Kamus dalam bentuk HTML"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
-msgid "Creates a simple Html version of the dictionary.  Not a very good way to go."
-msgstr "Membuat versi kamus dalam bentuk HTML yang sederhana.  Bukan cara yang terbaik."
+msgid ""
+"Creates a simple Html version of the dictionary.  Not a very good way "
+"to go."
+msgstr ""
+"Membuat versi kamus dalam bentuk HTML yang sederhana.  Bukan cara yang"
+" terbaik."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
 msgid "Backing up..."
@@ -229,8 +239,12 @@ msgid "Open in Lexique Pro"
 msgstr "Buka dengan Lexique Pro"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\LexiqueProSender.cs
-msgid "Open dictionary in Lexique Pro for printing or web-page creation. Requires version LP ver 3.0 or higher."
-msgstr "Buka kamus dengan Lexique Pro untuk mencetak atau membuat situs web. Untuk membukanya diperlukan Lexique Pro versi 3.0 atau lebih."
+msgid ""
+"Open dictionary in Lexique Pro for printing or web-page creation. "
+"Requires version LP ver 3.0 or higher."
+msgstr ""
+"Buka kamus dengan Lexique Pro untuk mencetak atau membuat situs web. "
+"Untuk membukanya diperlukan Lexique Pro versi 3.0 atau lebih."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 msgid "Save in OpenOffice"
@@ -290,7 +304,9 @@ msgstr "Salin Kamus ke Bentuk SFM"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SfmTransformer.cs
 msgid "Saves the lexicon in a form of standard format."
-msgstr "Menyimpan salinan kamus dalam bentuk SFM (format baku yang bisa dibuka dengan Lexique Pro atau Toolbox)."
+msgstr ""
+"Menyimpan salinan kamus dalam bentuk SFM (format baku yang bisa dibuka"
+" dengan Lexique Pro atau Toolbox)."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\Xhtml\XHtml.cs
 msgid "Export to XHTML"
@@ -403,8 +419,12 @@ msgid "Switch tasks and see current status of tasks"
 msgstr "Ganti tugas dan lihat status semua tugas"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\Dash.Designer.cs
-msgid "NOTE: This control should be the same size as the initial tab page size so the in"
-msgstr "NOTE: This control should be the same size as the initial tab page size so the in"
+msgid ""
+"NOTE: This control should be the same size as the initial tab page size"
+" so the in"
+msgstr ""
+"NOTE: This control should be the same size as the initial tab page "
+"size so the in"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
 msgid "{1} dictionary has {0} words"
@@ -493,8 +513,12 @@ msgid "Gather Words By Semantic Domain"
 msgstr "Kumpulkan Kata-kata Menurut Ruang Lingkup Maknanya"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
-msgid "Collect new words organized by semantic domains and questions about those domains."
-msgstr "Kumpulkan kata-kata baru berdasarkan ruang lingkup maknanya. Setiap ruang lingkup makna dijelaskan dengan pertanyaan dan contoh kata."
+msgid ""
+"Collect new words organized by semantic domains and questions about "
+"those domains."
+msgstr ""
+"Kumpulkan kata-kata baru berdasarkan ruang lingkup maknanya. Setiap "
+"ruang lingkup makna dijelaskan dengan pertanyaan dan contoh kata."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid "Domains without words"
@@ -517,7 +541,9 @@ msgstr "(Tombol \"Enter\")"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Try thinking of words you use to talk about these things."
-msgstr "Cobalah Anda pikirkan kata-kata apa saja yang biasa digunakan untuk membahas hal-hal ini."
+msgstr ""
+"Cobalah Anda pikirkan kata-kata apa saja yang biasa digunakan untuk "
+"membahas hal-hal ini."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Question goes here."
@@ -546,12 +572,18 @@ msgstr "Arti kata."
 #. the domain is about, and this was added to remind the user that he/she is
 #. gathering based on the domain, not these examples.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainTask.cs
-msgid "Do not just translate these words; instead think of words in your own language."
-msgstr "Jangan menerjemahkan kata ini begitu saja; lebih dari pada itu pikirkan kata-kata apa saja yang paling sesuai dalam bahasa Anda."
+msgid ""
+"Do not just translate these words; instead think of words in your own "
+"language."
+msgstr ""
+"Jangan menerjemahkan kata ini begitu saja; lebih dari pada itu "
+"pikirkan kata-kata apa saja yang paling sesuai dalam bahasa Anda."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Try thinking of ways to say these words in your language."
-msgstr "Cobalah Anda pikirkan bagaimana caranya untuk mengungkapkan kata-kata ini dalam bahasa Anda."
+msgstr ""
+"Cobalah Anda pikirkan bagaimana caranya untuk mengungkapkan kata-kata "
+"ini dalam bahasa Anda."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Word:"
@@ -689,19 +721,29 @@ msgstr "Tolong tunggu sementara KamusKita menyiapkan data Anda"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
-msgstr "Lokasi dari data LIFT XML (mis. dengan Windows: \"c:\\indo\\wesay\\indo.lift\")."
+msgstr ""
+"Lokasi dari data LIFT XML (mis. dengan Windows: "
+"\"c:\\indo\\wesay\\indo.lift\")."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Language to show the user interface in."
 msgstr "Bahasa untuk Antarmuka Pengguna."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
-msgid "Start without a user interface (will have no effect if WeSay is already running with a UI."
-msgstr "Mulai tanpa antarmuka pengguna (UI) - tak ada pengaruhnya kalau KamusKita sudah berjalan dengan antarmuka."
+msgid ""
+"Start without a user interface (will have no effect if WeSay is already"
+" running with a UI."
+msgstr ""
+"Mulai tanpa antarmuka pengguna (UI) - tak ada pengaruhnya kalau "
+"KamusKita sudah berjalan dengan antarmuka."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
-msgid "Some things, like backup, just gum up automated tests.  This is used to turn them off."
-msgstr "Beberapa hal, mis. \"Buat Data Cadangan\", mengacak-acak saja tes automatis. Inilah cara untuk matikannya."
+msgid ""
+"Some things, like backup, just gum up automated tests.  This is used to"
+" turn them off."
+msgstr ""
+"Beberapa hal, mis. \"Buat Data Cadangan\", mengacak-acak saja tes "
+"automatis. Inilah cara untuk matikannya."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
 msgid "Gather"
@@ -746,8 +788,12 @@ msgstr "Kirim/Terima"
 
 #. description of send/receive action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
-msgid "Sends your changes to usb key, server, or other users, and receives the changes made by other members of your team."
-msgstr "Mengirimkan perubahan data Anda ke flashdrive, server, atau pengguna lain, dan menerima perubahan data dari anggota lain dari tim Anda."
+msgid ""
+"Sends your changes to usb key, server, or other users, and receives the"
+" changes made by other members of your team."
+msgstr ""
+"Mengirimkan perubahan data Anda ke flashdrive, server, atau pengguna "
+"lain, dan menerima perubahan data dari anggota lain dari tim Anda."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid "WeSay Send/Receive"
@@ -755,8 +801,12 @@ msgstr "Kirim/Terima KamusKita"
 
 #. Long label for send/receive action.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
-msgid "Send/Receive Changes to devices, servers, or other users on your network."
-msgstr "Kirim/Terima perubahan data ke peranti, server atau pengguna lain di jaringan Anda."
+msgid ""
+"Send/Receive Changes to devices, servers, or other users on your "
+"network."
+msgstr ""
+"Kirim/Terima perubahan data ke peranti, server atau pengguna lain di "
+"jaringan Anda."
 
 #. The label for the field holding the citation form, which is how the word
 #. will be displayed in the dictionary.  This is used in languages where the
