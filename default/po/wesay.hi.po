@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-02-11T20:25:20\n"
-"PO-Revision-Date: 2011-02-18 17:39+0000\n"
+"POT-Creation-Date: 2011-02-18T17:30:01\n"
+"PO-Revision-Date: 2011-02-22 00:05+0000\n"
 "Last-Translator: palaso_admin <admin@palaso.org>\n"
 "Language-Team: Hindi <>\n"
 "MIME-Version: 1.0\n"
@@ -15,10 +15,13 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-02-11T20:25:20
+# POT-Creation-Date: 2011-02-18T17:30:01
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "अर्थ"
+
+msgid "Add Meanings"
+msgstr ""
 
 msgid "Add meanings (senses) to entries where they are missing."
 msgstr "प्रविष्टियों में अर्थ (तात्‍पर्य) जोड़ें, जहाँ वे अनुपस्‍थित हैं।"
@@ -26,11 +29,17 @@ msgstr "प्रविष्टियों में अर्थ (तात�
 msgid "Parts of Speech"
 msgstr "भाषण के हिस्‍से"
 
+msgid "Add Parts of Speech"
+msgstr ""
+
 msgid "Add parts of speech to senses where they are missing."
 msgstr "अर्थ में भाषण के हिस्‍सें जोड़ें, जहाँ वे अनुपस्‍थित है।"
 
 msgid "Example Sentences"
 msgstr "उदाहरण के वाक्‍य"
+
+msgid "Add Example Sentences"
+msgstr ""
 
 msgid "Add example sentences to senses where they are missing."
 msgstr "अर्थ में उदाहरण के वाक्‍य जोड़े, जहाँ वे अनुपस्‍थित है।"
@@ -38,14 +47,17 @@ msgstr "अर्थ में उदाहरण के वाक्‍य ज�
 msgid "Base Forms"
 msgstr "आधार रूप"
 
-msgid ""
-"Identify the \"base form\" word that this word is built from. In the "
-"printed dictionary, the derived or variant words can optionally be "
-"shown as subentries of their base forms."
+msgid "Add Base Forms"
 msgstr ""
-"शब्‍द को पहचानें \"बेस फार्म\" कि यह शब्‍द किस से बना है। मुद्रित "
-"शब्‍दकोष में, व्युत्पन्न या भिन्न शब्‍द वैकल्पिक रूप से उनके आधार "
-"रूपों की उप-प्रविष्‍टियाँ की तरह दिखाया जा सकता है।"
+
+msgid ""
+"Identify the \"base form\" word that this word is built from. In the printed"
+" dictionary, the derived or variant words can optionally be shown as "
+"subentries of their base forms."
+msgstr ""
+"शब्‍द को पहचानें \"बेस फार्म\" कि यह शब्‍द किस से बना है। मुद्रित शब्‍दकोष "
+"में, व्युत्पन्न या भिन्न शब्‍द वैकल्पिक रूप से उनके आधार रूपों की "
+"उप-प्रविष्‍टियाँ की तरह दिखाया जा सकता है।"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Looking for USB Keys..."
@@ -204,11 +216,10 @@ msgstr "एच.टी.एम.एल. को निर्यात करें"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
 msgid ""
-"Creates a simple Html version of the dictionary.  Not a very good way "
-"to go."
+"Creates a simple Html version of the dictionary.  Not a very good way to go."
 msgstr ""
-"शब्दकोश का एक सरल एच.टी.एम.एल. संस्करण बनाता है। जाने के लिए एक बहुत "
-"अच्छा तरीका नहीं।"
+"शब्दकोश का एक सरल एच.टी.एम.एल. संस्करण बनाता है। जाने के लिए एक बहुत अच्छा "
+"तरीका नहीं।"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
 msgid "Backing up..."
@@ -240,11 +251,11 @@ msgstr "लेक्‍सीक प्रो में खोलें"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\LexiqueProSender.cs
 msgid ""
-"Open dictionary in Lexique Pro for printing or web-page creation. "
-"Requires version LP ver 3.0 or higher."
+"Open dictionary in Lexique Pro for printing or web-page creation. Requires "
+"version LP ver 3.0 or higher."
 msgstr ""
-"प्रिंटिंग या वेब-पेज निर्माण के लिए शब्‍दकोष को लेक्‍सीक प्रो में "
-"खोले। आवश्‍यक संस्‍करण एल.पी. संस्‍करण 3.0 या उच्‍चतर।"
+"प्रिंटिंग या वेब-पेज निर्माण के लिए शब्‍दकोष को लेक्‍सीक प्रो में खोले। "
+"आवश्‍यक संस्‍करण एल.पी. संस्‍करण 3.0 या उच्‍चतर।"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 msgid "Save in OpenOffice"
@@ -418,11 +429,10 @@ msgstr "कार्यों को बदलें और कार्यो�
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\Dash.Designer.cs
 msgid ""
-"NOTE: This control should be the same size as the initial tab page size"
-" so the in"
+"NOTE: This control should be the same size as the initial tab page size so "
+"the in"
 msgstr ""
-"नोट: यह नियंत्रण प्रारंभिक टैब पृष्ठ के आकार के समान आकार का होना "
-"चाहिए"
+"नोट: यह नियंत्रण प्रारंभिक टैब पृष्ठ के आकार के समान आकार का होना चाहिए"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
 msgid "{1} dictionary has {0} words"
@@ -512,11 +522,11 @@ msgstr "अर्थगत ज्ञानक्षेत्र के अनु
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid ""
-"Collect new words organized by semantic domains and questions about "
-"those domains."
+"Collect new words organized by semantic domains and questions about those "
+"domains."
 msgstr ""
-"अर्थगत ज्ञानक्षेत्र द्वारा संयोजित नए शब्‍दों और उन ज्ञानक्षेत्रों के "
-"बारे में प्रश्‍नों को एकत्रित करें।"
+"अर्थगत ज्ञानक्षेत्र द्वारा संयोजित नए शब्‍दों और उन ज्ञानक्षेत्रों के बारे "
+"में प्रश्‍नों को एकत्रित करें।"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid "Domains without words"
@@ -540,8 +550,8 @@ msgstr "(ऐंटर कुंजी)"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Try thinking of words you use to talk about these things."
 msgstr ""
-"उन शब्‍दों को सोचने की कोशिश करें जिनका उपयोग आप इन चीजों के बारे में "
-"बात करने के लिए करते है।"
+"उन शब्‍दों को सोचने की कोशिश करें जिनका उपयोग आप इन चीजों के बारे में बात "
+"करने के लिए करते है।"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Question goes here."
@@ -574,14 +584,13 @@ msgid ""
 "Do not just translate these words; instead think of words in your own "
 "language."
 msgstr ""
-"बस इन शब्दों का अनुवाद नहीं करें, इसकी बजाय अपनी भाषा के शब्दों के "
-"बारे में सोचें।"
+"बस इन शब्दों का अनुवाद नहीं करें, इसकी बजाय अपनी भाषा के शब्दों के बारे में "
+"सोचें।"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Try thinking of ways to say these words in your language."
 msgstr ""
-"अपनी भाषा में इन शब्दों को कहने के तरीके के बारे में सोचने की कोशिश "
-"करेँ।"
+"अपनी भाषा में इन शब्दों को कहने के तरीके के बारे में सोचने की कोशिश करेँ।"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Word:"
@@ -637,8 +646,8 @@ msgstr "मूल्‍य"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Placeholder for control which uses generics so breaks the designer"
 msgstr ""
-"नियंत्रण के लिए प्लेसहोल्डर जो जेनरिक का उपयोग करता है इसलिए डिजाइनर "
-"को तोड़ देता है।"
+"नियंत्रण के लिए प्लेसहोल्डर जो जेनरिक का उपयोग करता है इसलिए डिजाइनर को तोड़"
+" देता है।"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Reference Collection"
@@ -731,19 +740,19 @@ msgstr "उपयोगकर्ता इंटरफ़ेस में दि
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid ""
-"Start without a user interface (will have no effect if WeSay is already"
-" running with a UI."
+"Start without a user interface (will have no effect if WeSay is already "
+"running with a UI."
 msgstr ""
-"एक उपयोगकर्ता इंटरफ़ेस के बिना शुरू करें। (अगर वीसे पहले से ही एक "
-"यू.आई. के साथ चल रहा है तो इसका कोई प्रभाव नहीं होगा)"
+"एक उपयोगकर्ता इंटरफ़ेस के बिना शुरू करें। (अगर वीसे पहले से ही एक यू.आई. के "
+"साथ चल रहा है तो इसका कोई प्रभाव नहीं होगा)"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid ""
-"Some things, like backup, just gum up automated tests.  This is used to"
-" turn them off."
+"Some things, like backup, just gum up automated tests.  This is used to turn"
+" them off."
 msgstr ""
-"कुछ बातें, जैसे कि बैकअप, स्वचालित परीक्षणों को चिपकाएँ। इसका प्रयोग "
-"उन्‍हें बंद करने के लिए किया जाता है।"
+"कुछ बातें, जैसे कि बैकअप, स्वचालित परीक्षणों को चिपकाएँ। इसका प्रयोग उन्‍हें"
+" बंद करने के लिए किया जाता है।"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
 msgid "Gather"
@@ -789,12 +798,11 @@ msgstr "भेजना/प्राप्‍त करना"
 #. description of send/receive action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid ""
-"Sends your changes to usb key, server, or other users, and receives the"
-" changes made by other members of your team."
+"Sends your changes to usb key, server, or other users, and receives the "
+"changes made by other members of your team."
 msgstr ""
-"अपने परिवर्तनों को यू.एस.बी. कुंजी, सर्वर, या अन्य उपयोगकर्ताओं को "
-"भेजें, और अपनी टीम के अन्य सदस्यों द्वारा किए गए परिवर्तनों को प्राप्त"
-" करें।"
+"अपने परिवर्तनों को यू.एस.बी. कुंजी, सर्वर, या अन्य उपयोगकर्ताओं को भेजें, और"
+" अपनी टीम के अन्य सदस्यों द्वारा किए गए परिवर्तनों को प्राप्त करें।"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid "WeSay Send/Receive"
@@ -803,11 +811,10 @@ msgstr "वीसै भेजना/प्राप्‍त करना"
 #. Long label for send/receive action.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid ""
-"Send/Receive Changes to devices, servers, or other users on your "
-"network."
+"Send/Receive Changes to devices, servers, or other users on your network."
 msgstr ""
-"उपकरणों, सर्वरों, या अपने नेटवर्क पर अन्य उपयोगकर्ताओं को परिवर्तनौ को"
-" भेजें/प्राप्त करें"
+"उपकरणों, सर्वरों, या अपने नेटवर्क पर अन्य उपयोगकर्ताओं को परिवर्तनौ को "
+"भेजें/प्राप्त करें"
 
 #. The label for the field holding the citation form, which is how the word
 #. will be displayed in the dictionary.  This is used in languages where the
