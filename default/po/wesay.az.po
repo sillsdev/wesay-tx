@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-02-18T17:30:01\n"
+"POT-Creation-Date: 2011-02-22T04:59:14\n"
 "PO-Revision-Date: 2011-02-22 00:05+0000\n"
 "Last-Translator: palaso_admin <admin@palaso.org>\n"
 "Language-Team: Azerbaijani <>\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-02-18T17:30:01
+# POT-Creation-Date: 2011-02-22T04:59:14
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr ""
