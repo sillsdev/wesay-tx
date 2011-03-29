@@ -1,315 +1,895 @@
-# Kinyarwanda translation for wesay
-# Copyright (c) 2008 Rosetta Contributors and Canonical Ltd 2008
-# This file is distributed under the same license as the wesay package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2008.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: wesay\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2009-03-03 06:45+0000\n"
-"PO-Revision-Date: 2009-04-22 17:46+0000\n"
-"Last-Translator: Emmanuel Habumuremyi <emmahab2008@gmail.com>\n"
-"Language-Team: Kinyarwanda <rw@li.org>\n"
+"Project-Id-Version: WeSay\n"
+"Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
+"POT-Creation-Date: 2011-03-28T01:50:23\n"
+"PO-Revision-Date: 2011-03-27 20:21+0000\n"
+"Last-Translator: emmahab <emmahab2008@gmail.com>\n"
+"Language-Team: Kinyarwanda <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2009-06-05 06:36+0000\n"
-"X-Generator: Launchpad (build Unknown)\n"
+"Language: rw\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
+# Project-Id-Version: WeSay
+# Report-Msgid-Bugs-To: hattonjohn@gmail.com
+# POT-Creation-Date: 2011-03-28T01:50:23
+# Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "Ibisobanuro"
 
+msgid "Add Meanings"
+msgstr "Kongeraho ibisobanuro"
+
 msgid "Add meanings (senses) to entries where they are missing."
-msgstr "Ongera ibisobanuro aho bibura."
+msgstr "Ongera ibisobanuro ku myinjiro itayifite"
 
 msgid "Parts of Speech"
 msgstr "Amoko y'amagambo"
 
+msgid "Add Parts of Speech"
+msgstr "Kongeraho ubwoko bw'amagambo"
+
 msgid "Add parts of speech to senses where they are missing."
-msgstr "Ongera ubwoko bw'ijambo aho bubura"
+msgstr "Shyira ubwoko bw'amagambo ku bisobanuro bibubura"
 
 msgid "Example Sentences"
 msgstr "Interuro ntangarugero"
 
+msgid "Add Example Sentences"
+msgstr "Kongeraho ibisobanuro"
+
 msgid "Add example sentences to senses where they are missing."
-msgstr "Kongeraho ingero z'interuro ku bisobanuro bitazifite."
+msgstr "Ongera interuro ntangarugero ku bisobanuro bitazifite"
 
 msgid "Base Forms"
-msgstr "Imiterere y'ibanze"
+msgstr "Imiterere shingiro"
+
+msgid "Add Base Forms"
+msgstr "Kongeraho imiterere y'ibanze"
 
 msgid ""
-"Identify the \"base form\" word that this word is built from. In the printed "
-"dictionary, the derived or variant words can optionally be shown as "
+"Identify the \"base form\" word that this word is built from. In the printed"
+" dictionary, the derived or variant words can optionally be shown as "
 "subentries of their base forms."
 msgstr ""
-"Shaka \"imiterere y'ibanze\" iri jambo ryubakiyeho. Mu nkoranya icapuruye ku "
-"mpapuro, amagambo akomoka ku yandi n'impindurantego ashobora kugaragazwa nka "
-"umwinjiro w'uniriza ijambo rifite imiterere y'ibanze akomokaho."
+"Garagaza \"imiterere y'ibanze\" y'ijambo iri ukoraho ryubakiyeho. Mu "
+"nkoranya icapuruye ku mpapuro, iryakomowe cyangwa impindurantego zaryo "
+"zishobora kugaragazwa nk'imyinjizo yungiririza y'imiterere y'ibanze."
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Looking for USB Keys..."
-msgstr "Ishakisha ry'imfunguzo za USB..."
+msgstr "Ishakisha ry'ububiko bwa USB"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Backing Up..."
-msgstr "Ibika rya kopi..."
+msgstr "Ikorwa rya kopi y'agateganyo..."
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Backup Complete"
-msgstr "Kubika kopi byarangiye"
+msgstr "Gukora kopi y'agateganyo byarangiye"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Files backed up to {0}"
-msgstr "Amadosiye yabikiwe kopi kuri {0}"
+msgstr "Ikorwa ry'amafishiye y'agateganyo rigeze kuri {0}"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Files were not backed up."
-msgstr "Amadosiye ntiyari yabikiwe kopi."
+msgstr "Amafishiye nta bwo yakorewe kopi y'agateganyo."
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionSetupDialog.Designer.cs
+msgid "&OK"
+msgstr "&OK"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Please insert the USB Key to backup to."
-msgstr "Twasabaga ko wacengezamo Urufunguzo rwa USB kugira ngo ubuke kopi."
+msgstr "Ngaho shyira ahagenewe USB icyo wifuza kubikaho ikopi y'agateganyo."
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
+msgid "Unable to look for the device due to an error."
+msgstr "Gusha icyo ucometse ntibishobotse kubera ko habaye ikosa"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
+msgid "status goes here"
+msgstr "imimerere ijya aha"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
+msgid "Secondary status goes here"
+msgstr "Imimerere ya kabiri ijya aha"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
 msgid "&Cancel"
-msgstr "Kureka"
+msgstr "&Biburizemo"
 
-#. Long name for usb flash-drive backup action
-msgid "Backup To Device"
-msgstr "Kubika kopi ku kamashini"
+#. Long name for action which makes a zip file on a usb flash-drive
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
+msgid "Backup To USB Flash Drive"
+msgstr "Guteganya kopi ku gicyacometswe nka USB"
 
 #. description of usb backup action
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
 msgid "Saves a backup on an external device, like a USB key."
-msgstr "Ibika"
+msgstr ""
+"Ibika ikopi y'agateganyo ku gikoresho cyacometswe, nk'icyacometswe nka USB"
 
 #. Short buton label for usb flash-drive backup action
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
 msgid "Backup"
-msgstr "Guteganya kopi"
+msgstr "Tuteganya kopi"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
 msgid "Email this dictionary to {0}"
-msgstr "Oherereza {0} iyi nkoranya ukoresheje imeli"
+msgstr "Ohereza imeli irimo iyi nkoranya kwa {0}"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
 msgid "Email this dictionary as a compressed attachment"
-msgstr "Ohereza iyi nkoranya ifungiye hamwe muri imeli"
-
-msgid "Email"
-msgstr "imeli"
-
-#. Label for synchronize action. Here, 'synchronizing' means putting your changes in the repository, and getting changes that others have put in the repository.
-msgid "Synchronize"
-msgstr "Guhuriza hamwe"
-
-#. description of syncrhonize action
-msgid "Updates the repository with our work, and gets the work of others."
-msgstr "Gushyira ibyo twakoze mu ikusanyirizo, no kureba ibyo abandi bakoze."
-
-#. Long label for synchronize action.
-msgid "Synchronize With Repository"
-msgstr "Guhuriza hamwe ibisanzwe mu ikusanyirizo"
-
-msgid "Synchronizing..."
-msgstr "Uguhuriza hamwe..."
-
-msgid "WeSay Had Problems Synchronizing"
-msgstr "WeSay Ifite ibibazo byo guhuriza hamwe"
-
-msgid "Finished"
-msgstr "Byarangiye"
-
-msgid "OK"
-msgstr "OKE"
-
-msgid "View Report"
-msgstr "Kureba Raporo"
-
-msgid "Shows some information about the lexicon."
-msgstr "Erekana amwe mu makuru arebana n'ikoranyamagambo."
-
-msgid "Report"
-msgstr "Icyegeranyo"
-
-msgid "Export to Word"
-msgstr "Kwimurira muri Word"
-
-msgid "Creates a very basic dictionary publication in Microsoft Word."
 msgstr ""
-"Ikora inkoranya yo kurwego rw'ibanze yo kwimurira muri Microsoft Word."
+"Ohereza iyi nkoranya muri imeli ku buryo bw'umugereka ufunze mu buryo bwa "
+"zipu"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
+msgid "The latest WeSay project data is attached."
+msgstr "Ibikubiye mu mushinga wa vuba wa Wesay biri ku mugereka"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
+msgid "Email"
+msgstr "Imeli"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
+msgid "Recipient Name"
+msgstr "Izina ry'uyakira"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
+msgid "Send Project Email Settings..."
+msgstr "Gutunganya ukohereza uyu mushinga mu buryo bwa imeli..."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
+msgid "<"
+msgstr "<"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
+msgid ">"
+msgstr ">"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\AutoCompleteTextBox\AutoCompleteWithCreationBox.Designer.cs
+msgid "+"
+msgstr "+"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
+msgid "-"
+msgstr "-"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
+msgid "Lexicon Report"
+msgstr "Raporo y'inkoranya"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
+msgid "Entries Contents"
+msgstr "Ibijya mu myinjizo"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
+msgid "Senses Contents"
+msgstr "Ibijya mu bisobanuro"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
+msgid "label4"
+msgstr "akarango4"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\ReportMaker.cs
+msgid "View Report"
+msgstr "Kureba raporo"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\ReportMaker.cs
+msgid "Shows some information about the lexicon."
+msgstr "Byerekana amakuru amwe arebana n'inkoranya."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\ReportMaker.cs
+msgid "Report"
+msgstr "Raporo"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\XPathChart.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\LongStartupNotification.Designer.cs
+msgid "label1"
+msgstr "akarango1"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlInWord.cs
+msgid "Export to Word"
+msgstr "Bishyire muri Word"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlInWord.cs
+msgid "Creates a very basic dictionary publication in Microsoft Word."
+msgstr "Ishira muri Microsoft Word inkoranya y'ibanze yo gutangaza."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
 msgid "Export to HTML"
-msgstr "Kwimurira muri HTML"
+msgstr "Bihinduremo HTML"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
 msgid ""
 "Creates a simple Html version of the dictionary.  Not a very good way to go."
-msgstr ""
-"Kora inkoranya yoroheje iri muri Html. Nta bwo ari uburyo bwiza bwo "
-"gukoresha."
+msgstr "Ikora inkoranya yoroheje muri Html.  Si uburyo bwiza bwo gukoresha."
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
+msgid "Backing up..."
+msgstr "Ikorwa rya kopi y'agateganyo..."
+
+#. It's up to you whether to bother translating this or not.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\LongStartupNotification.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\TabbedForm.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "WeSay"
+msgstr "WeSay"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
+msgid "http://lexiquepro.com"
+msgstr "http://lexiquepro.com"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
+msgid "http://lexiquepro.com/test.htm"
+msgstr "http://lexiquepro.com/test.htm"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
+msgid "About Lexique Pro"
+msgstr "Ibirebana na Lexique Pro"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\LexiqueProSender.cs
 msgid "Open in Lexique Pro"
-msgstr "Fungura iyi nkoranya muri Lexique Pro"
+msgstr "Kuyifungura muri Lexique Pro"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\LexiqueProSender.cs
 msgid ""
 "Open dictionary in Lexique Pro for printing or web-page creation. Requires "
 "version LP ver 3.0 or higher."
 msgstr ""
-"Fungura inkoranya muri Lexique Pro niba wifuza kuyicapurura ku mpapuro "
-"cyangwa kuyimurira ku rubuga rwa interineti. Hasabwa ko umuntu yaba afite LP "
-"y'inonosora rya 3.0 cyangwa irenzeho."
+"Gufungira inkoranya muri Lexique Pro hagamijwe kuyicapurura ku mpapuro "
+"cyangwa kuyikoramo urubuga rwa interineti. Hakenerwa LP inonosorwa rya 3.0 "
+"cyangwa iri hejuru."
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
+msgid "Save in OpenOffice"
+msgstr "Bibike muri OpenOffice"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
+msgid "Make OpenOffice Document"
+msgstr "Bikoremo Dokima ya OpenOffice"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
+msgid "http://princexml.com"
+msgstr "http://princexml.com"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
+msgid "http://wesay.org/wiki/MakePdfDictionary"
+msgstr "http://wesay.org/wiki/MakePdfDictionary"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
+msgid "About Make Pdf Dictionary"
+msgstr "Ibirebana no gushyira Inkoranya muri PDF"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\PdfMaker.cs
 msgid "Make Pdf Dictionary"
-msgstr "Shyira inkoranya muri Pdf"
+msgstr "Gushyira Inkoranya muri PDF"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "Tweaks"
+msgstr "Itengeneza"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "Language Output"
+msgstr "Ururimi bisohokamo"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "English"
+msgstr "Icyongereza"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "National"
+msgstr "Imvugo y'igihugu"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "Regional"
+msgstr "Imvugo y'akarere"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "Vernacular"
+msgstr "Imvgo ishakirwa ibisobanuro"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "Setup Standard Format Export..."
+msgstr "Iyimurira mu mirerere yagenwe..."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SfmTransformer.cs
 msgid "Export To SFM"
-msgstr "Kwimurira muri SFM"
+msgstr "Bishyire muri SFM"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SfmTransformer.cs
 msgid "Saves the lexicon in a form of standard format."
-msgstr "Ibika ry'ikoranyamagambo ku buryo bw'imisusire yemewe."
+msgstr "Ibika inkoranya mu miterere yagenwe kuri iyi porogramu"
 
-#. The label for the 'dashboard'; the task which lets you see the status of other tasks and jump to them.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\Xhtml\XHtml.cs
+msgid "Export to XHTML"
+msgstr "Bishyire muri XHTML"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
+#: App\ImagePicker\Form1.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Form1"
+msgstr "Imbonerahamwe1"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
+#: App\ImagePicker\ImageDisplayWidget.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.cs
+msgid "Cannot find {0}"
+msgstr "Ntibonye {0}"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
+#: App\ImagePicker\ImageDisplayWidget.Designer.cs
+msgid "Choose Image..."
+msgstr "Hitamo ishusho..."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
+#: App\ImagePicker\ImageDisplayWidget.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
+msgid "What is the problem?"
+msgstr "Ikibazo cyawe ni ikihe?"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
+#: App\ImagePicker\ImageDisplayWidget.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
+msgid "Remove Image..."
+msgstr "Gukuramo ishusho..."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalModel\Foundation\WritingSystem.cs
+msgid "Not installed"
+msgstr "Ntabwo yabaye yshyizwemo"
+
+#. This is what shows for a word in a list when the user hasn't yet typed
+#. anything in for the word.  Like if you click the 'New Word' button
+#. repeatedly.
+#. This is what shows for a word in a list when the user hasn't yet typed
+#. anything in for the word.  Like if you click the 'New Word' button
+#. repeatedly.
+#. This is what shows for a word in a list when the user hasn't yet typed
+#. anything in for the word.  Like if you click the 'New Word' button
+#. repeatedly.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalModel\KeyToEntryIdInitializer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
+msgid "Empty"
+msgstr "Harimo ubusa"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoConfiguration.cs
+msgid "Entries without this:"
+msgstr "Imyinjizo idafite ibi:"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoConfiguration.cs
+msgid "Total Entries:"
+msgstr "Imyinjiro yose"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
+msgid "Congratulations. You have completed this task."
+msgstr "Ubaye inkwakuzi. Urangije icyo wasabwaga gukora."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
+msgid "There is no work left to be done on this task."
+msgstr "Nta gisigaye gukorwa kuri iki gikorwa"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.Designer.cs
+msgid "To Do:"
+msgstr "Ibyo gukora:"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.Designer.cs
+msgid "Completed:"
+msgstr "Ibyarangiye:"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
+msgid "(Page Down Key)"
+msgstr "(Urufunguzo rugufasha kumanuka hasi ku ipaji)"
+
+#. The user will click this to say that this word has no baseform.  E.g.
+#. Kindness has Kind as a baseform, but Kind has no other word as a baseform.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoViewMaker.cs
+msgid "&This word has no Base Form"
+msgstr "Iri jambo nta miterere y'ibanze rigira"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddPictures\AddPicturesControl.Designer.cs
+msgid "Search Words"
+msgstr "Gushaka amagambo"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddPictures\AddPicturesControl.Designer.cs
+msgid "Search"
+msgstr "Gushaka"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\CongratulationsControl.Designer.cs
+msgid "✔"
+msgstr "✔"
+
+#. The label for the 'dashboard'; the task which lets you see the status of
+#. other tasks and jump to them.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\Dash.cs
 msgid "Home"
 msgstr "Intangiriro"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\Dash.cs
 msgid "Switch tasks and see current status of tasks"
-msgstr "Guhindura ibikorwa no kureba imiterere y'ibikorwa by'ubu"
+msgstr "Imuka mu byo wakoraga maze urebe imiterere y'ibikorwa"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\Dash.Designer.cs
+msgid ""
+"NOTE: This control should be the same size as the initial tab page size so "
+"the in"
+msgstr "ICYITONDERWA: Iri genzura rigomba kugira ingano nk'iyipaji yibanze "
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
 msgid "{1} dictionary has {0} words"
-msgstr "{1} inkoranya ifite amagambo {0}"
+msgstr "Inkoranya {1} ifite amagambo {0}"
 
-msgid "Cannot find {0}"
-msgstr "Ntishoboye kubona {0}"
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\GroupHeader.designer.cs
+msgid "_label"
+msgstr "_akarango"
 
-#. This is what shows for a word in a list when the user hasn't yet typed anything in for the word.  Like if you click the 'New Word' button repeatedly.
-#. This is what shows for a word in a list when the user hasn't yet typed anything in for the word.  Like if you click the 'New Word' button repeatedly.
-#. This is what shows for a word in a list when the user hasn't yet typed anything in for the word.  Like if you click the 'New Word' button repeatedly.
-msgid "Empty"
-msgstr "harimo ubusa"
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\TaskIndicator.designer.cs
+msgid "Gather from Foo words"
+msgstr "Gukoranya amagambo akuwe muri Foo"
 
-msgid "No Senses"
-msgstr "Nta bisobanuro"
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\TaskIndicator.designer.cs
+msgid "See words in Foo, write the same words in Boo"
+msgstr "Reba amagambo muri Foo, wandika amagambo nka yo muri Boo"
 
-msgid "Congratulations. You have completed this task."
-msgstr "Komereza aho. Urangije iki gikorwa."
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
+msgid "&Delete"
+msgstr "&Guhanagura"
 
-msgid "There is no work left to be done on this task."
-msgstr "Nta kazi gasigaye gukorwa kuri iki gikorwa."
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
+msgid "This will permanently remove this entry."
+msgstr "Iki gikorwa kirasiba burundu uyu mwinjizo"
 
-#. The user will click this to say that this word has no baseform.  E.g. Kindess has Kind as a baseform, but Kind has no other word as a baseform.
-msgid "&This word has no Base Form"
-msgstr "&Iri jambo nta miterere y'ibanze rigira"
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
+msgid "Confirm Delete"
+msgstr "Emeza ihamagarwa"
 
-#. This is what shows if the user is listing words by the glossing language, but the word doesn't have a gloss.
+#. The label for the task that lets you see all entries, search for entries,
+#. and edit various fields.  We don't like the English name very much, so feel
+#. free to call this something very different in the language you are
+#. translating to.
+#. The long label for the task that lets you see all entries, search for
+#. entries, and edit various fields.  We don't like the English name very
+#. much, so feel free to call this something very different in the language
+#. you are translating to.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryBrowseAndEditConfiguration.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryBrowseAndEditConfiguration.cs
+msgid "Dictionary Browse && Edit"
+msgstr "Shakashakisha && Unonosore Inkoranya"
+
+#. This is what shows if the user is listing words by the glossing language,
+#. but the word doesn't have a gloss.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
 msgid "No Gloss"
-msgstr "Nta jambo ribisobanura"
+msgstr "Nta nsobanuro"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
 msgid "Hide &Uncommon Fields"
-msgstr "Guhisha&Imyanya itamenyerewe"
+msgstr "Hisha &Imyanya itamenyerewe"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
 msgid "Show &Uncommon Fields"
-msgstr "Kwerekana&Imyamya itamenyerewe"
+msgstr "Erekana &Imyanya itamenyerewe"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.Designer.cs
+msgid "&Show All Fields"
+msgstr "&Kwerekana imyanya yose"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.Designer.cs
 msgid "&Delete This Word"
-msgstr "&Guhanagura iri jambo"
+msgstr "&Siba iri jambo"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.Designer.cs
 msgid "&New Word"
 msgstr "&Ijambo rishya"
 
-#. The description of the 'Dictionary' task.  In place of the {0} will be the number of words in the dictionary.  In place of the {1} will be the name of the project.
+#. The description of the 'Dictionary' task.  In place of the {0} will be the
+#. number of words in the dictionary.  In place of the {1} will be the name of
+#. the project.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryTask.cs
 msgid "See all {0} {1} words."
-msgstr "Kureba amagambo {0} {1}"
+msgstr "Reba amagambo yose {0} {1}"
 
-#. This is shown in the Gather By Semantic Domains task after each semantic domain question. The questions contain example words to help clarify what the domain is about, and this was added to remind the user that he/she is gathering based on the domain, not these examples.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\SearchBoxControl.Designer.cs
+msgid "en"
+msgstr "en"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
+msgid "Semantic Domains"
+msgstr "Ibyiciro nyunguramagambo"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
+msgid "Gather Words By Semantic Domain"
+msgstr "Koranya amagambo ukoresheje Ibyiciro nyunguramagambo"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
+msgid ""
+"Collect new words organized by semantic domains and questions about those "
+"domains."
+msgstr ""
+"Gukorakoranya amagambo apanze mu byiciro nyunguramagambo hifashishijwe "
+"ibibazo kuri ibi byiciro."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
+msgid "Domains without words"
+msgstr "Ibyiciro bidafite amagambo"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
+msgid "Total domains:"
+msgstr "Igiteranyo cy'ibyiciro:"
+
+#. The label for the field showing the Lexeme Form of the entry.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
+msgid "Word"
+msgstr "Ijambo"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
+msgid "(Enter Key)"
+msgstr "(Injizamo urufunguzo)"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+msgid "Try thinking of words you use to talk about these things."
+msgstr "Gerageza gutekereza ku magambo akoreshwa iyo bavuga kuri ibi bintu"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+msgid "Question goes here."
+msgstr "Ikibazo kijya aha"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+msgid "Description goes here."
+msgstr "Igisobanuro kijya ahaha"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+msgid "\"Don't translate\" warning goes here."
+msgstr "Umuburo wa \"Wisemura\" ujya aha"
+
+#. This label is shown once, but has two roles.  1) it labels the defintion
+#. field, and 2) marks the beginning of the set of fields which make up a
+#. sense. So, in english, if we labelled this 'definition', it would describe
+#. the field well but wouldn't label the section well.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexSenseLayouter.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexSenseLayouter.cs
+msgid "Meaning"
+msgstr "Igisobanuro"
+
+#. This is shown in the Gather By Semantic Domains task after each semantic
+#. domain question. The questions contain example words to help clarify what
+#. the domain is about, and this was added to remind the user that he/she is
+#. gathering based on the domain, not these examples.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainTask.cs
 msgid ""
 "Do not just translate these words; instead think of words in your own "
 "language."
 msgstr ""
-"Wehindura gusa murundi rurimi aya magambo ubona aha; ahubwo byaba byiza "
-"utekereje amagambo yo mu rurimi rwawe."
+"Wisemura gusa aya magambo; ahubwo tekereza ku yandi magambo akoreshwa mu "
+"rurimi rwawe bwite"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
+msgid "Try thinking of ways to say these words in your language."
+msgstr "Gerageza gutekereza ku buryo aya magambo avugwa mu rurimi rwawe"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
+msgid "Word:"
+msgstr "Ijambo:"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
+msgid "Foobar"
+msgstr "Umurongo wa Foo"
 
 #. This is the field containing an example sentence of a sense of a word.
 #. This is the field containing an example sentence of a sense of a word.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexExampleSentenceLayouter.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexExampleSentenceLayouter.cs
 msgid "Example"
 msgstr "Urugero"
 
 #. This is the field for putting in a translation of an example sentence.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexExampleSentenceLayouter.cs
 msgid "Translation"
-msgstr "Uko bisemurwa"
+msgstr "Isemura"
 
-#. This label is shown once, but has two roles.  1) it labels the defintion field, and 2) marks the beginning of the set of fields which make up a sense. So, in english, if we labelled this 'definition', it would describe the field well but wouldn't label the section well.
-msgid "Meaning"
-msgstr "Igisobanuro"
-
-#. The label for the field showing a single word translation, as used in interlinear text glossing.
+#. The label for the field showing a single word translation, as used in
+#. interlinear text glossing.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexSenseLayouter.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Gloss"
-msgstr "Impindure"
+msgstr "Insobanuro"
 
 #. Generic desciption of how many items in a task are left to do.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\TaskBase.cs
 msgid "Remaining:"
-msgstr "Hasigaye:"
+msgstr "Ibisigaye:"
 
 #. Generic description of how many total items there are in a task.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\TaskBase.cs
 msgid "Total:"
 msgstr "Igiteranyo:"
 
-#. This is what we call it when something goes wrong but it's the computer's fault, not the user's.
-msgid "Program Error"
-msgstr "Ikosa ryabaye muri Porogaramu"
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Refresh"
+msgstr "Ongera ubigaragaze"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Key"
+msgstr "Urufunguzo"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Value"
+msgstr "Agaciro"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Placeholder for control which uses generics so breaks the designer"
+msgstr ""
+"Ihagenewe gushyirwa ifashagenzura hakoresha kodeshingiro bityo bikangiza "
+"imigaragarire"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Reference Collection"
+msgstr "Ishakiro ry'ibyashatswe"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Source Collection"
+msgstr "Inkomoko y'ibyashatswe"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.cs
+msgid "Make visible in WeSay"
+msgstr "Erekana WeSay"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.cs
+msgid "Make invisible in WeSay"
+msgstr "Hisha WeSay"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+msgid "blah blah blah"
+msgstr "gutyo gutyo"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+msgid "Action Name"
+msgstr "Izina ry'igikorwa"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+msgid "Set up..."
+msgstr "Itunganya.."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+msgid "Visible In WeSay"
+msgstr "Bigaragara muri WeSay"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+msgid "More Info..."
+msgstr "Andi makuru..."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionSetupDialog.Designer.cs
+msgid "Setup Action..."
+msgstr "Igikorwa cy'itunganya..."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\CommandLineParser.cs
+msgid "Count number of lines in the input text."
+msgstr "Kubara umubare w'imirongo mu ifishiye nyinjiza."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\CommandLineParser.cs
+msgid "Count number of words in the input text."
+msgstr "Kubara umubare w'amagambo mu ifishiye nyinjiza."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\CommandLineParser.cs
+msgid "Count number of chars in the input text."
+msgstr "Kubara umubare w'inyuguti mu ifishiye nyinjiza."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\CommandLineParser.cs
+msgid "Input files to count."
+msgstr "Amafishiye nyijiza yo kubara"
 
 #. Shown at the bottom of the screen.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "Dictionary has {0} words"
 msgstr "Inkoranya ifite amagambo {0}"
 
-#. Appended to the name of a task, in its tab, while the user is waiting for the task to come up.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
+msgid "error"
+msgstr "ikosa"
+
+#. Appended to the name of a task, in its tab, while the user is waiting for
+#. the task to come up.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\TabbedForm.cs
 msgid "Loading..."
-msgstr "Itangira..."
+msgstr "Ikurura..."
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\TabbedForm.Designer.cs
+msgid "tabPage2"
+msgstr "tabPage2"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Please wait while WeSay prepares your data"
-msgstr "Twagusabaga ko utegereza mu gihe WeSay itegura ibyo ushaka"
+msgstr "Ba utegereje mu gihe WeSay igitunganya ibyo wayisabye"
 
-#. It's up to you whether to bother translating this or not.
-msgid "WeSay"
-msgstr "WeSay"
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
+msgstr ""
+"Inzira ikugeza kuri LiftXml (urg. ku madirishya,  "
+"\"c:\\thai\\wesay\\thai.lift\")."
 
-#. The label for the field showing the Lexeme Form of the entry.
-msgid "Word"
-msgstr "Ijambo"
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Language to show the user interface in."
+msgstr "Ururimi rwo kwereka ukoresha iyi porogaramu."
 
-#. The label for the field holding the citation form, which is how the word will be displayed in the dictionary.  This is used in languages where the lexeme form may be different from what the Headword should be.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid ""
+"Start without a user interface (will have no effect if WeSay is already "
+"running with a UI."
+msgstr ""
+"Gutangira nta mwanya umukoresha w'iyi porogaramu afite (nta cyo bitanga niba"
+" WeSay irigukorera muri UI."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid ""
+"Some things, like backup, just gum up automated tests.  This is used to turn"
+" them off."
+msgstr ""
+"Ibintu bimwe, nk'iteganyakopi, bygagiye mu igenzura ryikora.  Ibi bikoreshwa"
+" mu kubizimya."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Gather"
+msgstr "Guhuriza hamwe"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Describe"
+msgstr "Gusobanura"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Refine"
+msgstr "Gunganya"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Review"
+msgstr "Kononosora"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Share"
+msgstr "Koherereza abandi"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ChorusBackupMaker.cs
+msgid "Wesay Automatic Backup"
+msgstr "Ukwibika kwikoze kw'ikopi y'agateganyo"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\FailedLoadTask.cs
+msgid "Failed To Load: {0}"
+msgstr "Byananiranye Gukurura: {0}"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\FailedLoadTask.cs
+msgid "Error: {0}"
+msgstr "Ikosa: {0}"
+
+#. Label for action which uses Chorus to synchronize the dictionary with other
+#. users, devices, and servers. Here, 'synchronizing' means putting your
+#. changes in the repository, and getting changes that others have put in the
+#. repository. In English, we are going with Send/Receive because it is
+#. similar to email and this is the term Paratext uses.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
+msgid "Send/Receive"
+msgstr "Ohereza/Akira"
+
+#. description of send/receive action
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
+msgid ""
+"Sends your changes to usb key, server, or other users, and receives the "
+"changes made by other members of your team."
+msgstr ""
+"Uhereza ibyo wahinduye ku gicometswe gikoresha USB, kuri seriveri cyangwa ku"
+" bandi mukorana ku masangano yawe, kandi wakire ibyo abo muri mu itsinda "
+"rimwe bakoze."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
+msgid "WeSay Send/Receive"
+msgstr "Ohereza/Akira bya WeSay"
+
+#. Long label for send/receive action.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
+msgid ""
+"Send/Receive Changes to devices, servers, or other users on your network."
+msgstr ""
+"Ohereza/Akira ibyahindutse ku bubiko, seriveri, cyangwa abo mukorana bari ku"
+" ihuriro ryawe."
+
+#. The label for the field holding the citation form, which is how the word
+#. will be displayed in the dictionary.  This is used in languages where the
+#. lexeme form may be different from what the Headword should be.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Citation Form"
-msgstr "Iko rigaragazwa"
+msgstr "Uko byandikwa"
 
 #. The label for the field showing the definition of the word.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Definition"
-msgstr "Insobanuro"
+msgstr "Igisobanuro cy'ijambo"
 
 #. The label for the field showing the literal meaning of idiom or proverb.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Literal Meaning"
-msgstr "Igisobanuro cy'ijambo ku ijambo"
+msgstr "Igisobanuro ijambo ku ijambo"
 
 #. The label for the field showing a note.
 #. The label for the field showing a note.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Note"
-msgstr "Impugukirwa"
+msgstr "Icyitonderwa"
 
 #. The label for the field showing a picture.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Picture"
 msgstr "Ishusho"
 
 #. The label for the field showing Part Of Speech
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "POS"
-msgstr "Ubwoko bw'Ijambo"
+msgstr "OkJbo"
 
 #. The label for the field showing an example use of the word.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Example Sentence"
 msgstr "Interuro ntangarugero"
 
-#. The label for the field showing the example sentence translated into other languages.
+#. The label for the field showing the example sentence translated into other
+#. languages.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Example Translation"
-msgstr "Urugero rw'isemurwa"
+msgstr "Isemura ry'urugero"
 
 #. The label for the field showing Semantic Domains
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Sem Dom"
-msgstr "Ibyiciro nyunguramagambo"
+msgstr "Ibyiciro"
 
-#. The label for the field showing the entry which this entry is derived from, is a subentry of, etc.
+#. The label for the field showing the entry which this entry is derived from,
+#. is a subentry of, etc.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Base Form"
-msgstr "Imiterere shingiro"
+msgstr "Imiterere y'ibanze"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Cross Reference"
-msgstr "Andi magambo wareba"
+msgstr "Reba na none"
 
-#. This is shown in a combo-box (list of options, like Part Of Speech) when no option has been chosen, or the user just doesn't know what to put in this field.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\CheckBoxControl.Designer.cs
+msgid "checkBox1"
+msgstr "Hitamo akazu1"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
+msgid "Choose Image File..."
+msgstr "Guhitamo idokima y'amafoto"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
+msgid "Search Gallery..."
+msgstr "Gushakisha amafoto..."
+
+#. This is shown in a combo-box (list of options, like Part Of Speech) when no
+#. option has been chosen, or the user just doesn't know what to put in this
+#. field.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\SingleOptionControl.cs
 msgid "unknown"
-msgstr "ntibizwi"
+msgstr "bitazwi"
