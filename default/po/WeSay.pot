@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
-"POT-Creation-Date: 2011-03-28T01:50:23\n"
+"POT-Creation-Date: 2011-04-28T04:35:01\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -12,7 +12,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-03-28T01:50:23
+# POT-Creation-Date: 2011-04-28T04:35:01
 # Content-Type: text/plain; charset=UTF-8
 
 
@@ -236,11 +236,13 @@ msgid "Creates a simple Html version of the dictionary.  Not a very good way to 
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\SimpleProgressDialog.Designer.cs
 msgid "Backing up..."
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\LongStartupNotification.Designer.cs
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\SimpleProgressDialog.Designer.cs
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\TabbedForm.Designer.cs
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 #. It's up to you whether to bother translating this or not.
