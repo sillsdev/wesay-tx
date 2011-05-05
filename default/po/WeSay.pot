@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
-"POT-Creation-Date: 2011-04-28T04:35:01\n"
+"POT-Creation-Date: 2011-05-02T04:13:20\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -12,7 +12,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-04-28T04:35:01
+# POT-Creation-Date: 2011-05-02T04:13:20
 # Content-Type: text/plain; charset=UTF-8
 
 
@@ -357,7 +357,7 @@ msgstr ""
 msgid "Remove Image..."
 msgstr ""
 
-#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalModel\Foundation\WritingSystem.cs
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalModel\Foundation\SpellCheckerIdToDisplayStringConverter.cs
 msgid "Not installed"
 msgstr ""
 
