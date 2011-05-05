@@ -3,10 +3,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-03-28T01:50:23\n"
+"POT-Creation-Date: 2011-04-28T04:35:01\n"
 "PO-Revision-Date: 2011-03-22 15:09+0000\n"
 "Last-Translator: palaso_admin <admin@palaso.org>\n"
-"Language-Team: Lao <>\n"
+"Language-Team: Lao (http://www.transifex.net/projects/p/wesay/team/lo/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-03-28T01:50:23
+# POT-Creation-Date: 2011-04-28T04:35:01
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "ຄວາມໝາຍ"
@@ -220,12 +220,14 @@ msgid ""
 msgstr "ສ້າງຄຳແປ HTML ແບບງ່າຍໃນວັດຈະນານຸກັມ, ພ້ອມສຳລັບການພິມ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\SimpleProgressDialog.Designer.cs
 msgid "Backing up..."
 msgstr "ກຳລັງສຳຮອງຂໍ້ມູນ"
 
 #. It's up to you whether to bother translating this or not.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\LongStartupNotification.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\SimpleProgressDialog.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\TabbedForm.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "WeSay"
