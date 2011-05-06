@@ -3,9 +3,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-04-28T04:35:01\n"
-"PO-Revision-Date: 2011-05-04 05:53+0000\n"
-"Last-Translator: lrtc_makara <lrtc_makara@icc.org.kh>\n"
+"POT-Creation-Date: 2011-05-02T04:13:20\n"
+"PO-Revision-Date: 2011-05-06 02:51+0000\n"
+"Last-Translator: palaso_admin <admin@palaso.org>\n"
 "Language-Team: Khmer (http://www.transifex.net/projects/p/wesay/team/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-04-28T04:35:01
+# POT-Creation-Date: 2011-05-02T04:13:20
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "អត្ថន័យ"
@@ -336,7 +336,7 @@ msgstr "សំណុំ​បែបបទ​១"
 #: App\ImagePicker\ImageDisplayWidget.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.cs
 msgid "Cannot find {0}"
-msgstr "មិន​អាច​រក {០} ឃើញ"
+msgstr "មិន​អាច​រក {0} ឃើញ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
 #: App\ImagePicker\ImageDisplayWidget.Designer.cs
@@ -355,7 +355,7 @@ msgstr "តើ​មាន​បញ្ហា​អ្វី?"
 msgid "Remove Image..."
 msgstr "លុប​រូប​ភាព​ចេញ..."
 
-#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalModel\Foundation\WritingSystem.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalModel\Foundation\SpellCheckerIdToDisplayStringConverter.cs
 msgid "Not installed"
 msgstr "មិន​បាន​ដំឡើង"
 
@@ -440,7 +440,7 @@ msgstr "សូម​ចំណាំ​ថា​៖ ​វត្ថុ​បញ�
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
 msgid "{1} dictionary has {0} words"
-msgstr "{១} វចនានុក្រម​មាន {០} ពាក្យ"
+msgstr "{1} វចនានុក្រម​មាន {0} ពាក្យ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\GroupHeader.designer.cs
 msgid "_label"
@@ -510,7 +510,7 @@ msgstr "&ពាក្យ​ថ្មី"
 #. the project.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryTask.cs
 msgid "See all {0} {1} words."
-msgstr "មើល​គ្រប់ {០} {១} ពាក្យ​ទាំង​អស់។"
+msgstr "មើល​គ្រប់ {0} {1} ពាក្យ​ទាំង​អស់។"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\SearchBoxControl.Designer.cs
 msgid "en"
@@ -709,7 +709,7 @@ msgstr "បញ្ចូល​ឯកសារ​ដើម្បី​រាប់
 #. Shown at the bottom of the screen.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "Dictionary has {0} words"
-msgstr "វចនានុក្រម​មាន {០} ពាក្យ"
+msgstr "វចនានុក្រម​មាន {0} ពាក្យ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "error"
@@ -779,11 +779,11 @@ msgstr "បម្រុងទុក​ដោយស្វ័យប្រវត្
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\FailedLoadTask.cs
 msgid "Failed To Load: {0}"
-msgstr "មិន​អាច​ផ្ទុកបាន៖ {០}"
+msgstr "មិន​អាច​ផ្ទុកបាន៖ {0}"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\FailedLoadTask.cs
 msgid "Error: {0}"
-msgstr "កំហុស៖ {០}"
+msgstr "កំហុស៖ {0}"
 
 #. Label for action which uses Chorus to synchronize the dictionary with other
 #. users, devices, and servers. Here, 'synchronizing' means putting your

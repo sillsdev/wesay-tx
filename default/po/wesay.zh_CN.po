@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-04-28T04:35:01\n"
+"POT-Creation-Date: 2011-05-02T04:13:20\n"
 "PO-Revision-Date: 2011-03-22 15:09+0000\n"
 "Last-Translator: rperlin <ross.perlin@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.net/projects/p/wesay/team/zh_CN/)\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-04-28T04:35:01
+# POT-Creation-Date: 2011-05-02T04:13:20
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "意义"
@@ -345,7 +345,7 @@ msgstr ""
 msgid "Remove Image..."
 msgstr ""
 
-#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalModel\Foundation\WritingSystem.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalModel\Foundation\SpellCheckerIdToDisplayStringConverter.cs
 msgid "Not installed"
 msgstr ""
 

@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-04-28T04:35:01\n"
-"PO-Revision-Date: 2011-05-05 02:37+0000\n"
+"POT-Creation-Date: 2011-05-02T04:13:20\n"
+"PO-Revision-Date: 2011-05-05 04:35+0000\n"
 "Last-Translator: szee18 <s.zee18@gmail.com>\n"
 "Language-Team: Burmese (http://www.transifex.net/projects/p/wesay/team/my/)\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-04-28T04:35:01
+# POT-Creation-Date: 2011-05-02T04:13:20
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "အဓိပ္ပါယ်"
@@ -359,7 +359,7 @@ msgstr "ပြဿနာကဘာလဲ။ ဘာပြသနာဖြစ်န�
 msgid "Remove Image..."
 msgstr "ရုပ်ပုံကိုဖယ်ရှားပါ။"
 
-#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalModel\Foundation\WritingSystem.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalModel\Foundation\SpellCheckerIdToDisplayStringConverter.cs
 msgid "Not installed"
 msgstr "မထည့်သွင်းသေးပါ။"
 
@@ -446,7 +446,7 @@ msgstr "မှတ်ချက်။ "
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
 msgid "{1} dictionary has {0} words"
-msgstr "{1}အဘိဓာန်တွင် {0} စကားလုံး ရှိသည်။"
+msgstr "{1}အဘိဓာန်တွင် စကားလုံး {0}လုံးရှိသည်။"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\GroupHeader.designer.cs
 msgid "_label"
@@ -716,7 +716,7 @@ msgstr "ဖိုင်များကိုရေတွက်ဖို့ရန
 #. Shown at the bottom of the screen.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "Dictionary has {0} words"
-msgstr "အဘိဓာန်တွင် စကားလုံး {0} ရှိသည်။"
+msgstr "အဘိဓာန်တွင် စကားလုံး {0}လုံး ရှိသည်။"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "error"
