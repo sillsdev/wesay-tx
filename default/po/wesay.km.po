@@ -1,11 +1,15 @@
 #
+# sungkhum <sungkhum@gmail.com>, 2011
+# Bun Ang Van <bunangv@gmail.com>, 2011
+# Makara SOK <lrtc_makara@icc.org.kh>, 2011, 2011.0
+# palaso_admin <admin@palaso.org>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-05-02T04:13:20\n"
-"PO-Revision-Date: 2011-05-06 02:51+0000\n"
-"Last-Translator: palaso_admin <admin@palaso.org>\n"
+"POT-Creation-Date: 2011-05-05T07:01:01\n"
+"PO-Revision-Date: 2011-05-25 02:56+0000\n"
+"Last-Translator: lrtc_makara <lrtc_makara@icc.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.net/projects/p/wesay/team/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,19 +19,20 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-05-02T04:13:20
+# POT-Creation-Date: 2011-05-05T07:01:01
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
-msgstr "អត្ថន័យ"
+msgstr "អត្ថន័យ​​"
 
 msgid "Add Meanings"
 msgstr "បន្ថែម​អត្ថន័យ"
 
 msgid "Add meanings (senses) to entries where they are missing."
-msgstr "បន្ថែម​អត្ថន័យ​​ទៅ​​លើ​ធាតុ​បញ្ចូល​ណា​​​ដែល​មិន​​ទាន់​មាន។"
+msgstr ""
+"បន្ថែម​អត្ថន័យ​​ (ន័យ) ទៅ​​លើ​ធាតុ​បញ្ចូល​ណា​​​ដែល​​មិន​ទាន់​ដាក់អត្ថន័យ ។"
 
 msgid "Parts of Speech"
-msgstr "ថ្នាក់​ពាក្យ"
+msgstr "ថ្នាក់ពាក្យ"
 
 msgid "Add Parts of Speech"
 msgstr "បន្ថែម​ថ្នាក់​ពាក្យ"
@@ -42,7 +47,7 @@ msgid "Add Example Sentences"
 msgstr "បន្ថែម​ឧទាហរណ៍"
 
 msgid "Add example sentences to senses where they are missing."
-msgstr "បន្ថែម​ឧទាហរណ៍​​លើ​ន័យ​ណា​​​ដែល​មិន​ទាន់​មាន។"
+msgstr "បន្ថែម​ឧទាហរណ៍​​លើ​ន័យ​ណា​​​ដែល​មិន​ទាន់​មានផ្នែកនេះ។"
 
 msgid "Base Forms"
 msgstr "ទម្រង់​ដើម"
@@ -61,7 +66,7 @@ msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Looking for USB Keys..."
-msgstr "ស្វែង​រក​​ឧបករណ៍​ផ្ទុក​ចល័ត..."
+msgstr "កំពុងស្វែង​រក​​ឧបករណ៍​ផ្ទុក​ចល័ត..."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Backing Up..."
@@ -121,8 +126,8 @@ msgstr "បម្រុង​ទុក​ក្នុង​ឧបករណ៍​
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
 msgid "Saves a backup on an external device, like a USB key."
 msgstr ""
-"​​រក្សាទុក​ឯកសារ​​​បម្រុង​នៅ​ក្នុង​ឧបករណ៍​ផ្ទុក​ក្រៅ​​មួយ​ ដូច​​​\n"
-"ឧបករណ៍​ផ្ទុក​ចល័ត។"
+"​​រក្សាទុក​ឯកសារ​​​បម្រុង​នៅ​ក្នុង​ឧបករណ៍​ផ្ទុក​ក្រៅ​​​ (ឧបករណ៍​ផ្ទុក​ចល័ត) "
+"។"
 
 #. Short buton label for usb flash-drive backup action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
@@ -376,11 +381,11 @@ msgstr "ទទេ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoConfiguration.cs
 msgid "Entries without this:"
-msgstr "ធាតុ​បញ្ចូល​ដែល​គ្មាន​នេះ៖"
+msgstr "ធាតុ​បញ្ចូល​ដែល​គ្មាន​ផ្នែកនេះ៖"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoConfiguration.cs
 msgid "Total Entries:"
-msgstr "សរុប​ធាតុ​បញ្ចូល​ទាំងអស់៖"
+msgstr "ធាតុ​បញ្ចូលសរុប​៖"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
 msgid "Congratulations. You have completed this task."
@@ -402,7 +407,7 @@ msgstr "បញ្ចប់​ទាំង​ស្រុង៖"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "(Page Down Key)"
-msgstr "(គ្រាប់ចុច ទៅក្រោម)"
+msgstr "(ចុច Page Down)"
 
 #. The user will click this to say that this word has no baseform.  E.g.
 #. Kindness has Kind as a baseform, but Kind has no other word as a baseform.
@@ -440,7 +445,7 @@ msgstr "សូម​ចំណាំ​ថា​៖ ​វត្ថុ​បញ�
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
 msgid "{1} dictionary has {0} words"
-msgstr "{1} វចនានុក្រម​មាន {0} ពាក្យ"
+msgstr "វចនានុក្រម {1} ​មាន {0} ពាក្យ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\GroupHeader.designer.cs
 msgid "_label"
@@ -460,7 +465,7 @@ msgstr "&លុប"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
 msgid "This will permanently remove this entry."
-msgstr "​នេះ​នឹង​លុប​ធាតុ​បញ្ចូល​នេះ​ចេញ​​ជា​អចិន្រៃ្តយ៍។"
+msgstr "​​លុប​ធាតុ​បញ្ចូល​នេះ​​​ជា​អចិន្រៃ្តយ៍។"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
 msgid "Confirm Delete"
@@ -510,11 +515,11 @@ msgstr "&ពាក្យ​ថ្មី"
 #. the project.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryTask.cs
 msgid "See all {0} {1} words."
-msgstr "មើល​គ្រប់ {0} {1} ពាក្យ​ទាំង​អស់។"
+msgstr "មើលធាតុបញ្ចូលចំនួន {0} ពាក្យក្នុងវចនានុក្រម {1} ។"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\SearchBoxControl.Designer.cs
 msgid "en"
-msgstr "en"
+msgstr "អង់គ្លេស"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid "Semantic Domains"
@@ -538,7 +543,7 @@ msgstr "ដែន​​​ន័យ​វិទ្យា​ដែល​គ្ម
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid "Total domains:"
-msgstr "សរុប​​ដែន​​​ន័យ​វិទ្យា​ទាំងអស់៖"
+msgstr "​​ដែន​​​ន័យ​វិទ្យាសរុប​៖"
 
 #. The label for the field showing the Lexeme Form of the entry.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
@@ -549,7 +554,7 @@ msgstr "ពាក្យ"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "(Enter Key)"
-msgstr "(គ្រាប់ចុច បញ្ចូល)"
+msgstr "(ចុច Enter)"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Try thinking of words you use to talk about these things."
@@ -634,7 +639,7 @@ msgstr "សរុប៖"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Refresh"
-msgstr "ធ្វើ​ឱ្យស្រស់"
+msgstr "ធ្វើ​ឱ្យថ្មីឡើងវិញ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
@@ -648,7 +653,7 @@ msgstr "តម្លៃ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Placeholder for control which uses generics so breaks the designer"
-msgstr "កន្លែង​នៃ​វត្ថុ​បញ្ជា​ដែល​ប្រើ​ពាក្យ​ទូទៅ​ ត្រូវ​ឱ្យ​អ្នកតែង​ខូច??"
+msgstr "Placeholder for control which uses generics so breaks the designer"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Reference Collection"
@@ -813,8 +818,8 @@ msgstr "ផ្ញើ/ទទួល របស់កម្មវិធី​ WeSay"
 msgid ""
 "Send/Receive Changes to devices, servers, or other users on your network."
 msgstr ""
-"ផ្ញើ/ទទួល​ ការ​ផ្លាស់ប្ដូរ​ទៅ​កាន់​ឧបករណ៍ ម៉ាស៊ីន​មេ ឬ ​អ្នកប្រើប្រាស់​ដទៃ​"
-"ទៀត​ក្នុង​បណ្ដាញ​របស់​លោកអ្នក។"
+"ផ្ញើ/ទទួល​ ការ​ផ្លាស់ប្ដូរ​ទៅ​កាន់​ឧបករណ៍ផ្ទុក ម៉ាស៊ីន​មេ ឬ ​អ្នកប្រើប្រាស់​"
+"ដទៃ​ទៀត​ក្នុង​បណ្ដាញ​របស់​លោកអ្នក។"
 
 #. The label for the field holding the citation form, which is how the word
 #. will be displayed in the dictionary.  This is used in languages where the
