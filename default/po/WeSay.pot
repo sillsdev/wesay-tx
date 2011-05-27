@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
-"POT-Creation-Date: 2011-05-05T07:01:01\n"
+"POT-Creation-Date: 2011-05-26T10:00:45\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -12,7 +12,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-05-05T07:01:01
+# POT-Creation-Date: 2011-05-26T10:00:45
 # Content-Type: text/plain; charset=UTF-8
 
 
@@ -673,6 +673,10 @@ msgid "Input files to count."
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
+msgid "Configure This Project..."
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 #. Shown at the bottom of the screen.
 msgid "Dictionary has {0} words"
 msgstr ""
@@ -695,6 +699,15 @@ msgid "Please wait while WeSay prepares your data"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Welcome to WeSay.\\r\\nThe Configuration Tool will now open so that you can make a new project or choose an existing one."
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+#. The label on the message box which the user sees if WeSay can't figure out what project to open.
+msgid "No Default Project"
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
 msgstr ""
 
@@ -708,6 +721,10 @@ msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Some things, like backup, just gum up automated tests.  This is used to turn them off."
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Make it easy to get back to the configuration tool."
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
@@ -815,6 +832,14 @@ msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Cross Reference"
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
+msgid "Migrating writing systems..."
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
+msgid "Please wait while WeSay migrates your writing systems."
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\CheckBoxControl.Designer.cs
