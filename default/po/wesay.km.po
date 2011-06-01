@@ -1,14 +1,14 @@
 #
 # sungkhum <sungkhum@gmail.com>, 2011
 # Bun Ang Van <bunangv@gmail.com>, 2011
-# Makara SOK <lrtc_makara@icc.org.kh>, 2011, 2011.0
+# Makara SOK <lrtc_makara@icc.org.kh>, 2011
 # palaso_admin <admin@palaso.org>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-05-05T07:01:01\n"
-"PO-Revision-Date: 2011-05-25 02:56+0000\n"
+"POT-Creation-Date: 2011-05-26T10:00:45\n"
+"PO-Revision-Date: 2011-05-28 00:17+0000\n"
 "Last-Translator: lrtc_makara <lrtc_makara@icc.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.net/projects/p/wesay/team/km/)\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-05-05T07:01:01
+# POT-Creation-Date: 2011-05-26T10:00:45
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "អត្ថន័យ​​"
@@ -711,6 +711,10 @@ msgstr "រាប់​ចំនួន​តួអក្សរ​នៃ​អត
 msgid "Input files to count."
 msgstr "បញ្ចូល​ឯកសារ​ដើម្បី​រាប់។"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
+msgid "Configure This Project..."
+msgstr ""
+
 #. Shown at the bottom of the screen.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "Dictionary has {0} words"
@@ -735,6 +739,18 @@ msgid "Please wait while WeSay prepares your data"
 msgstr "សូម​រង់ចាំ​ខណៈ​ពេលកម្មវិធី ​WeSay កំពុងតែ​រៀបចំ​ទិន្នន័យ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid ""
+"Welcome to WeSay.\\r\\nThe Configuration Tool will now open so that you can "
+"make a new project or choose an existing one."
+msgstr ""
+
+#. The label on the message box which the user sees if WeSay can't figure out
+#. what project to open.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "No Default Project"
+msgstr ""
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
 msgstr "ផ្លូវ​ទៅ​ឯកសារ​ Lift XML (ឧ. ក្នុង​ windows \"c:\\khmer\\wesay\\khmer.lift\")"
 
@@ -757,6 +773,10 @@ msgid ""
 msgstr ""
 "មាន​បញ្ហា​ខ្លះៗ​ ដូចជា​ការ​បម្រុងទុក ដែល​ធ្វើ​ឱ្យ​ការ​សាកល្បង​ស្វ័យប្រវត្តិ​"
 "ខូច។  ​ប្រើ​វា​ដើម្បី​បិទ​ដំណើរការ​ទាំង​អស់​នោះ​។"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Make it easy to get back to the configuration tool."
+msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
 msgid "Gather"
@@ -880,6 +900,14 @@ msgstr "ទម្រង់​ដើម"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Cross Reference"
 msgstr "សេចក្តី​យោង​ឆ្លង"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
+msgid "Migrating writing systems..."
+msgstr ""
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
+msgid "Please wait while WeSay migrates your writing systems."
+msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\CheckBoxControl.Designer.cs
 msgid "checkBox1"

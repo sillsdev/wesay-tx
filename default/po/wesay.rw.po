@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-05-05T07:01:01\n"
-"PO-Revision-Date: 2011-03-27 20:21+0000\n"
+"POT-Creation-Date: 2011-05-26T10:00:45\n"
+"PO-Revision-Date: 2011-05-28 00:17+0000\n"
 "Last-Translator: emmahab <emmahab2008@gmail.com>\n"
 "Language-Team: Kinyarwanda (http://www.transifex.net/projects/p/wesay/team/rw/)\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-05-05T07:01:01
+# POT-Creation-Date: 2011-05-26T10:00:45
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "Ibisobanuro"
@@ -706,6 +706,10 @@ msgstr "Kubara umubare w'inyuguti mu ifishiye nyinjiza."
 msgid "Input files to count."
 msgstr "Amafishiye nyijiza yo kubara"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
+msgid "Configure This Project..."
+msgstr ""
+
 #. Shown at the bottom of the screen.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "Dictionary has {0} words"
@@ -728,6 +732,18 @@ msgstr "tabPage2"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Please wait while WeSay prepares your data"
 msgstr "Ba utegereje mu gihe WeSay igitunganya ibyo wayisabye"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid ""
+"Welcome to WeSay.\\r\\nThe Configuration Tool will now open so that you can "
+"make a new project or choose an existing one."
+msgstr ""
+
+#. The label on the message box which the user sees if WeSay can't figure out
+#. what project to open.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "No Default Project"
+msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
@@ -754,6 +770,10 @@ msgid ""
 msgstr ""
 "Ibintu bimwe, nk'iteganyakopi, bygagiye mu igenzura ryikora.  Ibi bikoreshwa"
 " mu kubizimya."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Make it easy to get back to the configuration tool."
+msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
 msgid "Gather"
@@ -877,6 +897,14 @@ msgstr "Imiterere y'ibanze"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Cross Reference"
 msgstr "Reba na none"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
+msgid "Migrating writing systems..."
+msgstr ""
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
+msgid "Please wait while WeSay migrates your writing systems."
+msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\CheckBoxControl.Designer.cs
 msgid "checkBox1"

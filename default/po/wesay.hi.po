@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-05-05T07:01:01\n"
-"PO-Revision-Date: 2011-03-22 15:09+0000\n"
+"POT-Creation-Date: 2011-05-26T10:00:45\n"
+"PO-Revision-Date: 2011-05-28 00:17+0000\n"
 "Last-Translator: ProjectLEARN <marwariphrasebook@gmail.com>\n"
 "Language-Team: Hindi (http://www.transifex.net/projects/p/wesay/team/hi/)\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-05-05T07:01:01
+# POT-Creation-Date: 2011-05-26T10:00:45
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "अर्थ"
@@ -709,6 +709,10 @@ msgstr "इनपुट टेक्‍स्‍ट में अक्षरौ
 msgid "Input files to count."
 msgstr "गिनती करने के लिए फाईल इनपुट करें"
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
+msgid "Configure This Project..."
+msgstr ""
+
 #. Shown at the bottom of the screen.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "Dictionary has {0} words"
@@ -731,6 +735,18 @@ msgstr "टैब पृष्‍ठ 2"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Please wait while WeSay prepares your data"
 msgstr "वीसे जब तक आपका डाटा तैयार करें, कृपया प्रतीक्षा करें "
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid ""
+"Welcome to WeSay.\\r\\nThe Configuration Tool will now open so that you can "
+"make a new project or choose an existing one."
+msgstr ""
+
+#. The label on the message box which the user sees if WeSay can't figure out
+#. what project to open.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "No Default Project"
+msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
@@ -757,6 +773,10 @@ msgid ""
 msgstr ""
 "कुछ बातें, जैसे कि बैकअप, स्वचालित परीक्षणों को चिपकाएँ। इसका प्रयोग उन्‍हें"
 " बंद करने के लिए किया जाता है।"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Make it easy to get back to the configuration tool."
+msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
 msgid "Gather"
@@ -879,6 +899,14 @@ msgstr "आधार रूप"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Cross Reference"
 msgstr "संकर संदर्भ "
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
+msgid "Migrating writing systems..."
+msgstr ""
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
+msgid "Please wait while WeSay migrates your writing systems."
+msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\CheckBoxControl.Designer.cs
 msgid "checkBox1"

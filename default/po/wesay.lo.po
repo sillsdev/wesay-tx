@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-05-05T07:01:01\n"
-"PO-Revision-Date: 2011-03-22 15:09+0000\n"
+"POT-Creation-Date: 2011-05-26T10:00:45\n"
+"PO-Revision-Date: 2011-05-28 00:17+0000\n"
 "Last-Translator: palaso_admin <admin@palaso.org>\n"
 "Language-Team: Lao (http://www.transifex.net/projects/p/wesay/team/lo/)\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-05-05T07:01:01
+# POT-Creation-Date: 2011-05-26T10:00:45
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "ຄວາມໝາຍ"
@@ -699,6 +699,10 @@ msgstr ""
 msgid "Input files to count."
 msgstr ""
 
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
+msgid "Configure This Project..."
+msgstr ""
+
 #. Shown at the bottom of the screen.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "Dictionary has {0} words"
@@ -723,6 +727,18 @@ msgid "Please wait while WeSay prepares your data"
 msgstr "ກະລຸນາລໍຖ້າຂະນະທີ່ໂປຣແກຣມ WeSay ຕຽມຂໍ້ມູນຂອງທ່ານ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid ""
+"Welcome to WeSay.\\r\\nThe Configuration Tool will now open so that you can "
+"make a new project or choose an existing one."
+msgstr ""
+
+#. The label on the message box which the user sees if WeSay can't figure out
+#. what project to open.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "No Default Project"
+msgstr ""
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
 msgstr ""
 
@@ -745,6 +761,10 @@ msgid ""
 msgstr ""
 "Some things, like backup, just gum up automated tests.  This is used to turn"
 " them off."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Make it easy to get back to the configuration tool."
+msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
 msgid "Gather"
@@ -866,6 +886,14 @@ msgstr "ຮູບແບບພື້ນຖານ"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Cross Reference"
 msgstr "ອ້າງອິງ"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
+msgid "Migrating writing systems..."
+msgstr ""
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
+msgid "Please wait while WeSay migrates your writing systems."
+msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\CheckBoxControl.Designer.cs
 msgid "checkBox1"
