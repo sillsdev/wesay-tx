@@ -1,11 +1,11 @@
 #
-# palaso_admin <admin@palaso.org>, 2011
+# palaso_admin <admin@palaso.org>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-05-26T10:00:45\n"
-"PO-Revision-Date: 2011-05-28 00:17+0000\n"
+"POT-Creation-Date: 2011-06-30T03:27:30\n"
+"PO-Revision-Date: 2011-07-02 00:15+0000\n"
 "Last-Translator: palaso_admin <admin@palaso.org>\n"
 "Language-Team: Thai (http://www.transifex.net/projects/p/wesay/team/th/)\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-05-26T10:00:45
+# POT-Creation-Date: 2011-06-30T03:27:30
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "ความหมาย"
@@ -884,11 +884,11 @@ msgid "Cross Reference"
 msgstr "คำที่เกี่ยวข้อง"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
-msgid "Migrating writing systems..."
+msgid "Checking file..."
 msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
-msgid "Please wait while WeSay migrates your writing systems."
+msgid "Checking files..."
 msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\CheckBoxControl.Designer.cs
