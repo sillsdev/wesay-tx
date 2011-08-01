@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-06-30T03:27:30\n"
+"POT-Creation-Date: 2011-07-11T08:06:48\n"
 "PO-Revision-Date: 2011-07-02 00:15+0000\n"
 "Last-Translator: emmahab <emmahab2008@gmail.com>\n"
 "Language-Team: Kinyarwanda (http://www.transifex.net/projects/p/wesay/team/rw/)\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-06-30T03:27:30
+# POT-Creation-Date: 2011-07-11T08:06:48
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "Ibisobanuro"
