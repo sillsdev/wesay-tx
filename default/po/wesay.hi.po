@@ -1,12 +1,13 @@
 #
-# ProjectLEARN <marwariphrasebook@gmail.com>, 2011.
+# Translators:
 # palaso_admin <admin@palaso.org>, 2011.
+# ProjectLEARN <marwariphrasebook@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-07-25T06:49:33\n"
-"PO-Revision-Date: 2011-07-02 00:15+0000\n"
+"POT-Creation-Date: 2011-09-30T20:13:19\n"
+"PO-Revision-Date: 2011-09-02 00:22+0000\n"
 "Last-Translator: ProjectLEARN <marwariphrasebook@gmail.com>\n"
 "Language-Team: Hindi (http://www.transifex.net/projects/p/wesay/team/hi/)\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +18,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-07-25T06:49:33
+# POT-Creation-Date: 2011-09-30T20:13:19
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "अर्थ"
@@ -62,8 +63,8 @@ msgstr ""
 "उप-प्रविष्‍टियाँ की तरह दिखाया जा सकता है।"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
-msgid "Looking for USB Keys..."
-msgstr "यू.एस.बी. कुंजियों की खोज कर रहा है…"
+msgid "Looking for USB Flash Drives..."
+msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Backing Up..."
@@ -91,8 +92,8 @@ msgid "&OK"
 msgstr "&ठीक है"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
-msgid "Please insert the USB Key to backup to."
-msgstr "कृपया बेकअप लेने के लिए यू.एस.बी. कुंजी डालें।"
+msgid "Please insert the USB Flash Drive to backup to."
+msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Unable to look for the device due to an error."
@@ -121,8 +122,8 @@ msgstr "यू.एस.बी."
 
 #. description of usb backup action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
-msgid "Saves a backup on an external device, like a USB key."
-msgstr "एक बाहरी उपकरण पर बैकअप सेव करता है, एक यू.एस.बी. कुंजी की तरह।"
+msgid "Saves a backup on an external device, like a USB Flash Drive."
+msgstr ""
 
 #. Short buton label for usb flash-drive backup action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
@@ -822,11 +823,9 @@ msgstr "भेजना/प्राप्‍त करना"
 #. description of send/receive action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid ""
-"Sends your changes to usb key, server, or other users, and receives the "
-"changes made by other members of your team."
+"Sends your changes to USB flashd drive, server, or other users, and receives"
+" the changes made by other members of your team."
 msgstr ""
-"अपने परिवर्तनों को यू.एस.बी. कुंजी, सर्वर, या अन्य उपयोगकर्ताओं को भेजें, और"
-" अपनी टीम के अन्य सदस्यों द्वारा किए गए परिवर्तनों को प्राप्त करें।"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid "WeSay Send/Receive"

@@ -1,12 +1,13 @@
 #
-# szee18 <s.zee18@gmail.com>, 2011.
+# Translators:
 # palaso_admin <admin@palaso.org>, 2011.
+# szee18 <s.zee18@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-07-25T06:49:33\n"
-"PO-Revision-Date: 2011-07-02 00:15+0000\n"
+"POT-Creation-Date: 2011-09-30T20:13:19\n"
+"PO-Revision-Date: 2011-09-02 00:22+0000\n"
 "Last-Translator: szee18 <s.zee18@gmail.com>\n"
 "Language-Team: Burmese (http://www.transifex.net/projects/p/wesay/team/my/)\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +18,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-07-25T06:49:33
+# POT-Creation-Date: 2011-09-30T20:13:19
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "အဓိပ္ပါယ်"
@@ -61,8 +62,8 @@ msgstr ""
 "သည်။ "
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
-msgid "Looking for USB Keys..."
-msgstr "USB Keys ကို ရှာနေပါသည်..."
+msgid "Looking for USB Flash Drives..."
+msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Backing Up..."
@@ -90,8 +91,8 @@ msgid "&OK"
 msgstr "&ကောင်းပြီ။ ရပြီ။ "
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
-msgid "Please insert the USB Key to backup to."
-msgstr "သိုလှောင်ရန်အတွက် USB key ကိုထည့်သွင်းပါ။"
+msgid "Please insert the USB Flash Drive to backup to."
+msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Unable to look for the device due to an error."
@@ -120,10 +121,8 @@ msgstr "USB  ကဲ့သို့သော external device တွင် သိ�
 
 #. description of usb backup action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
-msgid "Saves a backup on an external device, like a USB key."
+msgid "Saves a backup on an external device, like a USB Flash Drive."
 msgstr ""
-"သိုလှောင်ပြီးသော စာရွက်စာတမ်းများကို USB Keys ကဲ့သို့သော external device "
-"တွင် သိမ်းဆည်းပါ။"
 
 #. Short buton label for usb flash-drive backup action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
@@ -830,14 +829,9 @@ msgstr "ပေးပို့သည်/လက်ခံသည်။"
 #. description of send/receive action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid ""
-"Sends your changes to usb key, server, or other users, and receives the "
-"changes made by other members of your team."
+"Sends your changes to USB flashd drive, server, or other users, and receives"
+" the changes made by other members of your team."
 msgstr ""
-"သင်၏ပြုပြင်ပြောင်းလဲချက်များကို အချက်အလက်များသိမ်း၍ရသော "
-"ကွန်ပျူတာနှင့်တွဲဖက်သုံးရသောပစ္စည်း,  ပင်မကွန်ပျူတာကြီးအပါအ၀င် "
-"အခြားသုံးစွဲသူများသို့ပို့ပါ။ ပြီးတော့ "
-"ပြုပြင်ပြောင်းလဲမှုများကိုပြုလုပ်ခဲ့တဲ့ အခြား အသင်း၀င်တွေကိုလည်း "
-"ပြုပြင်ပြောင်းလဲမှုအချက်အလက်များ လက်ခံရရှိစေပါ။"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid "WeSay Send/Receive"
