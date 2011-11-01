@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-09-30T20:13:19\n"
+"POT-Creation-Date: 2011-10-13T03:18:25\n"
 "PO-Revision-Date: 2011-09-02 00:22+0000\n"
 "Last-Translator: palaso_admin <admin@palaso.org>\n"
 "Language-Team: Lao (http://www.transifex.net/projects/p/wesay/team/lo/)\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-09-30T20:13:19
+# POT-Creation-Date: 2011-10-13T03:18:25
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "ຄວາມໝາຍ"
