@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-10-13T03:18:25\n"
-"PO-Revision-Date: 2011-09-02 00:22+0000\n"
+"POT-Creation-Date: 2011-10-25T20:06:30\n"
+"PO-Revision-Date: 2011-11-01 03:11+0000\n"
 "Last-Translator: lrtc_makara <lrtc_makara@icc.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.net/projects/p/wesay/team/km/)\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-10-13T03:18:25
+# POT-Creation-Date: 2011-10-25T20:06:30
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "អត្ថន័យ​​"
@@ -267,9 +267,6 @@ msgstr ""
 "  ត្រូវ​មាន​កម្មវិធី LP កំណែ ៣.០ ឬ​ ខ្ពស់​ជាង​​នេះ។"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
-msgid "Save in OpenOffice"
-msgstr "រក្សា​ទុក​ក្នុងកម្មវិធី OpenOffice"
-
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 msgid "Make OpenOffice Document"
 msgstr "បង្កើត​ឯកសារ​ក្នុងកម្មវិធី OpenOffice"

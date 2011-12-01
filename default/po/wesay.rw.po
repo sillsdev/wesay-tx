@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-10-13T03:18:25\n"
-"PO-Revision-Date: 2011-09-02 00:22+0000\n"
+"POT-Creation-Date: 2011-10-25T20:06:30\n"
+"PO-Revision-Date: 2011-11-01 03:11+0000\n"
 "Last-Translator: emmahab <emmahab2008@gmail.com>\n"
 "Language-Team: Kinyarwanda (http://www.transifex.net/projects/p/wesay/team/rw/)\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-10-13T03:18:25
+# POT-Creation-Date: 2011-10-25T20:06:30
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "Ibisobanuro"
@@ -263,9 +263,6 @@ msgstr ""
 "cyangwa iri hejuru."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
-msgid "Save in OpenOffice"
-msgstr "Bibike muri OpenOffice"
-
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 msgid "Make OpenOffice Document"
 msgstr "Bikoremo Dokima ya OpenOffice"
