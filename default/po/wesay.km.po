@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-10-25T20:06:30\n"
+"POT-Creation-Date: 2011-12-15T05:06:01\n"
 "PO-Revision-Date: 2011-11-01 03:11+0000\n"
-"Last-Translator: lrtc_makara <lrtc_makara@icc.org.kh>\n"
+"Last-Translator: Makara SOK <lrtc_makara@icc.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.net/projects/p/wesay/team/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-10-25T20:06:30
+# POT-Creation-Date: 2011-12-15T05:06:01
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "អត្ថន័យ​​"
