@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2011-12-15T05:06:01\n"
+"POT-Creation-Date: 2012-01-05T15:38:40\n"
 "PO-Revision-Date: 2011-11-01 03:11+0000\n"
 "Last-Translator: palaso_admin <admin@palaso.org>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/wesay/team/es/)\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2011-12-15T05:06:01
+# POT-Creation-Date: 2012-01-05T15:38:40
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "Significados"
