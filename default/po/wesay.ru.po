@@ -5,10 +5,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2012-01-05T15:38:40\n"
-"PO-Revision-Date: 2011-11-01 03:11+0000\n"
+"POT-Creation-Date: 2012-01-27T09:39:46\n"
+"PO-Revision-Date: 2012-02-14 08:32+0000\n"
 "Last-Translator: palaso_admin <admin@palaso.org>\n"
-"Language-Team: Russian (http://www.transifex.net/projects/p/wesay/team/ru/)\n"
+"Language-Team: Russian (http://www.transifex.net/projects/p/wesay/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2012-01-05T15:38:40
+# POT-Creation-Date: 2012-01-27T09:39:46
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr ""
@@ -517,9 +517,7 @@ msgstr ""
 msgid ""
 "Collect new words organized by semantic domains and questions about those "
 "domains."
-msgstr ""
-"Собрать новые слова, упорядочивая их по области семантики и вопросам об этих"
-" областях."
+msgstr "Собрать новые слова, упорядочивая их по области семантики и вопросам об этих областях."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid "Domains without words"
@@ -542,8 +540,7 @@ msgstr "(Клавиша Enter)"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Try thinking of words you use to talk about these things."
-msgstr ""
-"Попробуйте придумать слова которые вы используете говоря об этих вещах."
+msgstr "Попробуйте придумать слова которые вы используете говоря об этих вещах."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Question goes here."
@@ -579,8 +576,7 @@ msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Try thinking of ways to say these words in your language."
-msgstr ""
-"Попробуйте придумать способы, которыми вы говорите эти слова в вашем языке."
+msgstr "Попробуйте придумать способы, которыми вы говорите эти слова в вашем языке."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Word:"

@@ -5,10 +5,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2012-01-05T15:38:40\n"
-"PO-Revision-Date: 2011-11-01 03:11+0000\n"
+"POT-Creation-Date: 2012-01-27T09:39:46\n"
+"PO-Revision-Date: 2012-02-14 08:33+0000\n"
 "Last-Translator: Emmanuel Habumuremyi <emmahab2008@gmail.com>\n"
-"Language-Team: Kinyarwanda (http://www.transifex.net/projects/p/wesay/team/rw/)\n"
+"Language-Team: Kinyarwanda (http://www.transifex.net/projects/p/wesay/language/rw/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2012-01-05T15:38:40
+# POT-Creation-Date: 2012-01-27T09:39:46
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "Ibisobanuro"
@@ -56,10 +56,7 @@ msgid ""
 "Identify the \"base form\" word that this word is built from. In the printed"
 " dictionary, the derived or variant words can optionally be shown as "
 "subentries of their base forms."
-msgstr ""
-"Garagaza \"imiterere y'ibanze\" y'ijambo iri ukoraho ryubakiyeho. Mu "
-"nkoranya icapuruye ku mpapuro, iryakomowe cyangwa impindurantego zaryo "
-"zishobora kugaragazwa nk'imyinjizo yungiririza y'imiterere y'ibanze."
+msgstr "Garagaza \"imiterere y'ibanze\" y'ijambo iri ukoraho ryubakiyeho. Mu nkoranya icapuruye ku mpapuro, iryakomowe cyangwa impindurantego zaryo zishobora kugaragazwa nk'imyinjizo yungiririza y'imiterere y'ibanze."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Looking for USB Flash Drives..."
@@ -135,9 +132,7 @@ msgstr "Ohereza imeli irimo iyi nkoranya kwa {0}"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
 msgid "Email this dictionary as a compressed attachment"
-msgstr ""
-"Ohereza iyi nkoranya muri imeli ku buryo bw'umugereka ufunze mu buryo bwa "
-"zipu"
+msgstr "Ohereza iyi nkoranya muri imeli ku buryo bw'umugereka ufunze mu buryo bwa zipu"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
 msgid "The latest WeSay project data is attached."
@@ -257,10 +252,7 @@ msgstr "Kuyifungura muri Lexique Pro"
 msgid ""
 "Open dictionary in Lexique Pro for printing or web-page creation. Requires "
 "version LP ver 3.0 or higher."
-msgstr ""
-"Gufungira inkoranya muri Lexique Pro hagamijwe kuyicapurura ku mpapuro "
-"cyangwa kuyikoramo urubuga rwa interineti. Hakenerwa LP inonosorwa rya 3.0 "
-"cyangwa iri hejuru."
+msgstr "Gufungira inkoranya muri Lexique Pro hagamijwe kuyicapurura ku mpapuro cyangwa kuyikoramo urubuga rwa interineti. Hakenerwa LP inonosorwa rya 3.0 cyangwa iri hejuru."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
@@ -525,9 +517,7 @@ msgstr "Koranya amagambo ukoresheje Ibyiciro nyunguramagambo"
 msgid ""
 "Collect new words organized by semantic domains and questions about those "
 "domains."
-msgstr ""
-"Gukorakoranya amagambo apanze mu byiciro nyunguramagambo hifashishijwe "
-"ibibazo kuri ibi byiciro."
+msgstr "Gukorakoranya amagambo apanze mu byiciro nyunguramagambo hifashishijwe ibibazo kuri ibi byiciro."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid "Domains without words"
@@ -582,9 +572,7 @@ msgstr "Igisobanuro"
 msgid ""
 "Do not just translate these words; instead think of words in your own "
 "language."
-msgstr ""
-"Wisemura gusa aya magambo; ahubwo tekereza ku yandi magambo akoreshwa mu "
-"rurimi rwawe bwite"
+msgstr "Wisemura gusa aya magambo; ahubwo tekereza ku yandi magambo akoreshwa mu rurimi rwawe bwite"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Try thinking of ways to say these words in your language."
@@ -643,9 +631,7 @@ msgstr "Agaciro"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Placeholder for control which uses generics so breaks the designer"
-msgstr ""
-"Ihagenewe gushyirwa ifashagenzura hakoresha kodeshingiro bityo bikangiza "
-"imigaragarire"
+msgstr "Ihagenewe gushyirwa ifashagenzura hakoresha kodeshingiro bityo bikangiza imigaragarire"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Reference Collection"
@@ -744,9 +730,7 @@ msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
-msgstr ""
-"Inzira ikugeza kuri LiftXml (urg. ku madirishya,  "
-"\"c:\\thai\\wesay\\thai.lift\")."
+msgstr "Inzira ikugeza kuri LiftXml (urg. ku madirishya,  \"c:\\thai\\wesay\\thai.lift\")."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Language to show the user interface in."
@@ -756,17 +740,13 @@ msgstr "Ururimi rwo kwereka ukoresha iyi porogaramu."
 msgid ""
 "Start without a user interface (will have no effect if WeSay is already "
 "running with a UI."
-msgstr ""
-"Gutangira nta mwanya umukoresha w'iyi porogaramu afite (nta cyo bitanga niba"
-" WeSay irigukorera muri UI."
+msgstr "Gutangira nta mwanya umukoresha w'iyi porogaramu afite (nta cyo bitanga niba WeSay irigukorera muri UI."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid ""
 "Some things, like backup, just gum up automated tests.  This is used to turn"
 " them off."
-msgstr ""
-"Ibintu bimwe, nk'iteganyakopi, bygagiye mu igenzura ryikora.  Ibi bikoreshwa"
-" mu kubizimya."
+msgstr "Ibintu bimwe, nk'iteganyakopi, bygagiye mu igenzura ryikora.  Ibi bikoreshwa mu kubizimya."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Make it easy to get back to the configuration tool."
@@ -828,9 +808,7 @@ msgstr "Ohereza/Akira bya WeSay"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid ""
 "Send/Receive Changes to devices, servers, or other users on your network."
-msgstr ""
-"Ohereza/Akira ibyahindutse ku bubiko, seriveri, cyangwa abo mukorana bari ku"
-" ihuriro ryawe."
+msgstr "Ohereza/Akira ibyahindutse ku bubiko, seriveri, cyangwa abo mukorana bari ku ihuriro ryawe."
 
 #. The label for the field holding the citation form, which is how the word
 #. will be displayed in the dictionary.  This is used in languages where the

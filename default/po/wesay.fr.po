@@ -6,10 +6,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2012-01-05T15:38:40\n"
-"PO-Revision-Date: 2011-11-01 03:11+0000\n"
+"POT-Creation-Date: 2012-01-27T09:39:46\n"
+"PO-Revision-Date: 2012-02-14 08:32+0000\n"
 "Last-Translator: DavidRowe <david_rowe@kastanet.org>\n"
-"Language-Team: French (http://www.transifex.net/projects/p/wesay/team/fr/)\n"
+"Language-Team: French (http://www.transifex.net/projects/p/wesay/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2012-01-05T15:38:40
+# POT-Creation-Date: 2012-01-27T09:39:46
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "Sens"
@@ -57,10 +57,7 @@ msgid ""
 "Identify the \"base form\" word that this word is built from. In the printed"
 " dictionary, the derived or variant words can optionally be shown as "
 "subentries of their base forms."
-msgstr ""
-"Identifier la \"forme de base\" sur laquelle ce mot est construit.  Dans le "
-"lexique imprimé, les mots dérivés ou variants peuvent parfois être presentés"
-" comme sous-entrées de leurs formes de base."
+msgstr "Identifier la \"forme de base\" sur laquelle ce mot est construit.  Dans le lexique imprimé, les mots dérivés ou variants peuvent parfois être presentés comme sous-entrées de leurs formes de base."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Looking for USB Flash Drives..."
@@ -220,8 +217,7 @@ msgstr "Exporter en HTML"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
 msgid ""
 "Creates a simple Html version of the dictionary.  Not a very good way to go."
-msgstr ""
-"Créer un lexique très simple en HTML. Ce n'est pas une bonne solution."
+msgstr "Créer un lexique très simple en HTML. Ce n'est pas une bonne solution."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\SimpleProgressDialog.Designer.cs
@@ -257,9 +253,7 @@ msgstr "Ouvrir dans Lexique Pro"
 msgid ""
 "Open dictionary in Lexique Pro for printing or web-page creation. Requires "
 "version LP ver 3.0 or higher."
-msgstr ""
-"Ouvrir le lexique dans Lexique Pro (version 3.0 ou supérieure) pour imprimer"
-" ou créer une page web."
+msgstr "Ouvrir le lexique dans Lexique Pro (version 3.0 ou supérieure) pour imprimer ou créer une page web."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
@@ -432,9 +426,7 @@ msgstr "Changer de tâche et voir l'état actuel des tâches"
 msgid ""
 "NOTE: This control should be the same size as the initial tab page size so "
 "the in"
-msgstr ""
-"NOTE: This control should be the same size as the initial tab page size so "
-"the in"
+msgstr "NOTE: This control should be the same size as the initial tab page size so the in"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
 msgid "{1} dictionary has {0} words"
@@ -526,9 +518,7 @@ msgstr "Rassembler mots par domaine sémantique"
 msgid ""
 "Collect new words organized by semantic domains and questions about those "
 "domains."
-msgstr ""
-"Rassembler des nouveaux mots organisés par domaines sémantiques et des "
-"questions sur ces domaines."
+msgstr "Rassembler des nouveaux mots organisés par domaines sémantiques et des questions sur ces domaines."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid "Domains without words"
@@ -583,14 +573,11 @@ msgstr "Signification"
 msgid ""
 "Do not just translate these words; instead think of words in your own "
 "language."
-msgstr ""
-"Ne vous contentez pas de simplement traduire ces mots, mais pensez à des "
-"mots dans votre propre langue."
+msgstr "Ne vous contentez pas de simplement traduire ces mots, mais pensez à des mots dans votre propre langue."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Try thinking of ways to say these words in your language."
-msgstr ""
-"Essayer de penser des moyens qu'on exprime ces mots dans votre langue."
+msgstr "Essayer de penser des moyens qu'on exprime ces mots dans votre langue."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Word:"
@@ -744,9 +731,7 @@ msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
-msgstr ""
-"Chemin vers le fichier xml Lift (par.ex. sur windows, "
-"\"c:\\thai\\wesay\\thai.lift\")."
+msgstr "Chemin vers le fichier xml Lift (par.ex. sur windows, \"c:\\thai\\wesay\\thai.lift\")."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Language to show the user interface in."
@@ -756,17 +741,13 @@ msgstr "Langue dans laquelle l'interface sera affichée."
 msgid ""
 "Start without a user interface (will have no effect if WeSay is already "
 "running with a UI."
-msgstr ""
-"Commencer sans interface utilisateur (inutile si WeSay a été déjà lancé avec"
-" interface)."
+msgstr "Commencer sans interface utilisateur (inutile si WeSay a été déjà lancé avec interface)."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid ""
 "Some things, like backup, just gum up automated tests.  This is used to turn"
 " them off."
-msgstr ""
-"Certaines choses, comme la sauvegarde, interfèrent avec des tests "
-"automatisés. Ceci est utilisé pour les éteindre."
+msgstr "Certaines choses, comme la sauvegarde, interfèrent avec des tests automatisés. Ceci est utilisé pour les éteindre."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Make it easy to get back to the configuration tool."
@@ -828,9 +809,7 @@ msgstr "Envoyer/recevoir WeSay"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid ""
 "Send/Receive Changes to devices, servers, or other users on your network."
-msgstr ""
-"Envoyer/recevoir des changements aux clés, serveurs ou autres utilisateurs "
-"sur votre réseau."
+msgstr "Envoyer/recevoir des changements aux clés, serveurs ou autres utilisateurs sur votre réseau."
 
 #. The label for the field holding the citation form, which is how the word
 #. will be displayed in the dictionary.  This is used in languages where the

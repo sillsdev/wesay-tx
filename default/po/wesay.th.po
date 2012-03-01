@@ -7,10 +7,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2012-01-05T15:38:40\n"
-"PO-Revision-Date: 2011-11-07 04:15+0000\n"
+"POT-Creation-Date: 2012-01-27T09:39:46\n"
+"PO-Revision-Date: 2012-02-14 08:33+0000\n"
 "Last-Translator: Greg Blok <greg_blok@sil.org>\n"
-"Language-Team: Thai (http://www.transifex.net/projects/p/wesay/team/th/)\n"
+"Language-Team: Thai (http://www.transifex.net/projects/p/wesay/language/th/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2012-01-05T15:38:40
+# POT-Creation-Date: 2012-01-27T09:39:46
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "ความหมาย"
@@ -218,9 +218,7 @@ msgstr "นำออกไปที่ HTML"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
 msgid ""
 "Creates a simple Html version of the dictionary.  Not a very good way to go."
-msgstr ""
-"สร้างรูปแบบ HTML ที่เรียบง่ายของพจนานุกรม "
-"ไม่ใช่ทางเลือกที่ดีสำหรับการเลือกทำ"
+msgstr "สร้างรูปแบบ HTML ที่เรียบง่ายของพจนานุกรม ไม่ใช่ทางเลือกที่ดีสำหรับการเลือกทำ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\SimpleProgressDialog.Designer.cs
@@ -256,9 +254,7 @@ msgstr "เปิดใช้ Lexique Pro"
 msgid ""
 "Open dictionary in Lexique Pro for printing or web-page creation. Requires "
 "version LP ver 3.0 or higher."
-msgstr ""
-"เปิดพจนานุกรมในLexique Pro ปริ๊น หรือ การสร้าง web - page ต้องใช้ เวอร์ชั่น "
-"LP เวอร์ชั่น 3.0 หรือรุ่นที่สูงกว่า"
+msgstr "เปิดพจนานุกรมในLexique Pro ปริ๊น หรือ การสร้าง web - page ต้องใช้ เวอร์ชั่น LP เวอร์ชั่น 3.0 หรือรุ่นที่สูงกว่า"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
@@ -431,9 +427,7 @@ msgstr "สลับงานและดูสถานะปัจจุบั
 msgid ""
 "NOTE: This control should be the same size as the initial tab page size so "
 "the in"
-msgstr ""
-"NOTE: This control should be the same size as the initial tab page size so "
-"the in"
+msgstr "NOTE: This control should be the same size as the initial tab page size so the in"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
 msgid "{1} dictionary has {0} words"
@@ -728,9 +722,7 @@ msgstr "กรุณารอในขณะที่ WeSay กำลังเ�
 msgid ""
 "Welcome to WeSay.\\r\\nThe Configuration Tool will now open so that you can "
 "make a new project or choose an existing one."
-msgstr ""
-"ยินดีต้อนรับสู่ WeSay. \\ r \\ n "
-"เครื่องมือการกำหนดค่าในขณะนี้จะเปิดเพื่อให้คุณสามารถทำโครงการใหม่หรือเลือกที่มีอยู่เดิม"
+msgstr "ยินดีต้อนรับสู่ WeSay. \\ r \\ n เครื่องมือการกำหนดค่าในขณะนี้จะเปิดเพื่อให้คุณสามารถทำโครงการใหม่หรือเลือกที่มีอยู่เดิม"
 
 #. The label on the message box which the user sees if WeSay can't figure out
 #. what project to open.
@@ -750,17 +742,13 @@ msgstr "ภาษาที่ใช้แสดงในหน้าของผ
 msgid ""
 "Start without a user interface (will have no effect if WeSay is already "
 "running with a UI."
-msgstr ""
-"Start without a user interface (will have no effect if WeSay is already "
-"running with a UI."
+msgstr "Start without a user interface (will have no effect if WeSay is already running with a UI."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid ""
 "Some things, like backup, just gum up automated tests.  This is used to turn"
 " them off."
-msgstr ""
-"Some things, like backup, just gum up automated tests.  This is used to turn"
-" them off."
+msgstr "Some things, like backup, just gum up automated tests.  This is used to turn them off."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Make it easy to get back to the configuration tool."
@@ -812,9 +800,7 @@ msgstr "ส่ง/รับ"
 msgid ""
 "Sends your changes to USB flashd drive, server, or other users, and receives"
 " the changes made by other members of your team."
-msgstr ""
-"การเปลี่ยนแปลงจะส่งไปยัง ยูเอสบี แฟลชไดร์ เซิร์ฟเวอร์ของคุณหรือผู้ใช้อื่น ๆ "
-"และได้รับการเปลี่ยนแปลงที่ทำโดยสมาชิกคนอื่นในทีมของคุณ"
+msgstr "การเปลี่ยนแปลงจะส่งไปยัง ยูเอสบี แฟลชไดร์ เซิร์ฟเวอร์ของคุณหรือผู้ใช้อื่น ๆ และได้รับการเปลี่ยนแปลงที่ทำโดยสมาชิกคนอื่นในทีมของคุณ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid "WeSay Send/Receive"
@@ -824,8 +810,7 @@ msgstr "WeSay ส่ง/รับ"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid ""
 "Send/Receive Changes to devices, servers, or other users on your network."
-msgstr ""
-"ส่ง/รับ การเปลี่ยนแปลงอุปกรณ์พิเศษ,server,หรือ ผู้ใช้คนอื่นในระบบเครือข่าย"
+msgstr "ส่ง/รับ การเปลี่ยนแปลงอุปกรณ์พิเศษ,server,หรือ ผู้ใช้คนอื่นในระบบเครือข่าย"
 
 #. The label for the field holding the citation form, which is how the word
 #. will be displayed in the dictionary.  This is used in languages where the

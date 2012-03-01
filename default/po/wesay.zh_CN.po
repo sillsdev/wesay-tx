@@ -6,10 +6,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2012-01-05T15:38:40\n"
-"PO-Revision-Date: 2011-11-01 03:11+0000\n"
+"POT-Creation-Date: 2012-01-27T09:39:46\n"
+"PO-Revision-Date: 2012-02-14 08:32+0000\n"
 "Last-Translator: rperlin <ross.perlin@gmail.com>\n"
-"Language-Team: Chinese (China) (http://www.transifex.net/projects/p/wesay/team/zh_CN/)\n"
+"Language-Team: Chinese (China) (http://www.transifex.net/projects/p/wesay/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2012-01-05T15:38:40
+# POT-Creation-Date: 2012-01-27T09:39:46
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "意义"

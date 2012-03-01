@@ -8,10 +8,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2012-01-05T15:38:40\n"
-"PO-Revision-Date: 2011-11-01 03:11+0000\n"
+"POT-Creation-Date: 2012-01-27T09:39:46\n"
+"PO-Revision-Date: 2012-02-14 08:33+0000\n"
 "Last-Translator: Makara SOK <lrtc_makara@icc.org.kh>\n"
-"Language-Team: Khmer (http://www.transifex.net/projects/p/wesay/team/km/)\n"
+"Language-Team: Khmer (http://www.transifex.net/projects/p/wesay/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2012-01-05T15:38:40
+# POT-Creation-Date: 2012-01-27T09:39:46
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "អត្ថន័យ​​"
@@ -29,8 +29,7 @@ msgid "Add Meanings"
 msgstr "បន្ថែម​អត្ថន័យ"
 
 msgid "Add meanings (senses) to entries where they are missing."
-msgstr ""
-"បន្ថែម​អត្ថន័យ​​ (ន័យ) ទៅ​​លើ​ធាតុ​បញ្ចូល​ណា​​​ដែល​​មិន​ទាន់​ដាក់អត្ថន័យ ។"
+msgstr "បន្ថែម​អត្ថន័យ​​ (ន័យ) ទៅ​​លើ​ធាតុ​បញ្ចូល​ណា​​​ដែល​​មិន​ទាន់​ដាក់អត្ថន័យ ។"
 
 msgid "Parts of Speech"
 msgstr "ថ្នាក់ពាក្យ"
@@ -60,10 +59,7 @@ msgid ""
 "Identify the \"base form\" word that this word is built from. In the printed"
 " dictionary, the derived or variant words can optionally be shown as "
 "subentries of their base forms."
-msgstr ""
-"សូម​សម្គាល់​ពាក្យ ​«ទម្រង់​ដើម» ​ដែល​ជា​ពាក្យ​ឫស​របស់​ពាក្យ​នេះ។ នៅពេល​"
-"បោះពុម្ព​​វចនានុក្រម​ យើង​អាច​ជ្រើសរើស​​​យក​​ពាក្យ​ណា​​​ដែល​មាន​ទម្រង់​ដើម"
-"​​​មក​ធ្វើ​ជា​​​ធាតុ​បញ្ចូល​រង​របស់​​ពាក្យ​នោះ។"
+msgstr "សូម​សម្គាល់​ពាក្យ ​«ទម្រង់​ដើម» ​ដែល​ជា​ពាក្យ​ឫស​របស់​ពាក្យ​នេះ។ នៅពេល​បោះពុម្ព​​វចនានុក្រម​ យើង​អាច​ជ្រើសរើស​​​យក​​ពាក្យ​ណា​​​ដែល​មាន​ទម្រង់​ដើម​​​មក​ធ្វើ​ជា​​​ធាតុ​បញ្ចូល​រង​របស់​​ពាក្យ​នោះ។"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Looking for USB Flash Drives..."
@@ -139,13 +135,11 @@ msgstr "ផ្ញើ​វចនានុក្រម​នេះ​តាមស
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
 msgid "Email this dictionary as a compressed attachment"
-msgstr ""
-"បង្ហាប់​ប្លង់​វចនានុក្រម​នេះ ហើយ​​ផ្ញើ​​​ភ្ជាប់​ទៅ​ជា​មួយ​សារ​អេឡិចត្រូនិក"
+msgstr "បង្ហាប់​ប្លង់​វចនានុក្រម​នេះ ហើយ​​ផ្ញើ​​​ភ្ជាប់​ទៅ​ជា​មួយ​សារ​អេឡិចត្រូនិក"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
 msgid "The latest WeSay project data is attached."
-msgstr ""
-"ទិន្នន័យ​របស់​គម្រោង WeSay  ថ្មី​បំផុត​បាន​​ភ្ជាប់​ជា​មួយ​​សារ​អេឡិចត្រូនិក។"
+msgstr "ទិន្នន័យ​របស់​គម្រោង WeSay  ថ្មី​បំផុត​បាន​​ភ្ជាប់​ជា​មួយ​​សារ​អេឡិចត្រូនិក។"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
@@ -225,8 +219,7 @@ msgstr "នាំ​ចេញ​ទៅ​កាន់​ HTML"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
 msgid ""
 "Creates a simple Html version of the dictionary.  Not a very good way to go."
-msgstr ""
-"បង្កើត​វចនានុក្រម​ជា​ទម្រង់ HTML ធម្មតា។​ នេះ​មិនមែន​​ជា​វិធី​ល្អ​​នោះ​​ទេ។"
+msgstr "បង្កើត​វចនានុក្រម​ជា​ទម្រង់ HTML ធម្មតា។​ នេះ​មិនមែន​​ជា​វិធី​ល្អ​​នោះ​​ទេ។"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\SimpleProgressDialog.Designer.cs
@@ -262,9 +255,7 @@ msgstr "បើកក្នុងកម្មវិធី Lexique Pro"
 msgid ""
 "Open dictionary in Lexique Pro for printing or web-page creation. Requires "
 "version LP ver 3.0 or higher."
-msgstr ""
-"បើក​វចនានុក្រម​ក្នុងកម្មវិធី Lexique Pro ដើម្បី​បោះពុម្ព ឬ​បង្កើត​គេហទំព័រ។"
-"  ត្រូវ​មាន​កម្មវិធី LP កំណែ ៣.០ ឬ​ ខ្ពស់​ជាង​​នេះ។"
+msgstr "បើក​វចនានុក្រម​ក្នុងកម្មវិធី Lexique Pro ដើម្បី​បោះពុម្ព ឬ​បង្កើត​គេហទំព័រ។  ត្រូវ​មាន​កម្មវិធី LP កំណែ ៣.០ ឬ​ ខ្ពស់​ជាង​​នេះ។"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
@@ -529,9 +520,7 @@ msgstr "ប្រមូល​ពាក្យ​តាម​ដែន​​ន័
 msgid ""
 "Collect new words organized by semantic domains and questions about those "
 "domains."
-msgstr ""
-"ប្រមូល​ពាក្យ​ថ្មី​ដោយ​រៀបចំ​តាម​ដែន​​​ន័យ​វិទ្យា​ និង​ប្រមូល​​សំណួរ​អំពី​​"
-"ដែន​​ន័យ​វិទ្យា​​ទាំង​នោះ។"
+msgstr "ប្រមូល​ពាក្យ​ថ្មី​ដោយ​រៀបចំ​តាម​ដែន​​​ន័យ​វិទ្យា​ និង​ប្រមូល​​សំណួរ​អំពី​​ដែន​​ន័យ​វិទ្យា​​ទាំង​នោះ។"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid "Domains without words"
@@ -554,9 +543,7 @@ msgstr "(ចុច Enter)"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Try thinking of words you use to talk about these things."
-msgstr ""
-"ព្យាយាម​គិត​ពី​ពាក្យ​ដែល​លោក​​អ្នក​ប្រើ​​នៅ​ពេល​ដែល​លោកអ្នក​និយាយ​អំពី​រឿង​"
-"ទាំងនេះ។"
+msgstr "ព្យាយាម​គិត​ពី​ពាក្យ​ដែល​លោក​​អ្នក​ប្រើ​​នៅ​ពេល​ដែល​លោកអ្នក​និយាយ​អំពី​រឿង​ទាំងនេះ។"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Question goes here."
@@ -588,9 +575,7 @@ msgstr "អត្ថន័យ"
 msgid ""
 "Do not just translate these words; instead think of words in your own "
 "language."
-msgstr ""
-"កុំ​គ្រាន់តែ​បក​ប្រែ​ពាក្យ​ទាំង​នេះ​ ត្រូវ​នឹក​គិត​ពី​ពាក្យ​ក្នុង​ភាសា​កំណើត"
-"​របស់​អ្នក​វិញ។"
+msgstr "កុំ​គ្រាន់តែ​បក​ប្រែ​ពាក្យ​ទាំង​នេះ​ ត្រូវ​នឹក​គិត​ពី​ពាក្យ​ក្នុង​ភាសា​កំណើត​របស់​អ្នក​វិញ។"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Try thinking of ways to say these words in your language."
@@ -758,17 +743,13 @@ msgstr "ភាសា​ដែល​លោក​អ្នក​ប្រើ​ក
 msgid ""
 "Start without a user interface (will have no effect if WeSay is already "
 "running with a UI."
-msgstr ""
-"ចាប់ផ្តើម​ដោយ​គ្មានផ្ទាំងការងារ​អ្នក​ប្រើប្រាស់ (បើ WeSay កំពុង​ដំណើរការ​"
-"លើផ្ទាំងការងារ​អ្នក​ប្រើប្រាស់ ជម្រើស​នេះ​​គ្មាន​ប្រសិទ្ធភាព​នោះ​​ទេ។"
+msgstr "ចាប់ផ្តើម​ដោយ​គ្មានផ្ទាំងការងារ​អ្នក​ប្រើប្រាស់ (បើ WeSay កំពុង​ដំណើរការ​លើផ្ទាំងការងារ​អ្នក​ប្រើប្រាស់ ជម្រើស​នេះ​​គ្មាន​ប្រសិទ្ធភាព​នោះ​​ទេ។"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid ""
 "Some things, like backup, just gum up automated tests.  This is used to turn"
 " them off."
-msgstr ""
-"មាន​បញ្ហា​ខ្លះៗ​ ដូចជា​ការ​បម្រុងទុក ដែល​ធ្វើ​ឱ្យ​ការ​សាកល្បង​ស្វ័យប្រវត្តិ​"
-"ខូច។  ​ប្រើ​វា​ដើម្បី​បិទ​ដំណើរការ​ទាំង​អស់​នោះ​។"
+msgstr "មាន​បញ្ហា​ខ្លះៗ​ ដូចជា​ការ​បម្រុងទុក ដែល​ធ្វើ​ឱ្យ​ការ​សាកល្បង​ស្វ័យប្រវត្តិ​ខូច។  ​ប្រើ​វា​ដើម្បី​បិទ​ដំណើរការ​ទាំង​អស់​នោះ​។"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Make it easy to get back to the configuration tool."
@@ -830,9 +811,7 @@ msgstr "ផ្ញើ/ទទួល របស់កម្មវិធី​ WeSay"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid ""
 "Send/Receive Changes to devices, servers, or other users on your network."
-msgstr ""
-"ផ្ញើ/ទទួល​ ការ​ផ្លាស់ប្ដូរ​ទៅ​កាន់​ឧបករណ៍ផ្ទុក ម៉ាស៊ីន​មេ ឬ ​អ្នកប្រើប្រាស់​"
-"ដទៃ​ទៀត​ក្នុង​បណ្ដាញ​របស់​លោកអ្នក។"
+msgstr "ផ្ញើ/ទទួល​ ការ​ផ្លាស់ប្ដូរ​ទៅ​កាន់​ឧបករណ៍ផ្ទុក ម៉ាស៊ីន​មេ ឬ ​អ្នកប្រើប្រាស់​ដទៃ​ទៀត​ក្នុង​បណ្ដាញ​របស់​លោកអ្នក។"
 
 #. The label for the field holding the citation form, which is how the word
 #. will be displayed in the dictionary.  This is used in languages where the

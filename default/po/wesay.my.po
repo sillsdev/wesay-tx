@@ -6,10 +6,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2012-01-05T15:38:40\n"
-"PO-Revision-Date: 2011-11-01 03:11+0000\n"
+"POT-Creation-Date: 2012-01-27T09:39:46\n"
+"PO-Revision-Date: 2012-02-14 08:32+0000\n"
 "Last-Translator: szee18 <s.zee18@gmail.com>\n"
-"Language-Team: Burmese (http://www.transifex.net/projects/p/wesay/team/my/)\n"
+"Language-Team: Burmese (http://www.transifex.net/projects/p/wesay/language/my/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2012-01-05T15:38:40
+# POT-Creation-Date: 2012-01-27T09:39:46
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "အဓိပ္ပါယ်"
@@ -57,9 +57,7 @@ msgid ""
 "Identify the \"base form\" word that this word is built from. In the printed"
 " dictionary, the derived or variant words can optionally be shown as "
 "subentries of their base forms."
-msgstr ""
-"ဒီစကားလုံးရဲ့အခြေခံပုံစံကိုသတ်မှတ်ပေးပါ။ အဘိဓာန်ထဲတွင် အခြေခံပုံစံစကားလုံးမှဆင်းသက်လာသောစကားလုံးများစွာကိုဖော်ပြထား\n"
-"သည်။ "
+msgstr "ဒီစကားလုံးရဲ့အခြေခံပုံစံကိုသတ်မှတ်ပေးပါ။ အဘိဓာန်ထဲတွင် အခြေခံပုံစံစကားလုံးမှဆင်းသက်လာသောစကားလုံးများစွာကိုဖော်ပြထား\nသည်။ "
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Looking for USB Flash Drives..."
@@ -210,8 +208,7 @@ msgstr "Word သို့တင်ပို့ပါ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlInWord.cs
 msgid "Creates a very basic dictionary publication in Microsoft Word."
-msgstr ""
-"မိုင်ခရိုဆော့ဝေါ့တွင် အလွန်အ​ခြေခံကျသောအဘိဓာန်ဖြန့်ချီခြင်းတစ်ခုဖန်တီးသည်"
+msgstr "မိုင်ခရိုဆော့ဝေါ့တွင် အလွန်အ​ခြေခံကျသောအဘိဓာန်ဖြန့်ချီခြင်းတစ်ခုဖန်တီးသည်"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
 msgid "Export to HTML"
@@ -220,9 +217,7 @@ msgstr "HTML သို့တင်ပို့ပါ"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
 msgid ""
 "Creates a simple Html version of the dictionary.  Not a very good way to go."
-msgstr ""
-"Html version နဲ့အဘိဓာန်တစ်ခုဖန်တီးပါ။ သိပ်ြပီးတော့သုံးလို့ကောင်း တဲ့နည်း "
-"မဟုတ်ဘူး။"
+msgstr "Html version နဲ့အဘိဓာန်တစ်ခုဖန်တီးပါ။ သိပ်ြပီးတော့သုံးလို့ကောင်း တဲ့နည်း မဟုတ်ဘူး။"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\SimpleProgressDialog.Designer.cs
@@ -240,15 +235,11 @@ msgstr "ဝီဆေးဟုခေါ်သောအဘိဓာန်"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
 msgid "http://lexiquepro.com"
-msgstr ""
-"http://lexiquepro.com လို့ခေါ်တဲ့\n"
-"အင်တာနက်လိပ်စာတစ်ခု"
+msgstr "http://lexiquepro.com လို့ခေါ်တဲ့\nအင်တာနက်လိပ်စာတစ်ခု"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
 msgid "http://lexiquepro.com/test.htm"
-msgstr ""
-"http://lexiquepro.com/ လို့ခေါ်တဲ့\n"
-"အင်တာနက်လိပ်စာတစ်ခုထဲက test.htm ဆိုတဲ့ စာမျက်နှာတစ်ခု"
+msgstr "http://lexiquepro.com/ လို့ခေါ်တဲ့\nအင်တာနက်လိပ်စာတစ်ခုထဲက test.htm ဆိုတဲ့ စာမျက်နှာတစ်ခု"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
 msgid "About Lexique Pro"
@@ -262,10 +253,7 @@ msgstr "Lexique Pro ကိုဖွင့်ခြင်း"
 msgid ""
 "Open dictionary in Lexique Pro for printing or web-page creation. Requires "
 "version LP ver 3.0 or higher."
-msgstr ""
-"web-page တစ်ခုဖန်တီးဖို့ရန် သို့မဟုတ် စာရွက်တစ်ခုခုကိုအပြင်သို့  ကူးထုတ်ရန် "
-"Lexique Pro ရဲ့အဘိဓာန်ကို ဖွင့်ပါ။ version LP ver 3.0 သို့မဟုတ် 3.0နဲ့အထက် "
-"version လိုအပ်ပါတယ်။"
+msgstr "web-page တစ်ခုဖန်တီးဖို့ရန် သို့မဟုတ် စာရွက်တစ်ခုခုကိုအပြင်သို့  ကူးထုတ်ရန် Lexique Pro ရဲ့အဘိဓာန်ကို ဖွင့်ပါ။ version LP ver 3.0 သို့မဟုတ် 3.0နဲ့အထက် version လိုအပ်ပါတယ်။"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
@@ -432,9 +420,7 @@ msgstr "မျက်နှာဖုံး၊ မူရင်းနေရာ။"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\Dash.cs
 msgid "Switch tasks and see current status of tasks"
-msgstr ""
-"အလုပ်တာ၀န်များကို ဖလှယ်၍ အလုပ်တာ၀န်များ၏ လက်ရှိအခြေအနေကို ကြည့်ရှု့ "
-"သုံးသပ်ပါ။"
+msgstr "အလုပ်တာ၀န်များကို ဖလှယ်၍ အလုပ်တာ၀န်များ၏ လက်ရှိအခြေအနေကို ကြည့်ရှု့ သုံးသပ်ပါ။"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\Dash.Designer.cs
 msgid ""
@@ -464,8 +450,7 @@ msgstr "& ဖျက်ပစ်ပါ။"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
 msgid "This will permanently remove this entry."
-msgstr ""
-"ဤအရာသည် ဒီအဝင်စာရင်း၌ အမြဲတမ်း ပယ်ရှားခြင်းခံရပါလိမ့်မည်။ ထည့်သွင်း၍မရပါ။"
+msgstr "ဤအရာသည် ဒီအဝင်စာရင်း၌ အမြဲတမ်း ပယ်ရှားခြင်းခံရပါလိမ့်မည်။ ထည့်သွင်း၍မရပါ။"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
 msgid "Confirm Delete"
@@ -533,9 +518,7 @@ msgstr " စကားလုံးအဓိပ္ပါယ်အရစကား�
 msgid ""
 "Collect new words organized by semantic domains and questions about those "
 "domains."
-msgstr ""
-"သက်ဆိုင်ေသာ စကားလုံး‌စုကိုသုံး၍ စကားလုံးအသစ်စုဆောင်းရန်နှင့် "
-"ဤစကားလုံး‌စုနှင့်ပတ်သက်ေသာမေးခွန်းများကိုစုဆောင်းပါ။။"
+msgstr "သက်ဆိုင်ေသာ စကားလုံး‌စုကိုသုံး၍ စကားလုံးအသစ်စုဆောင်းရန်နှင့် ဤစကားလုံး‌စုနှင့်ပတ်သက်ေသာမေးခွန်းများကိုစုဆောင်းပါ။။"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid "Domains without words"
@@ -590,15 +573,11 @@ msgstr "အဓိပ္ပါယ်"
 msgid ""
 "Do not just translate these words; instead think of words in your own "
 "language."
-msgstr ""
-"ဒီစာလုံးတွေကိုဘာသာပြန်ရုံ ပြန်မည့်အစားသင်၏ဘာသာစကားဖြင့် "
-"စကားလုံးများကိုစဉ်းစားတွေးခေါ်ပါ။"
+msgstr "ဒီစာလုံးတွေကိုဘာသာပြန်ရုံ ပြန်မည့်အစားသင်၏ဘာသာစကားဖြင့် စကားလုံးများကိုစဉ်းစားတွေးခေါ်ပါ။"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Try thinking of ways to say these words in your language."
-msgstr ""
-"ဤစကားလုံးများကို သင်၏ဘာသာစကားတွင် မည်ကဲ့သို့သောနည်းများဖြင့်ပြောနိုင်သည်ကို "
-"စဉ်းစားပါ။"
+msgstr "ဤစကားလုံးများကို သင်၏ဘာသာစကားတွင် မည်ကဲ့သို့သောနည်းများဖြင့်ပြောနိုင်သည်ကို စဉ်းစားပါ။"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Word:"
@@ -736,8 +715,7 @@ msgstr " စာမျက်နှာ ၂ အကွက်။"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Please wait while WeSay prepares your data"
-msgstr ""
-"ဝီဆေး program မှ သင့်ရဲ့အချက်အလက်တွေကို ပြင်ဆင်နေတုန်း ခဏစောင့်ဆိုင်းပါ။"
+msgstr "ဝီဆေး program မှ သင့်ရဲ့အချက်အလက်တွေကို ပြင်ဆင်နေတုန်း ခဏစောင့်ဆိုင်းပါ။"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid ""
@@ -753,9 +731,7 @@ msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
-msgstr ""
-"Lift Xml ဆိုတဲ့ ဖိုင်ကိုရောက်အောင် လမ်းကြောင်းပေးပါ။  ဥပမာ "
-"(\"c:\\thai\\wesay\\thai.lift\")."
+msgstr "Lift Xml ဆိုတဲ့ ဖိုင်ကိုရောက်အောင် လမ်းကြောင်းပေးပါ။  ဥပမာ (\"c:\\thai\\wesay\\thai.lift\")."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Language to show the user interface in."
@@ -765,18 +741,13 @@ msgstr "သုံးစွဲသူနှင့်အပြန်အလှန်
 msgid ""
 "Start without a user interface (will have no effect if WeSay is already "
 "running with a UI."
-msgstr ""
-"သုံးစွဲသူနှင့် ကြားခံဆက်သွယ်ပေးမှု အရာ မပါဘဲ စတင်ပါ။ (အကယ်၍ ဝီဆေး "
-"ကိုသုံးစွဲသူနှင့် ကြားခံဆက်သွယ်ပေးမှု နဲ့ အရင်အလုပ်လုပ် ထားမယ် "
-"ဆိုရင်ထိရောက်မှုရှိမည်မဟုတ်ပါ။"
+msgstr "သုံးစွဲသူနှင့် ကြားခံဆက်သွယ်ပေးမှု အရာ မပါဘဲ စတင်ပါ။ (အကယ်၍ ဝီဆေး ကိုသုံးစွဲသူနှင့် ကြားခံဆက်သွယ်ပေးမှု နဲ့ အရင်အလုပ်လုပ် ထားမယ် ဆိုရင်ထိရောက်မှုရှိမည်မဟုတ်ပါ။"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid ""
 "Some things, like backup, just gum up automated tests.  This is used to turn"
 " them off."
-msgstr ""
-"Some things, like backup, just gum up automated tests.  This is used to turn"
-" them off."
+msgstr "Some things, like backup, just gum up automated tests.  This is used to turn them off."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Make it easy to get back to the configuration tool."
@@ -838,10 +809,7 @@ msgstr "ဝီဆေး program  ဖြင့် ပေးပို့သည် 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid ""
 "Send/Receive Changes to devices, servers, or other users on your network."
-msgstr ""
-"သင်အသုံးပြုနေသောကွန်ယက်တွင် သင်၏အသစ်ပြု ပြင်ပြောင်းလဲမှုများကို "
-"အချက်အလက်များသိမ်း၍ရသောပစ္စည်းများ, ပင်မကွန်ပျူတာကြီးအပါ "
-"အ၀င်အခြားသုံးစွဲသူများသို့ ပေးပို့ပါ သို့မဟုတ် လက်ခံပါ။"
+msgstr "သင်အသုံးပြုနေသောကွန်ယက်တွင် သင်၏အသစ်ပြု ပြင်ပြောင်းလဲမှုများကို အချက်အလက်များသိမ်း၍ရသောပစ္စည်းများ, ပင်မကွန်ပျူတာကြီးအပါ အ၀င်အခြားသုံးစွဲသူများသို့ ပေးပို့ပါ သို့မဟုတ် လက်ခံပါ။"
 
 #. The label for the field holding the citation form, which is how the word
 #. will be displayed in the dictionary.  This is used in languages where the

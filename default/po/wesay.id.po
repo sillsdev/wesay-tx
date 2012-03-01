@@ -6,10 +6,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2012-01-05T15:38:40\n"
-"PO-Revision-Date: 2011-11-01 03:11+0000\n"
+"POT-Creation-Date: 2012-01-27T09:39:46\n"
+"PO-Revision-Date: 2012-02-14 08:32+0000\n"
 "Last-Translator: palaso_admin <admin@palaso.org>\n"
-"Language-Team: Indonesian (http://www.transifex.net/projects/p/wesay/team/id/)\n"
+"Language-Team: Indonesian (http://www.transifex.net/projects/p/wesay/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2012-01-05T15:38:40
+# POT-Creation-Date: 2012-01-27T09:39:46
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "Artinya"
@@ -57,10 +57,7 @@ msgid ""
 "Identify the \"base form\" word that this word is built from. In the printed"
 " dictionary, the derived or variant words can optionally be shown as "
 "subentries of their base forms."
-msgstr ""
-"Tentukanlah \"Bentuk Dasar\" kata dari mana kata ini dibuat. Dalam kamus "
-"yang dicetak, bentuk turunan atau varian boleh ditampilkan sebagai subentri "
-"dari bentuk dasarnya."
+msgstr "Tentukanlah \"Bentuk Dasar\" kata dari mana kata ini dibuat. Dalam kamus yang dicetak, bentuk turunan atau varian boleh ditampilkan sebagai subentri dari bentuk dasarnya."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Looking for USB Flash Drives..."
@@ -220,9 +217,7 @@ msgstr "Salin Kamus dalam bentuk HTML"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
 msgid ""
 "Creates a simple Html version of the dictionary.  Not a very good way to go."
-msgstr ""
-"Membuat versi kamus dalam bentuk HTML yang sederhana.  Bukan cara yang "
-"terbaik."
+msgstr "Membuat versi kamus dalam bentuk HTML yang sederhana.  Bukan cara yang terbaik."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\SimpleProgressDialog.Designer.cs
@@ -258,9 +253,7 @@ msgstr "Buka dengan Lexique Pro"
 msgid ""
 "Open dictionary in Lexique Pro for printing or web-page creation. Requires "
 "version LP ver 3.0 or higher."
-msgstr ""
-"Buka kamus dengan Lexique Pro untuk mencetak atau membuat situs web. Untuk "
-"membukanya diperlukan Lexique Pro versi 3.0 atau lebih."
+msgstr "Buka kamus dengan Lexique Pro untuk mencetak atau membuat situs web. Untuk membukanya diperlukan Lexique Pro versi 3.0 atau lebih."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
@@ -317,9 +310,7 @@ msgstr "Salin Kamus ke Bentuk SFM"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SfmTransformer.cs
 msgid "Saves the lexicon in a form of standard format."
-msgstr ""
-"Menyimpan salinan kamus dalam bentuk SFM (format baku yang bisa dibuka "
-"dengan Lexique Pro atau Toolbox)."
+msgstr "Menyimpan salinan kamus dalam bentuk SFM (format baku yang bisa dibuka dengan Lexique Pro atau Toolbox)."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\Xhtml\XHtml.cs
 msgid "Export to XHTML"
@@ -435,9 +426,7 @@ msgstr "Ganti tugas dan lihat status semua tugas"
 msgid ""
 "NOTE: This control should be the same size as the initial tab page size so "
 "the in"
-msgstr ""
-"NOTE: This control should be the same size as the initial tab page size so "
-"the in"
+msgstr "NOTE: This control should be the same size as the initial tab page size so the in"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
 msgid "{1} dictionary has {0} words"
@@ -529,9 +518,7 @@ msgstr "Kumpulkan Kata-kata Menurut Ruang Lingkup Maknanya"
 msgid ""
 "Collect new words organized by semantic domains and questions about those "
 "domains."
-msgstr ""
-"Kumpulkan kata-kata baru berdasarkan ruang lingkup maknanya. Setiap ruang "
-"lingkup makna dijelaskan dengan pertanyaan dan contoh kata."
+msgstr "Kumpulkan kata-kata baru berdasarkan ruang lingkup maknanya. Setiap ruang lingkup makna dijelaskan dengan pertanyaan dan contoh kata."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid "Domains without words"
@@ -554,9 +541,7 @@ msgstr "(Tombol \"Enter\")"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Try thinking of words you use to talk about these things."
-msgstr ""
-"Cobalah Anda pikirkan kata-kata apa saja yang biasa digunakan untuk membahas"
-" hal-hal ini."
+msgstr "Cobalah Anda pikirkan kata-kata apa saja yang biasa digunakan untuk membahas hal-hal ini."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Question goes here."
@@ -588,15 +573,11 @@ msgstr "Arti kata."
 msgid ""
 "Do not just translate these words; instead think of words in your own "
 "language."
-msgstr ""
-"Jangan menerjemahkan kata ini begitu saja; lebih dari pada itu pikirkan "
-"kata-kata apa saja yang paling sesuai dalam bahasa Anda."
+msgstr "Jangan menerjemahkan kata ini begitu saja; lebih dari pada itu pikirkan kata-kata apa saja yang paling sesuai dalam bahasa Anda."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Try thinking of ways to say these words in your language."
-msgstr ""
-"Cobalah Anda pikirkan bagaimana caranya untuk mengungkapkan kata-kata ini "
-"dalam bahasa Anda."
+msgstr "Cobalah Anda pikirkan bagaimana caranya untuk mengungkapkan kata-kata ini dalam bahasa Anda."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Word:"
@@ -750,9 +731,7 @@ msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
-msgstr ""
-"Lokasi dari data LIFT XML (mis. dengan Windows: "
-"\"c:\\indo\\wesay\\indo.lift\")."
+msgstr "Lokasi dari data LIFT XML (mis. dengan Windows: \"c:\\indo\\wesay\\indo.lift\")."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Language to show the user interface in."
@@ -762,17 +741,13 @@ msgstr "Bahasa untuk Antarmuka Pengguna."
 msgid ""
 "Start without a user interface (will have no effect if WeSay is already "
 "running with a UI."
-msgstr ""
-"Mulai tanpa antarmuka pengguna (UI) - tak ada pengaruhnya kalau KamusKita "
-"sudah berjalan dengan antarmuka."
+msgstr "Mulai tanpa antarmuka pengguna (UI) - tak ada pengaruhnya kalau KamusKita sudah berjalan dengan antarmuka."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid ""
 "Some things, like backup, just gum up automated tests.  This is used to turn"
 " them off."
-msgstr ""
-"Beberapa hal, mis. \"Buat Data Cadangan\", mengacak-acak saja tes automatis."
-" Inilah cara untuk matikannya."
+msgstr "Beberapa hal, mis. \"Buat Data Cadangan\", mengacak-acak saja tes automatis. Inilah cara untuk matikannya."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Make it easy to get back to the configuration tool."
@@ -834,9 +809,7 @@ msgstr "Kirim/Terima KamusKita"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid ""
 "Send/Receive Changes to devices, servers, or other users on your network."
-msgstr ""
-"Kirim/Terima perubahan data ke peranti, server atau pengguna lain di "
-"jaringan Anda."
+msgstr "Kirim/Terima perubahan data ke peranti, server atau pengguna lain di jaringan Anda."
 
 #. The label for the field holding the citation form, which is how the word
 #. will be displayed in the dictionary.  This is used in languages where the
