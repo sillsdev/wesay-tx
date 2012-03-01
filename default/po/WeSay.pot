@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
-"POT-Creation-Date: 2012-01-27T09:39:46\n"
+"POT-Creation-Date: 2012-02-28T08:23:36\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -12,7 +12,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2012-01-27T09:39:46
+# POT-Creation-Date: 2012-02-28T08:23:36
 # Content-Type: text/plain; charset=UTF-8
 
 
@@ -763,7 +763,7 @@ msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 #. description of send/receive action
-msgid "Sends your changes to USB flashd drive, server, or other users, and receives the changes made by other members of your team."
+msgid "Sends your changes to a USB flash drive, server, or other users, and receives the changes made by other members of your team."
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
