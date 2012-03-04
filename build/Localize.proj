@@ -61,6 +61,9 @@
 		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/rw/file/">
 			<Destination>wesay.rw.po</Destination>
 		</URL>
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/zh_TW/file/">
+			<Destination>wesay.zh_TW.po</Destination>
+		</URL>
 	</ItemGroup>
 
 	<Target Name="PullFromTransifex">
