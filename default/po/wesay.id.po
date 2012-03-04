@@ -2,13 +2,15 @@
 # Translators:
 # palaso_admin <admin@palaso.org>, 2011.
 # toddho <thoatson@hotmail.com>, 2011.
+# Vedder Joes <>, 2012.
+#   <wira@loksado.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2012-01-27T09:39:46\n"
-"PO-Revision-Date: 2012-02-14 08:32+0000\n"
-"Last-Translator: palaso_admin <admin@palaso.org>\n"
+"POT-Creation-Date: 2012-02-28T08:23:36\n"
+"PO-Revision-Date: 2012-03-03 09:51+0000\n"
+"Last-Translator: wira <wira@loksado.com>\n"
 "Language-Team: Indonesian (http://www.transifex.net/projects/p/wesay/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,13 +20,13 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2012-01-27T09:39:46
+# POT-Creation-Date: 2012-02-28T08:23:36
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "Artinya"
 
 msgid "Add Meanings"
-msgstr ""
+msgstr "Tambahkan arti"
 
 msgid "Add meanings (senses) to entries where they are missing."
 msgstr "Tambah arti (pengertian) pada entri di mana belum ada arti."
@@ -33,7 +35,7 @@ msgid "Parts of Speech"
 msgstr "Kelas Kata"
 
 msgid "Add Parts of Speech"
-msgstr ""
+msgstr "masukkan sebahagian perkataan"
 
 msgid "Add parts of speech to senses where they are missing."
 msgstr "Tambah kelas kata pada pengertian di mana belum ada kelas kata."
@@ -42,7 +44,7 @@ msgid "Example Sentences"
 msgstr "Contoh Kalimat"
 
 msgid "Add Example Sentences"
-msgstr ""
+msgstr "Tambahkan contoh kalimat"
 
 msgid "Add example sentences to senses where they are missing."
 msgstr "Tambah contoh kalimat pada pengertian di mana belum ada."
@@ -51,7 +53,7 @@ msgid "Base Forms"
 msgstr "Bentuk Dasar"
 
 msgid "Add Base Forms"
-msgstr ""
+msgstr "Tambahkan bentuk dasar"
 
 msgid ""
 "Identify the \"base form\" word that this word is built from. In the printed"
@@ -61,7 +63,7 @@ msgstr "Tentukanlah \"Bentuk Dasar\" kata dari mana kata ini dibuat. Dalam kamus
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Looking for USB Flash Drives..."
-msgstr ""
+msgstr "Memeriksa penyimpanan USB..."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Backing Up..."
@@ -90,7 +92,7 @@ msgstr "&Oke"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Please insert the USB Flash Drive to backup to."
-msgstr ""
+msgstr "Silahkan masukkan Penyimpan USB untuk membackup."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Unable to look for the device due to an error."
@@ -120,7 +122,7 @@ msgstr "Buat Data Cadangan di Flashdrive"
 #. description of usb backup action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
 msgid "Saves a backup on an external device, like a USB Flash Drive."
-msgstr ""
+msgstr "Simpan backup di perangkat luar, misalnya Penyimpan USB."
 
 #. Short buton label for usb flash-drive backup action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
@@ -692,7 +694,7 @@ msgstr "Data masukan untuk dihitung."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "Configure This Project..."
-msgstr ""
+msgstr "Atur Proyek ini..."
 
 #. Shown at the bottom of the screen.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
@@ -721,13 +723,13 @@ msgstr "Tolong tunggu sementara KamusKita menyiapkan data Anda"
 msgid ""
 "Welcome to WeSay.\\r\\nThe Configuration Tool will now open so that you can "
 "make a new project or choose an existing one."
-msgstr ""
+msgstr "Selamat Datang di WeSay.\\r\\n Pengaturan akan terbuka dan anda dapat membuat proyek baru atau memilih yang sudah ada."
 
 #. The label on the message box which the user sees if WeSay can't figure out
 #. what project to open.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "No Default Project"
-msgstr ""
+msgstr "Tidak ada proyek "
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
@@ -751,7 +753,7 @@ msgstr "Beberapa hal, mis. \"Buat Data Cadangan\", mengacak-acak saja tes automa
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Make it easy to get back to the configuration tool."
-msgstr ""
+msgstr "Jadikan mudah untuk kembali ke Pengaturan"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
 msgid "Gather"
@@ -797,9 +799,9 @@ msgstr "Kirim/Terima"
 #. description of send/receive action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid ""
-"Sends your changes to USB flashd drive, server, or other users, and receives"
-" the changes made by other members of your team."
-msgstr ""
+"Sends your changes to a USB flash drive, server, or other users, and "
+"receives the changes made by other members of your team."
+msgstr "Kirim perubahan yang anda lakukan ke Penyimpan USB, server atau pengguna lain dan terima perubahan yang dibuat pengguna lain dalam tim."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid "WeSay Send/Receive"
@@ -873,11 +875,11 @@ msgstr "Rujuk Silang"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
 msgid "Checking file..."
-msgstr ""
+msgstr "periksa fail"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
 msgid "Checking files..."
-msgstr ""
+msgstr "Memeriksa berkas..."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\CheckBoxControl.Designer.cs
 msgid "checkBox1"

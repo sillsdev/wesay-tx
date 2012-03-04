@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2012-01-27T09:39:46\n"
-"PO-Revision-Date: 2012-02-14 08:33+0000\n"
+"POT-Creation-Date: 2012-02-28T08:23:36\n"
+"PO-Revision-Date: 2012-03-01 08:28+0000\n"
 "Last-Translator: palaso_admin <admin@palaso.org>\n"
 "Language-Team: Vietnamese (http://www.transifex.net/projects/p/wesay/language/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2012-01-27T09:39:46
+# POT-Creation-Date: 2012-02-28T08:23:36
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "Nghĩa"
@@ -796,8 +796,8 @@ msgstr ""
 #. description of send/receive action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid ""
-"Sends your changes to USB flashd drive, server, or other users, and receives"
-" the changes made by other members of your team."
+"Sends your changes to a USB flash drive, server, or other users, and "
+"receives the changes made by other members of your team."
 msgstr ""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs

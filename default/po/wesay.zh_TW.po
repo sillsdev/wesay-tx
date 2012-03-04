@@ -1,83 +1,82 @@
 #
 # Translators:
-# palaso_admin <admin@palaso.org>, 2011.
-# ProjectLEARN <marwariphrasebook@gmail.com>, 2011.
+#   <dsylai@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
 "POT-Creation-Date: 2012-02-28T08:23:36\n"
-"PO-Revision-Date: 2012-03-01 08:28+0000\n"
-"Last-Translator: ProjectLEARN <marwariphrasebook@gmail.com>\n"
-"Language-Team: Hindi (http://www.transifex.net/projects/p/wesay/language/hi/)\n"
+"PO-Revision-Date: 2012-03-03 07:12+0000\n"
+"Last-Translator: suiwesay <dsylai@gmail.com>\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.net/projects/p/wesay/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hi\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
 # POT-Creation-Date: 2012-02-28T08:23:36
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
-msgstr "अर्थ"
+msgstr "詞義注釋"
 
 msgid "Add Meanings"
-msgstr "अर्थ जोड़ें"
+msgstr "添加詞義"
 
 msgid "Add meanings (senses) to entries where they are missing."
-msgstr "प्रविष्टियों में अर्थ (तात्‍पर्य) जोड़ें, जहाँ वे अनुपस्‍थित हैं।"
+msgstr "添加詞義注釋（詞義）到缺詞義的詞條"
 
 msgid "Parts of Speech"
-msgstr "भाषण के हिस्‍से"
+msgstr "詞性"
 
 msgid "Add Parts of Speech"
-msgstr "शब्‍दों के प्रकार जोड़ें"
+msgstr "添加詞性"
 
 msgid "Add parts of speech to senses where they are missing."
-msgstr "अर्थ में भाषण के हिस्‍सें जोड़ें, जहाँ वे अनुपस्‍थित है।"
+msgstr "添加詞性到缺詞義的詞條"
 
 msgid "Example Sentences"
-msgstr "उदाहरण के वाक्‍य"
+msgstr "例句"
 
 msgid "Add Example Sentences"
-msgstr "उदाहरण वाक्‍य जोड़ें"
+msgstr "添加"
 
 msgid "Add example sentences to senses where they are missing."
-msgstr "अर्थ में उदाहरण के वाक्‍य जोड़े, जहाँ वे अनुपस्‍थित है।"
+msgstr "添加例句到缺例句的詞條"
 
 msgid "Base Forms"
-msgstr "आधार रूप"
+msgstr "基本形式"
 
 msgid "Add Base Forms"
-msgstr "आधार रूप जोड़ें"
+msgstr "添加基本形式"
 
 msgid ""
 "Identify the \"base form\" word that this word is built from. In the printed"
 " dictionary, the derived or variant words can optionally be shown as "
 "subentries of their base forms."
-msgstr "शब्‍द को पहचानें \"बेस फार्म\" कि यह शब्‍द किस से बना है। मुद्रित शब्‍दकोष में, व्युत्पन्न या भिन्न शब्‍द वैकल्पिक रूप से उनके आधार रूपों की उप-प्रविष्‍टियाँ की तरह दिखाया जा सकता है।"
+msgstr "確定\"基本形式\""
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Looking for USB Flash Drives..."
-msgstr ""
+msgstr "尋找U盤中..."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Backing Up..."
-msgstr "बेकअप ले रहा है…"
+msgstr "備份..."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Backup Complete"
-msgstr "बैकअप पूर्ण हुआ"
+msgstr "備份完成..."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Files backed up to {0}"
-msgstr "{0} तक फाईल्‍स बेकअप ली गयी"
+msgstr "檔案備份到{0}"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Files were not backed up."
-msgstr "फाइलों का बैकअप नहीं लिया गया था।"
+msgstr "檔未備份。"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
@@ -86,84 +85,84 @@ msgstr "फाइलों का बैकअप नहीं लिया ग�
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionSetupDialog.Designer.cs
 msgid "&OK"
-msgstr "&ठीक है"
+msgstr "&確定"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Please insert the USB Flash Drive to backup to."
-msgstr ""
+msgstr "請插入U盤作備份"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Unable to look for the device due to an error."
-msgstr "त्रुटि के कारण उपकरण को खोजने में असमर्थ।"
+msgstr "因為錯誤無法找到設備"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
 msgid "status goes here"
-msgstr "स्‍थिति यहां जाती है"
+msgstr "詞條的重要程度在這裡"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
 msgid "Secondary status goes here"
-msgstr "सहायक स्‍थिति यहां जाती है"
+msgstr "詞條次要程度在這裡"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
 msgid "&Cancel"
-msgstr "&रद्द करें"
+msgstr "取消"
 
 #. Long name for action which makes a zip file on a usb flash-drive
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
 msgid "Backup To USB Flash Drive"
-msgstr "यू.एस.बी."
+msgstr "備份到U盤"
 
 #. description of usb backup action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
 msgid "Saves a backup on an external device, like a USB Flash Drive."
-msgstr ""
+msgstr "存儲備份到移動硬碟（如U盤）"
 
 #. Short buton label for usb flash-drive backup action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
 msgid "Backup"
-msgstr "बैकअप"
+msgstr "備份"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
 msgid "Email this dictionary to {0}"
-msgstr "इस शब्‍दकोष को {0} को ईमेल करें "
+msgstr "電郵此詞典到{0}"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
 msgid "Email this dictionary as a compressed attachment"
-msgstr "इस शब्‍दकोष को कम्‍प्रेस अटैचमेंट के रूप में ईमेल करें"
+msgstr "電郵此詞典以壓縮附件的形式"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
 msgid "The latest WeSay project data is attached."
-msgstr "नवीनतम वीसे परियोजना डाटा अटैच है।"
+msgstr "最新的Wesay專案資料已經附上"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
 msgid "Email"
-msgstr "ईमेल"
+msgstr "電子郵件"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
 msgid "Recipient Name"
-msgstr "प्राप्तकर्ता का नाम"
+msgstr "收件人名稱"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
 msgid "Send Project Email Settings..."
-msgstr "प्रोजेक्‍ट ईमेल सेंटिग्‍स भेजें…"
+msgstr "傳送專案電郵設置"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
 msgid "<"
-msgstr "<"
+msgstr "後退"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
 msgid ">"
-msgstr ">"
+msgstr "前進"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\AutoCompleteTextBox\AutoCompleteWithCreationBox.Designer.cs
 msgid "+"
-msgstr "+"
+msgstr "+添加"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
 msgid "-"
@@ -171,58 +170,58 @@ msgstr "-"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
 msgid "Lexicon Report"
-msgstr "शब्दकोश रिपोर्ट"
+msgstr "詞典報告"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
 msgid "Entries Contents"
-msgstr "प्रविष्‍टियों "
+msgstr "詞條的內容"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
 msgid "Senses Contents"
-msgstr "अर्थ सामग्री"
+msgstr "詞義內容"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
 msgid "label4"
-msgstr "नाम-पत्र4"
+msgstr "標籤4"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\ReportMaker.cs
 msgid "View Report"
-msgstr "रिपोर्ट देखें"
+msgstr "流覽報告"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\ReportMaker.cs
 msgid "Shows some information about the lexicon."
-msgstr "शब्दकोश के बारे में कुछ जानकारी दिखाता है।"
+msgstr "顯示關於詞彙的某些資訊。"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\ReportMaker.cs
 msgid "Report"
-msgstr "रिपोर्ट"
+msgstr "報告"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\XPathChart.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\LongStartupNotification.Designer.cs
 msgid "label1"
-msgstr "नाम-पत्र1"
+msgstr "標籤1"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlInWord.cs
 msgid "Export to Word"
-msgstr "वर्ड को निर्यात करें"
+msgstr "匯出到Word"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlInWord.cs
 msgid "Creates a very basic dictionary publication in Microsoft Word."
-msgstr "एक बहुत ही बुनियादी शब्दकोष प्रकाशन माइक्रोसॉफ्ट वर्ड में बनाता है।"
+msgstr "創建Word基本詞典的文檔"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
 msgid "Export to HTML"
-msgstr "एच.टी.एम.एल. को निर्यात करें"
+msgstr "到處到HTML檔"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
 msgid ""
 "Creates a simple Html version of the dictionary.  Not a very good way to go."
-msgstr "शब्दकोश का एक सरल एच.टी.एम.एल. संस्करण बनाता है। जाने के लिए एक बहुत अच्छा तरीका नहीं।"
+msgstr "創建簡單網頁版的詞典||這不是最好的作法"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\SimpleProgressDialog.Designer.cs
 msgid "Backing up..."
-msgstr "बेकअप लिया जा रहा है…"
+msgstr "備份中"
 
 #. It's up to you whether to bother translating this or not.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
@@ -231,7 +230,7 @@ msgstr "बेकअप लिया जा रहा है…"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\TabbedForm.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "WeSay"
-msgstr "वीसे"
+msgstr "Wesay"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
 msgid "http://lexiquepro.com"
@@ -243,22 +242,22 @@ msgstr "http://lexiquepro.com/test.htm"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
 msgid "About Lexique Pro"
-msgstr "लेक्‍सीक प्रो के बारे में"
+msgstr "有關詞典寶 Lexique Pro"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\LexiqueProSender.cs
 msgid "Open in Lexique Pro"
-msgstr "लेक्‍सीक प्रो में खोलें"
+msgstr "打開詞典寶 Lexique Pro"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\LexiqueProSender.cs
 msgid ""
 "Open dictionary in Lexique Pro for printing or web-page creation. Requires "
 "version LP ver 3.0 or higher."
-msgstr "प्रिंटिंग या वेब-पेज निर्माण के लिए शब्‍दकोष को लेक्‍सीक प्रो में खोले। आवश्‍यक संस्‍करण एल.पी. संस्‍करण 3.0 या उच्‍चतर।"
+msgstr "在詞典寶Lexique Pro列印或做網頁版。需要詞典寶3.0以上的版本。"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
 msgid "Make OpenOffice Document"
-msgstr "ओपन-ऑफिस दस्‍तावेज बनाएँ"
+msgstr "做成Openoffice文檔"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
 msgid "http://princexml.com"
@@ -270,84 +269,84 @@ msgstr "http://wesay.org/wiki/MakePdfDictionary"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
 msgid "About Make Pdf Dictionary"
-msgstr "पी.डी.एफ. शब्‍दकोष बनाने के बारे में"
+msgstr "有關製作電子書版詞典"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\PdfMaker.cs
 msgid "Make Pdf Dictionary"
-msgstr "पी.डी.एफ. शब्‍दकोष बनाएँ"
+msgstr "製作電子書版詞典"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "Tweaks"
-msgstr "सुधार"
+msgstr "修正"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "Language Output"
-msgstr "भाषा का आऊटपुट"
+msgstr "語言輸出"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "English"
-msgstr "अंग्रेजी"
+msgstr "英語"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "National"
-msgstr "राष्‍ट्रीय"
+msgstr "官方的"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "Regional"
-msgstr "क्षेत्रीय"
+msgstr "地區的"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "Vernacular"
-msgstr "मातृभाषा"
+msgstr "本地的"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
 msgid "Setup Standard Format Export..."
-msgstr "सेटअप मानक प्रारूप निर्यात करें..."
+msgstr "設置SFM標準化輸出格式"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SfmTransformer.cs
 msgid "Export To SFM"
-msgstr "एस.एफ.एम. को निर्यात करें"
+msgstr "匯出到SFM"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SfmTransformer.cs
 msgid "Saves the lexicon in a form of standard format."
-msgstr "शब्‍दकोष को मानक प्रारूप के रूप में सेव करें।"
+msgstr "保存詞彙的標準格式檔。"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\Xhtml\XHtml.cs
 msgid "Export to XHTML"
-msgstr "एक्‍स.एच.टी.एम.एल. को निर्यात करें"
+msgstr "匯出到XHML"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
 #: App\ImagePicker\Form1.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Form1"
-msgstr "प्रपत्र1"
+msgstr "形式1"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
 #: App\ImagePicker\ImageDisplayWidget.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.cs
 msgid "Cannot find {0}"
-msgstr "खोज नहीं सकते {0}"
+msgstr "找不到{0}"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
 #: App\ImagePicker\ImageDisplayWidget.Designer.cs
 msgid "Choose Image..."
-msgstr "चित्र चुनें…"
+msgstr "選擇圖片"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
 #: App\ImagePicker\ImageDisplayWidget.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
 msgid "What is the problem?"
-msgstr "समस्‍या क्‍या है?"
+msgstr "遇到問題嗎？"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
 #: App\ImagePicker\ImageDisplayWidget.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
 msgid "Remove Image..."
-msgstr "चित्र हटाएँ…"
+msgstr "移除圖片"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalModel\Foundation\SpellCheckerIdToDisplayStringConverter.cs
 msgid "Not installed"
-msgstr "इंस्‍टाल नहीं है"
+msgstr "尚未安裝"
 
 #. This is what shows for a word in a list when the user hasn't yet typed
 #. anything in for the word.  Like if you click the 'New Word' button
@@ -362,51 +361,51 @@ msgstr "इंस्‍टाल नहीं है"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
 msgid "Empty"
-msgstr "खाली"
+msgstr "清空"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoConfiguration.cs
 msgid "Entries without this:"
-msgstr "इसके बिना प्रविष्टियां:"
+msgstr "詞條中缺了："
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoConfiguration.cs
 msgid "Total Entries:"
-msgstr "कुल प्रविष्टियां:"
+msgstr "詞條總數："
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
 msgid "Congratulations. You have completed this task."
-msgstr "बधाई हो। आपने इस कार्य को पूरा कर लिया है।"
+msgstr "恭喜你完成了任務。"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
 msgid "There is no work left to be done on this task."
-msgstr "इस कार्य पर किये जाने के लिए कोई काम नहीं बचा है।"
+msgstr "任務已經完成。"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.Designer.cs
 msgid "To Do:"
-msgstr "करने के लिए:"
+msgstr "下一步做："
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.Designer.cs
 msgid "Completed:"
-msgstr "संपन्न हुआ:"
+msgstr "完成："
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "(Page Down Key)"
-msgstr "(पेज डाऊन कुंजी)"
+msgstr "（翻頁）"
 
 #. The user will click this to say that this word has no baseform.  E.g.
 #. Kindness has Kind as a baseform, but Kind has no other word as a baseform.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoViewMaker.cs
 msgid "&This word has no Base Form"
-msgstr "&इस शब्द का कोई आधार रूप नहीं है"
+msgstr "&這個詞不是基本形式"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddPictures\AddPicturesControl.Designer.cs
 msgid "Search Words"
-msgstr "शब्‍द खोजै"
+msgstr "搜索詞"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddPictures\AddPicturesControl.Designer.cs
 msgid "Search"
-msgstr "खोजै"
+msgstr "搜索"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\CongratulationsControl.Designer.cs
 msgid "✔"
@@ -416,45 +415,45 @@ msgstr "✔"
 #. other tasks and jump to them.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\Dash.cs
 msgid "Home"
-msgstr "घर"
+msgstr "首項"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\Dash.cs
 msgid "Switch tasks and see current status of tasks"
-msgstr "कार्यों को बदलें और कार्यों की वर्तमान स्‍थिति देखें"
+msgstr "轉換任務和查看當前任務情況。"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\Dash.Designer.cs
 msgid ""
 "NOTE: This control should be the same size as the initial tab page size so "
 "the in"
-msgstr "नोट: यह नियंत्रण प्रारंभिक टैब पृष्ठ के आकार के समान आकार का होना चाहिए"
+msgstr "附注："
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
 msgid "{1} dictionary has {0} words"
-msgstr "{1} शब्‍दकोष में {0} शब्‍द है"
+msgstr "{1}詞典有 {0} 詞"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\GroupHeader.designer.cs
 msgid "_label"
-msgstr "_सूचक पत्र"
+msgstr "_標籤"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\TaskIndicator.designer.cs
 msgid "Gather from Foo words"
-msgstr "फू शब्‍दों से एकत्रित करें"
+msgstr "從食物詞彙中收集"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\TaskIndicator.designer.cs
 msgid "See words in Foo, write the same words in Boo"
-msgstr "फू में शब्‍द देखें, वहीं शब्‍द बू में लिखें"
+msgstr "看到詞Foo,寫下相同的詞Boo"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
 msgid "&Delete"
-msgstr "&डिलीट करें"
+msgstr "&刪除"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
 msgid "This will permanently remove this entry."
-msgstr "यह स्थायी रूप से इस प्रविष्टि को हटा देगा।"
+msgstr "將完全地刪除此詞條"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
 msgid "Confirm Delete"
-msgstr "हटाने की पुष्टि करें"
+msgstr "確定刪除"
 
 #. The label for the task that lets you see all entries, search for entries,
 #. and edit various fields.  We don't like the English name very much, so feel
@@ -467,93 +466,93 @@ msgstr "हटाने की पुष्टि करें"
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryBrowseAndEditConfiguration.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryBrowseAndEditConfiguration.cs
 msgid "Dictionary Browse && Edit"
-msgstr "शब्‍दकोश ब्राउज़ करें && संपादित करें"
+msgstr "流覽詞條與編輯"
 
 #. This is what shows if the user is listing words by the glossing language,
 #. but the word doesn't have a gloss.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
 msgid "No Gloss"
-msgstr "कोई शब्‍दावली नहीं"
+msgstr "無注釋"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
 msgid "Hide &Uncommon Fields"
-msgstr "छिपाएँ &असामान्य क्षेत्र"
+msgstr "隱藏&不常用的欄位"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
 msgid "Show &Uncommon Fields"
-msgstr "दिखाएँ &असामान्य क्षेत्र"
+msgstr "顯示&不常用的欄位"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.Designer.cs
 msgid "&Show All Fields"
-msgstr "&सभी क्षेत्र दिखाएँ"
+msgstr "&顯示所有的欄位元欄位"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.Designer.cs
 msgid "&Delete This Word"
-msgstr "&यह शब्द हटाएँ"
+msgstr "&刪去此詞彙"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.Designer.cs
 msgid "&New Word"
-msgstr "और नया शब्‍द"
+msgstr "添加詞條"
 
 #. The description of the 'Dictionary' task.  In place of the {0} will be the
 #. number of words in the dictionary.  In place of the {1} will be the name of
 #. the project.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryTask.cs
 msgid "See all {0} {1} words."
-msgstr "सभी {0} {1} शब्‍द देखें।"
+msgstr "看{1}全部詞彙{0}"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\SearchBoxControl.Designer.cs
 msgid "en"
-msgstr "अंग्रेजी"
+msgstr "en"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid "Semantic Domains"
-msgstr "अर्थगत ज्ञानक्षेत्र"
+msgstr "語義域"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid "Gather Words By Semantic Domain"
-msgstr "अर्थगत ज्ञानक्षेत्र के अनुसार शब्‍द एकत्रित करें।"
+msgstr "用語義域來收集詞彙"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid ""
 "Collect new words organized by semantic domains and questions about those "
 "domains."
-msgstr "अर्थगत ज्ञानक्षेत्र द्वारा संयोजित नए शब्‍दों और उन ज्ञानक्षेत्रों के बारे में प्रश्‍नों को एकत्रित करें।"
+msgstr "從語義範疇的提示問題來收集新詞。"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid "Domains without words"
-msgstr "बिना शब्दों के डोमेन"
+msgstr "此範疇沒有詞彙"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
 msgid "Total domains:"
-msgstr "कुल डोमेन:"
+msgstr "所有的語意範疇數："
 
 #. The label for the field showing the Lexeme Form of the entry.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Word"
-msgstr "शब्‍द"
+msgstr "詞條"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "(Enter Key)"
-msgstr "(ऐंटर कुंजी)"
+msgstr "（回車鍵）"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Try thinking of words you use to talk about these things."
-msgstr "उन शब्‍दों को सोचने की कोशिश करें जिनका उपयोग आप इन चीजों के बारे में बात करने के लिए करते है।"
+msgstr "試想你用來討論關於這些東西的詞。"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Question goes here."
-msgstr "प्रश्‍न यहाँ जाता है।"
+msgstr "問題："
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Description goes here."
-msgstr "विवरण यहाँ जाता है।"
+msgstr "描述："
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "\"Don't translate\" warning goes here."
-msgstr "\"अनुवाद नहीं करें\" चेतावनी यहाँ जाती है।"
+msgstr "“不要翻譯”"
 
 #. This label is shown once, but has two roles.  1) it labels the defintion
 #. field, and 2) marks the beginning of the set of fields which make up a
@@ -563,7 +562,7 @@ msgstr "\"अनुवाद नहीं करें\" चेतावनी �
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexSenseLayouter.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexSenseLayouter.cs
 msgid "Meaning"
-msgstr "अर्थ"
+msgstr "詞義注釋"
 
 #. This is shown in the Gather By Semantic Domains task after each semantic
 #. domain question. The questions contain example words to help clarify what
@@ -573,217 +572,217 @@ msgstr "अर्थ"
 msgid ""
 "Do not just translate these words; instead think of words in your own "
 "language."
-msgstr "बस इन शब्दों का अनुवाद नहीं करें, इसकी बजाय अपनी भाषा के शब्दों के बारे में सोचें।"
+msgstr "不要只是翻譯詞彙，而是用母語來想這些詞彙"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Try thinking of ways to say these words in your language."
-msgstr "अपनी भाषा में इन शब्दों को कहने के तरीके के बारे में सोचने की कोशिश करेँ।"
+msgstr "試想你的語言中用來討論關於這些東西的詞。"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Word:"
-msgstr "शब्‍द:"
+msgstr "詞："
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
 msgid "Foobar"
-msgstr "फूबार"
+msgstr "Foobar"
 
 #. This is the field containing an example sentence of a sense of a word.
 #. This is the field containing an example sentence of a sense of a word.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexExampleSentenceLayouter.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexExampleSentenceLayouter.cs
 msgid "Example"
-msgstr "उदाहरण"
+msgstr "例句"
 
 #. This is the field for putting in a translation of an example sentence.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexExampleSentenceLayouter.cs
 msgid "Translation"
-msgstr "अनुवाद"
+msgstr "翻譯"
 
 #. The label for the field showing a single word translation, as used in
 #. interlinear text glossing.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexSenseLayouter.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Gloss"
-msgstr "व्याख्या"
+msgstr "注釋詞彙"
 
 #. Generic desciption of how many items in a task are left to do.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\TaskBase.cs
 msgid "Remaining:"
-msgstr "शेष:"
+msgstr "尚有："
 
 #. Generic description of how many total items there are in a task.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\TaskBase.cs
 msgid "Total:"
-msgstr "योग"
+msgstr "總數："
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Refresh"
-msgstr "ताज़ा करना"
+msgstr "刷新"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Key"
-msgstr "कुंजी"
+msgstr "關鍵key"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Value"
-msgstr "मूल्‍य"
+msgstr "值Value"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Placeholder for control which uses generics so breaks the designer"
-msgstr "नियंत्रण के लिए प्लेसहोल्डर जो जेनरिक का उपयोग करता है इसलिए डिजाइनर को तोड़ देता है।"
+msgstr "Placeholder for control which uses generics so breaks the designer"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Reference Collection"
-msgstr "संदर्भ संग्रह"
+msgstr "參考的文獻"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
 msgid "Source Collection"
-msgstr "स्‍त्रोत संग्रह"
+msgstr "資源資料庫"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.cs
 msgid "Make visible in WeSay"
-msgstr "वीसे में दृश्‍य बनाएँ"
+msgstr "在Wesay中顯示"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.cs
 msgid "Make invisible in WeSay"
-msgstr "वीसे में अदृश्य बनाएँ"
+msgstr "在Wesay中隱藏"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
 msgid "blah blah blah"
-msgstr "ब्‍ला ब्‍ला ब्‍ला"
+msgstr "blah blah blah"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
 msgid "Action Name"
-msgstr "कार्य का नाम"
+msgstr "動作名稱"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
 msgid "Set up..."
-msgstr "सेटअप…"
+msgstr "設置中...."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
 msgid "Visible In WeSay"
-msgstr "वीसे मेँ दृश्‍य"
+msgstr "在Wesay可見"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
 msgid "More Info..."
-msgstr "अधिक जानकारी…"
+msgstr "更多的訊息..."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionSetupDialog.Designer.cs
 msgid "Setup Action..."
-msgstr "सेटअप कार्य…"
+msgstr "設置"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\CommandLineParser.cs
 msgid "Count number of lines in the input text."
-msgstr "इनपुट टेक्‍स्‍ट में पंक्‍तियों की संख्‍या गिनें।"
+msgstr "計算導入文本行數"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\CommandLineParser.cs
 msgid "Count number of words in the input text."
-msgstr "इनपुट टेक्‍स्‍ट में शब्‍दों की संख्‍या गिनें।"
+msgstr "計算導入文本的字數"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\CommandLineParser.cs
 msgid "Count number of chars in the input text."
-msgstr "इनपुट टेक्‍स्‍ट में अक्षरौं की संख्या गिनें।"
+msgstr "計算導入文本的字元數"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\CommandLineParser.cs
 msgid "Input files to count."
-msgstr "गिनती करने के लिए फाईल इनपुट करें"
+msgstr "導入檔案計算"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "Configure This Project..."
-msgstr ""
+msgstr "設置這個項目..."
 
 #. Shown at the bottom of the screen.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "Dictionary has {0} words"
-msgstr "शब्‍दकोष मेँ {0} शब्‍द है"
+msgstr "詞典共有{0}字"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "error"
-msgstr "त्रुटि"
+msgstr "錯誤"
 
 #. Appended to the name of a task, in its tab, while the user is waiting for
 #. the task to come up.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\TabbedForm.cs
 msgid "Loading..."
-msgstr "लोड कर रहा है…"
+msgstr "載入中..."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\TabbedForm.Designer.cs
 msgid "tabPage2"
-msgstr "टैब पृष्‍ठ 2"
+msgstr "標示第二頁"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Please wait while WeSay prepares your data"
-msgstr "वीसे जब तक आपका डाटा तैयार करें, कृपया प्रतीक्षा करें "
+msgstr "稍等一下Wsay正在預備你的資料"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid ""
 "Welcome to WeSay.\\r\\nThe Configuration Tool will now open so that you can "
 "make a new project or choose an existing one."
-msgstr ""
+msgstr "歡迎使用Wesay。\\r \\n這些設置工具現在是開放的，那樣你可以打開已經存在的新專案。"
 
 #. The label on the message box which the user sees if WeSay can't figure out
 #. what project to open.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "No Default Project"
-msgstr ""
+msgstr "沒有默認的項目"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
-msgstr "लिफ्ट ऐक्‍स.एम.एल. फ़ाइल के लिए पथ (उदाहरण के लिए विंडोज पर, \"c:\\thai\\wesay\\thai.lift\")."
+msgstr "路徑到 Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Language to show the user interface in."
-msgstr "उपयोगकर्ता इंटरफ़ेस में दिखाई जाने वाली भाषा।"
+msgstr "在使用者介面的顯示的語言"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid ""
 "Start without a user interface (will have no effect if WeSay is already "
 "running with a UI."
-msgstr "एक उपयोगकर्ता इंटरफ़ेस के बिना शुरू करें। (अगर वीसे पहले से ही एक यू.आई. के साथ चल रहा है तो इसका कोई प्रभाव नहीं होगा)"
+msgstr "啟動時不要用使用者介面（將不受影響，如果Wesay已經打開UI軟體）"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid ""
 "Some things, like backup, just gum up automated tests.  This is used to turn"
 " them off."
-msgstr "कुछ बातें, जैसे कि बैकअप, स्वचालित परीक्षणों को चिपकाएँ। इसका प्रयोग उन्‍हें बंद करने के लिए किया जाता है।"
+msgstr "有些功能如：備份..，在自動測試會出問題||這是用來關閉那些功能的。"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Make it easy to get back to the configuration tool."
-msgstr ""
+msgstr "快速回到設置介面"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
 msgid "Gather"
-msgstr "एकत्र करें"
+msgstr "收集"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
 msgid "Describe"
-msgstr "वर्णन करें"
+msgstr "描述"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
 msgid "Refine"
-msgstr "सुधार करें"
+msgstr "修訂更新"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
 msgid "Review"
-msgstr "समीक्षा करें"
+msgstr "檢查"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
 msgid "Share"
-msgstr "आदान प्रदान करें"
+msgstr "伙伴合作備份及輸出"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ChorusBackupMaker.cs
 msgid "Wesay Automatic Backup"
-msgstr "वीसे स्‍वचालित बेकअप"
+msgstr "Wesay 自動備份"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\FailedLoadTask.cs
 msgid "Failed To Load: {0}"
-msgstr "लोड करने में विफल: {0}"
+msgstr "無法成功載入: {0}"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\FailedLoadTask.cs
 msgid "Error: {0}"
-msgstr "त्रुटि: {0}"
+msgstr "錯誤: {0}"
 
 #. Label for action which uses Chorus to synchronize the dictionary with other
 #. users, devices, and servers. Here, 'synchronizing' means putting your
@@ -792,108 +791,108 @@ msgstr "त्रुटि: {0}"
 #. similar to email and this is the term Paratext uses.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid "Send/Receive"
-msgstr "भेजना/प्राप्‍त करना"
+msgstr "傳送/接受"
 
 #. description of send/receive action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid ""
 "Sends your changes to a USB flash drive, server, or other users, and "
 "receives the changes made by other members of your team."
-msgstr ""
+msgstr "傳送你更改的詞條到U盤、主機或其他的使用者，而且接受其他工作成員的修訂。"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid "WeSay Send/Receive"
-msgstr "वीसै भेजना/प्राप्‍त करना"
+msgstr "Wesay 傳送/接受"
 
 #. Long label for send/receive action.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
 msgid ""
 "Send/Receive Changes to devices, servers, or other users on your network."
-msgstr "उपकरणों, सर्वरों, या अपने नेटवर्क पर अन्य उपयोगकर्ताओं को परिवर्तनौ को भेजें/प्राप्त करें"
+msgstr "傳送/接受 詞條的修訂到設備、主機或其他工作成員。"
 
 #. The label for the field holding the citation form, which is how the word
 #. will be displayed in the dictionary.  This is used in languages where the
 #. lexeme form may be different from what the Headword should be.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Citation Form"
-msgstr "उद्धरण प्रपत्र"
+msgstr "引用的形式"
 
 #. The label for the field showing the definition of the word.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Definition"
-msgstr "परिभाषा"
+msgstr "定義詞條"
 
 #. The label for the field showing the literal meaning of idiom or proverb.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Literal Meaning"
-msgstr "शाब्दिक अर्थ"
+msgstr "直譯"
 
 #. The label for the field showing a note.
 #. The label for the field showing a note.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Note"
-msgstr "टिप्‍पणी"
+msgstr "筆記note"
 
 #. The label for the field showing a picture.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Picture"
-msgstr "चित्र"
+msgstr "圖片"
 
 #. The label for the field showing Part Of Speech
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "POS"
-msgstr "पी. औ. ऐस."
+msgstr "詞性"
 
 #. The label for the field showing an example use of the word.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Example Sentence"
-msgstr "उदाहरण के वाक्‍य"
+msgstr "例句"
 
 #. The label for the field showing the example sentence translated into other
 #. languages.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Example Translation"
-msgstr "उदाहरण अनुवाद"
+msgstr "例句翻譯"
 
 #. The label for the field showing Semantic Domains
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Sem Dom"
-msgstr "अर्थगत ज्ञानक्षेत्र"
+msgstr "語義分類"
 
 #. The label for the field showing the entry which this entry is derived from,
 #. is a subentry of, etc.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Base Form"
-msgstr "आधार रूप"
+msgstr "基本形式"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
 msgid "Cross Reference"
-msgstr "संकर संदर्भ "
+msgstr "參見"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
 msgid "Checking file..."
-msgstr ""
+msgstr "檢查檔案..."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
 msgid "Checking files..."
-msgstr ""
+msgstr "檢查檔案..."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\CheckBoxControl.Designer.cs
 msgid "checkBox1"
-msgstr "चेकबॉक्‍स1"
+msgstr "檢查Box1"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
 msgid "Choose Image File..."
-msgstr "चित्र फाईल चुनें…"
+msgstr "選擇圖片檔..."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
 msgid "Search Gallery..."
-msgstr "गलियारा खोजै"
+msgstr "搜索Gallery..."
 
 #. This is shown in a combo-box (list of options, like Part Of Speech) when no
 #. option has been chosen, or the user just doesn't know what to put in this
 #. field.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\SingleOptionControl.cs
 msgid "unknown"
-msgstr "अज्ञात"
+msgstr "未知"
