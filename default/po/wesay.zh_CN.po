@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2012-02-28T08:23:36\n"
+"POT-Creation-Date: 2012-03-02T07:34:50\n"
 "PO-Revision-Date: 2012-03-03 07:13+0000\n"
 "Last-Translator: suiwesay <dsylai@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.net/projects/p/wesay/language/zh_CN/)\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2012-02-28T08:23:36
+# POT-Creation-Date: 2012-03-02T07:34:50
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "词义注释"

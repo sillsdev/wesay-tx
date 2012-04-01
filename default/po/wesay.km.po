@@ -1,15 +1,15 @@
 #
 # Translators:
 # Bun Ang Van <bunangv@gmail.com>, 2011.
-# Makara SOK <lrtc_makara@icc.org.kh>, 2011.
+# Makara SOK <lrtc_makara@icc.org.kh>, 2011, 2012.
 # palaso_admin <admin@palaso.org>, 2011.
 # sungkhum <sungkhum@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
 "Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
-"POT-Creation-Date: 2012-02-28T08:23:36\n"
-"PO-Revision-Date: 2012-03-01 08:28+0000\n"
+"POT-Creation-Date: 2012-03-02T07:34:50\n"
+"PO-Revision-Date: 2012-03-05 05:03+0000\n"
 "Last-Translator: Makara SOK <lrtc_makara@icc.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.net/projects/p/wesay/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2012-02-28T08:23:36
+# POT-Creation-Date: 2012-03-02T07:34:50
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
 msgstr "អត្ថន័យ​​"
@@ -63,7 +63,7 @@ msgstr "សូម​សម្គាល់​ពាក្យ ​«ទម្រង
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Looking for USB Flash Drives..."
-msgstr ""
+msgstr "កំពុង​ស្វែង​រក​ឧបករណ៍​ផ្ទុក​ចល័តនានា..."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Backing Up..."
@@ -92,7 +92,7 @@ msgstr "&យល់ព្រម"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Please insert the USB Flash Drive to backup to."
-msgstr ""
+msgstr "សូម​ភ្ជាប់​ឧបករណ៍​ផ្ទូក​ចល័ត​ដើម្បី​​​រក្សា​ឯកសារ​បម្រុង​ទុក។"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
 msgid "Unable to look for the device due to an error."
@@ -122,7 +122,7 @@ msgstr "បម្រុង​ទុក​ក្នុង​ឧបករណ៍​
 #. description of usb backup action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
 msgid "Saves a backup on an external device, like a USB Flash Drive."
-msgstr ""
+msgstr "រក្សា​ឯកសារ​បម្រុង​ទុក​ក្នុង​ឧបករណ៍​ផ្ទូក​ក្រៅ ដូច​ជា​ឧបករណ៍​ផ្ទូក​ចល័ត។"
 
 #. Short buton label for usb flash-drive backup action
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
@@ -694,7 +694,7 @@ msgstr "បញ្ចូល​ឯកសារ​ដើម្បី​រាប់
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
 msgid "Configure This Project..."
-msgstr ""
+msgstr "រៀប​ចំរចនា​សម្ព័ន្ធ​គម្រោង​នេះ..."
 
 #. Shown at the bottom of the screen.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
@@ -729,7 +729,7 @@ msgstr ""
 #. what project to open.
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "No Default Project"
-msgstr ""
+msgstr "គ្មាន​គម្រោង​លំនាំ​ដើម​ទេ"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
 msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
@@ -875,11 +875,11 @@ msgstr "សេចក្តី​យោង​ឆ្លង"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
 msgid "Checking file..."
-msgstr ""
+msgstr "កំពុង​ពិនិត្យ​ឯកសារ..."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
 msgid "Checking files..."
-msgstr ""
+msgstr "កំពុង​ពិនិត្យ​ឯកសារ​នានា..."
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\CheckBoxControl.Designer.cs
 msgid "checkBox1"
