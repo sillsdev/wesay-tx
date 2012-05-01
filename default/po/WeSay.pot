@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
-"POT-Creation-Date: 2012-03-14T00:08:46\n"
+"POT-Creation-Date: 2012-04-24T08:43:39\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -12,7 +12,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2012-03-14T00:08:46
+# POT-Creation-Date: 2012-04-24T08:43:39
 # Content-Type: text/plain; charset=UTF-8
 
 
@@ -350,7 +350,6 @@ msgid "What is the problem?"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test App\ImagePicker\ImageDisplayWidget.Designer.cs
-#: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
 msgid "Remove Image..."
 msgstr ""
 
@@ -844,11 +843,11 @@ msgid "checkBox1"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
-msgid "Choose Image File..."
+msgid "Remove Picture..."
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
-msgid "Search Gallery..."
+msgid "Get Picture..."
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\SingleOptionControl.cs
