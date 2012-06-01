@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
-"POT-Creation-Date: 2012-04-24T08:43:39\n"
+"POT-Creation-Date: 2012-05-11T20:29:49\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -12,7 +12,7 @@ msgstr ""
 
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: hattonjohn@gmail.com
-# POT-Creation-Date: 2012-04-24T08:43:39
+# POT-Creation-Date: 2012-05-11T20:29:49
 # Content-Type: text/plain; charset=UTF-8
 
 
