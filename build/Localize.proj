@@ -22,46 +22,46 @@
 	</Target>
 
 	<ItemGroup>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/id/file/">
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/id/">
 			<Destination>wesay.id.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/fr/file/">
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/fr/">
 			<Destination>wesay.fr.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/hi/file/">
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/hi/">
 			<Destination>wesay.hi.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/th/file/">
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/th/">
 			<Destination>wesay.th.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/es/file/">
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/es/">
 			<Destination>wesay.es.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/lo/file/">
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/lo/">
 			<Destination>wesay.lo.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/my/file/">
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/my/">
 			<Destination>wesay.my.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/ru/file/">
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/ru/">
 			<Destination>wesay.ru.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/vi/file/">
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/vi/">
 			<Destination>wesay.vi.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/zh_CN/file/">
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/zh_CN/">
 			<Destination>wesay.zh_CN.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/km/file/">
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/km/">
 			<Destination>wesay.km.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/az/file/">
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/az/">
 			<Destination>wesay.az.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/rw/file/">
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/rw/">
 			<Destination>wesay.rw.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/project/wesay/resource/wesay-dev/zh_TW/file/">
+		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/zh_TW/">
 			<Destination>wesay.zh_TW.po</Destination>
 		</URL>
 	</ItemGroup>
