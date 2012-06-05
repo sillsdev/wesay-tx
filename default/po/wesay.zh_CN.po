@@ -1,4 +1,899 @@
-{
-	"content": "# \n# Translators:\n#   <dsylai@gmail.com>, 2012.\n# palaso_admin <admin@palaso.org>, 2011.\n# rperlin <ross.perlin@gmail.com>, 2011.\nmsgid \"\"\nmsgstr \"\"\n\"Project-Id-Version: WeSay\\n\"\n\"Report-Msgid-Bugs-To: http://issues.wesay.org/\\n\"\n\"POT-Creation-Date: 2012-05-11T20:29:49\\n\"\n\"PO-Revision-Date: 2012-05-01 08:17+0000\\n\"\n\"Last-Translator: suiwesay <dsylai@gmail.com>\\n\"\n\"Language-Team: Chinese (China) (http://www.transifex.net/projects/p/wesay/language/zh_CN/)\\n\"\n\"MIME-Version: 1.0\\n\"\n\"Content-Type: text/plain; charset=UTF-8\\n\"\n\"Content-Transfer-Encoding: 8bit\\n\"\n\"Language: zh_CN\\n\"\n\"Plural-Forms: nplurals=1; plural=0\\n\"\n\n# Project-Id-Version: WeSay\n# Report-Msgid-Bugs-To: hattonjohn@gmail.com\n# POT-Creation-Date: 2012-05-11T20:29:49\n# Content-Type: text/plain; charset=UTF-8\nmsgid \"Meanings\"\nmsgstr \"词义注释\"\n\nmsgid \"Add Meanings\"\nmsgstr \"添加词义\"\n\nmsgid \"Add meanings (senses) to entries where they are missing.\"\nmsgstr \"添加词义注释（词义）到缺词义的词条\"\n\nmsgid \"Parts of Speech\"\nmsgstr \"词性\"\n\nmsgid \"Add Parts of Speech\"\nmsgstr \"添加词性\"\n\nmsgid \"Add parts of speech to senses where they are missing.\"\nmsgstr \"添加词性到缺词义的词条\"\n\nmsgid \"Example Sentences\"\nmsgstr \"例句\"\n\nmsgid \"Add Example Sentences\"\nmsgstr \"添加\"\n\nmsgid \"Add example sentences to senses where they are missing.\"\nmsgstr \"添加例句到缺例句的词条\"\n\nmsgid \"Base Forms\"\nmsgstr \"基本形式\"\n\nmsgid \"Add Base Forms\"\nmsgstr \"添加基本形式\"\n\nmsgid \"\"\n\"Identify the \\\"base form\\\" word that this word is built from. In the printed\"\n\" dictionary, the derived or variant words can optionally be shown as \"\n\"subentries of their base forms.\"\nmsgstr \"确定\\\"基本形式\\\"\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\BackupDialog.cs\nmsgid \"Looking for USB Flash Drives...\"\nmsgstr \"寻找U盘中...\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\BackupDialog.cs\nmsgid \"Backing Up...\"\nmsgstr \"备份...\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\BackupDialog.cs\nmsgid \"Backup Complete\"\nmsgstr \"备份完成...\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\BackupDialog.cs\nmsgid \"Files backed up to {0}\"\nmsgstr \"文件备份到{0}\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\BackupDialog.cs\nmsgid \"Files were not backed up.\"\nmsgstr \"文件未备份。\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\BackupDialog.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\SendProjectEmailSettingsDialog.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\LexiquePro\\AboutLexiquePro.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\PdfDictionary\\AboutMakePdfDictionary.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\SFMChangesDialog.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.AddinLib\\ActionSetupDialog.Designer.cs\nmsgid \"&OK\"\nmsgstr \"&确定\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\BackupDialog.cs\nmsgid \"Please insert the USB Flash Drive to backup to.\"\nmsgstr \"请插入U盘作备份\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\BackupDialog.cs\nmsgid \"Unable to look for the device due to an error.\"\nmsgstr \"因为错误无法找到设备\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\BackupDialog.Designer.cs\nmsgid \"status goes here\"\nmsgstr \"词条的重要程度在这里\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\BackupDialog.Designer.cs\nmsgid \"Secondary status goes here\"\nmsgstr \"词条次要程度在这里\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\BackupDialog.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\SendProjectEmailSettingsDialog.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\SFMChangesDialog.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\DictionaryBrowseAndEdit\\ConfirmDelete.Designer.cs\nmsgid \"&Cancel\"\nmsgstr \"取消\"\n\n#. Long name for action which makes a zip file on a usb flash-drive\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\BackupDialog.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\BackupToDevice.cs\nmsgid \"Backup To USB Flash Drive\"\nmsgstr \"备份到U盘\"\n\n#. description of usb backup action\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\BackupToDevice.cs\nmsgid \"Saves a backup on an external device, like a USB Flash Drive.\"\nmsgstr \"存储备份到移动硬盘（如U盘）\"\n\n#. Short buton label for usb flash-drive backup action\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\BackupToDevice.cs\nmsgid \"Backup\"\nmsgstr \"备份\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\SendProjectEmail.cs\nmsgid \"Email this dictionary to {0}\"\nmsgstr \"电邮此词典到{0}\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\SendProjectEmail.cs\nmsgid \"Email this dictionary as a compressed attachment\"\nmsgstr \"电邮此词典以压缩附件的形式\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\SendProjectEmail.cs\nmsgid \"The latest WeSay project data is attached.\"\nmsgstr \"最新的Wesay项目资料已经附上\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\SendProjectEmail.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\SendProjectEmailSettingsDialog.Designer.cs\nmsgid \"Email\"\nmsgstr \"电子邮件\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\SendProjectEmailSettingsDialog.Designer.cs\nmsgid \"Recipient Name\"\nmsgstr \"收件人名称\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Backup\\SendProjectEmailSettingsDialog.Designer.cs\nmsgid \"Send Project Email Settings...\"\nmsgstr \"传送项目电邮设置\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.LiftReports\\GraphComponents\\Plotter.cs\nmsgid \"<\"\nmsgstr \"后退\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.LiftReports\\GraphComponents\\Plotter.cs\nmsgid \">\"\nmsgstr \"前进\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.LiftReports\\GraphComponents\\Plotter.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.UI\\AutoCompleteTextBox\\AutoCompleteWithCreationBox.Designer.cs\nmsgid \"+\"\nmsgstr \"+添加\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.LiftReports\\GraphComponents\\Plotter.cs\nmsgid \"-\"\nmsgstr \"-\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.LiftReports\\Report.Designer.cs\nmsgid \"Lexicon Report\"\nmsgstr \"词典报告\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.LiftReports\\Report.Designer.cs\nmsgid \"Entries Contents\"\nmsgstr \"词条的内容\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.LiftReports\\Report.Designer.cs\nmsgid \"Senses Contents\"\nmsgstr \"词义内容\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.LiftReports\\Report.Designer.cs\nmsgid \"label4\"\nmsgstr \"标签4\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.LiftReports\\ReportMaker.cs\nmsgid \"View Report\"\nmsgstr \"浏览报告\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.LiftReports\\ReportMaker.cs\nmsgid \"Shows some information about the lexicon.\"\nmsgstr \"显示关于词汇的某些信息。\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.LiftReports\\ReportMaker.cs\nmsgid \"Report\"\nmsgstr \"报告\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.LiftReports\\XPathChart.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\LongStartupNotification.Designer.cs\nmsgid \"label1\"\nmsgstr \"标签1\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\HtmlInWord.cs\nmsgid \"Export to Word\"\nmsgstr \"导出到Word\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\HtmlInWord.cs\nmsgid \"Creates a very basic dictionary publication in Microsoft Word.\"\nmsgstr \"创建Word基本词典的文档\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\HtmlTransformer.cs\nmsgid \"Export to HTML\"\nmsgstr \"到处到HTML档\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\HtmlTransformer.cs\nmsgid \"\"\n\"Creates a simple Html version of the dictionary.  Not a very good way to go.\"\nmsgstr \"创建简单网页版的词典||这不是最好的作法\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\LameProgressDialog.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\SimpleProgressDialog.Designer.cs\nmsgid \"Backing up...\"\nmsgstr \"备份中\"\n\n#. It's up to you whether to bother translating this or not.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\LameProgressDialog.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\LongStartupNotification.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\SimpleProgressDialog.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\TabbedForm.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\WeSayApp.cs\nmsgid \"WeSay\"\nmsgstr \"Wesay\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\LexiquePro\\AboutLexiquePro.Designer.cs\nmsgid \"http://lexiquepro.com\"\nmsgstr \"http://lexiquepro.com\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\LexiquePro\\AboutLexiquePro.Designer.cs\nmsgid \"http://lexiquepro.com/test.htm\"\nmsgstr \"http://lexiquepro.com/test.htm\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\LexiquePro\\AboutLexiquePro.Designer.cs\nmsgid \"About Lexique Pro\"\nmsgstr \"有关词典宝 Lexique Pro\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\LexiquePro\\LexiqueProSender.cs\nmsgid \"Open in Lexique Pro\"\nmsgstr \"打开词典宝 Lexique Pro\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\LexiquePro\\LexiqueProSender.cs\nmsgid \"\"\n\"Open dictionary in Lexique Pro for printing or web-page creation. Requires \"\n\"version LP ver 3.0 or higher.\"\nmsgstr \"在词典宝Lexique Pro打印或做网页版。需要词典宝3.0以上的版本。\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\OpenOffice\\OpenOfficeAddin.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\OpenOffice\\OpenOfficeAddin.cs\nmsgid \"Make OpenOffice Document\"\nmsgstr \"做成Openoffice文档\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\PdfDictionary\\AboutMakePdfDictionary.Designer.cs\nmsgid \"http://princexml.com\"\nmsgstr \"http://princexml.com\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\PdfDictionary\\AboutMakePdfDictionary.Designer.cs\nmsgid \"http://wesay.org/wiki/MakePdfDictionary\"\nmsgstr \"http://wesay.org/wiki/MakePdfDictionary\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\PdfDictionary\\AboutMakePdfDictionary.Designer.cs\nmsgid \"About Make Pdf Dictionary\"\nmsgstr \"有关制作电子书版词典\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\PdfDictionary\\PdfMaker.cs\nmsgid \"Make Pdf Dictionary\"\nmsgstr \"制作电子书版词典\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\SFMChangesDialog.Designer.cs\nmsgid \"Tweaks\"\nmsgstr \"修正\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\SFMChangesDialog.Designer.cs\nmsgid \"Language Output\"\nmsgstr \"语言输出\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\SFMChangesDialog.Designer.cs\nmsgid \"English\"\nmsgstr \"英语\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\SFMChangesDialog.Designer.cs\nmsgid \"National\"\nmsgstr \"官方的\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\SFMChangesDialog.Designer.cs\nmsgid \"Regional\"\nmsgstr \"地区的\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\SFMChangesDialog.Designer.cs\nmsgid \"Vernacular\"\nmsgstr \"本地的\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\SFMChangesDialog.Designer.cs\nmsgid \"Setup Standard Format Export...\"\nmsgstr \"设置SFM标准化输出格式\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\SfmTransformer.cs\nmsgid \"Export To SFM\"\nmsgstr \"导出到SFM\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\SfmTransformer.cs\nmsgid \"Saves the lexicon in a form of standard format.\"\nmsgstr \"保存词汇的标准格式文件。\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Addin.Transform\\Xhtml\\XHtml.cs\nmsgid \"Export to XHTML\"\nmsgstr \"导出到XHML\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Image Picker Test\n#: App\\ImagePicker\\Form1.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\RelationControlTestApp\\Form1.Designer.cs\nmsgid \"Form1\"\nmsgstr \"形式1\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Image Picker Test\n#: App\\ImagePicker\\ImageDisplayWidget.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.UI\\PictureControl.cs\nmsgid \"Cannot find {0}\"\nmsgstr \"找不到{0}\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Image Picker Test\n#: App\\ImagePicker\\ImageDisplayWidget.Designer.cs\nmsgid \"Choose Image...\"\nmsgstr \"选择图片\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Image Picker Test\n#: App\\ImagePicker\\ImageDisplayWidget.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.UI\\PictureControl.Designer.cs\nmsgid \"What is the problem?\"\nmsgstr \"遇到问题吗？\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\Image Picker Test\n#: App\\ImagePicker\\ImageDisplayWidget.Designer.cs\nmsgid \"Remove Image...\"\nmsgstr \"移除图片\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalModel\\Foundation\\SpellCheckerIdToDisplayStringConverter.cs\nmsgid \"Not installed\"\nmsgstr \"尚未安装\"\n\n#. This is what shows for a word in a list when the user hasn't yet typed\n#. anything in for the word.  Like if you click the 'New Word' button\n#. repeatedly.\n#. This is what shows for a word in a list when the user hasn't yet typed\n#. anything in for the word.  Like if you click the 'New Word' button\n#. repeatedly.\n#. This is what shows for a word in a list when the user hasn't yet typed\n#. anything in for the word.  Like if you click the 'New Word' button\n#. repeatedly.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalModel\\KeyToEntryIdInitializer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\AddMissingInfo\\MissingInfoControl.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\DictionaryBrowseAndEdit\\DictionaryControl.cs\nmsgid \"Empty\"\nmsgstr \"清空\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\AddMissingInfo\\MissingInfoConfiguration.cs\nmsgid \"Entries without this:\"\nmsgstr \"词条中缺了：\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\AddMissingInfo\\MissingInfoConfiguration.cs\nmsgid \"Total Entries:\"\nmsgstr \"词条总数：\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\AddMissingInfo\\MissingInfoControl.cs\nmsgid \"Congratulations. You have completed this task.\"\nmsgstr \"祝贺你完成了任务。\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\AddMissingInfo\\MissingInfoControl.cs\nmsgid \"There is no work left to be done on this task.\"\nmsgstr \"任务已经完成。\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\AddMissingInfo\\MissingInfoControl.Designer.cs\nmsgid \"To Do:\"\nmsgstr \"下一步做;\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\AddMissingInfo\\MissingInfoControl.Designer.cs\nmsgid \"Completed:\"\nmsgstr \"完成：\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\AddMissingInfo\\MissingInfoControl.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherBySemanticDomains\\GatherBySemanticDomainsControl.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherByWordList\\GatherWordListControl.Designer.cs\nmsgid \"(Page Down Key)\"\nmsgstr \"（翻页）\"\n\n#. The user will click this to say that this word has no baseform.  E.g.\n#. Kindness has Kind as a baseform, but Kind has no other word as a baseform.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\AddMissingInfo\\MissingInfoViewMaker.cs\nmsgid \"&This word has no Base Form\"\nmsgstr \"&这个词不是基本形式\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\AddPictures\\AddPicturesControl.Designer.cs\nmsgid \"Search Words\"\nmsgstr \"搜索词\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\AddPictures\\AddPicturesControl.Designer.cs\nmsgid \"Search\"\nmsgstr \"搜索\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\CongratulationsControl.Designer.cs\nmsgid \"✔\"\nmsgstr \"✔\"\n\n#. The label for the 'dashboard'; the task which lets you see the status of\n#. other tasks and jump to them.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\Dashboard\\Dash.cs\nmsgid \"Home\"\nmsgstr \"主页\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\Dashboard\\Dash.cs\nmsgid \"Switch tasks and see current status of tasks\"\nmsgstr \"转换任务和查看当前任务情况。\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\Dashboard\\Dash.Designer.cs\nmsgid \"\"\n\"NOTE: This control should be the same size as the initial tab page size so \"\n\"the in\"\nmsgstr \"附注：\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\Dashboard\\DictionaryStatusControl.designer.cs\nmsgid \"{1} dictionary has {0} words\"\nmsgstr \"{1}词典有 {0} 词\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\Dashboard\\GroupHeader.designer.cs\nmsgid \"_label\"\nmsgstr \"_标签\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\Dashboard\\TaskIndicator.designer.cs\nmsgid \"Gather from Foo words\"\nmsgstr \"从食物词汇中收集\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\Dashboard\\TaskIndicator.designer.cs\nmsgid \"See words in Foo, write the same words in Boo\"\nmsgstr \"看到词Foo,写下相同的词Boo\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\DictionaryBrowseAndEdit\\ConfirmDelete.Designer.cs\nmsgid \"&Delete\"\nmsgstr \"&删除\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\DictionaryBrowseAndEdit\\ConfirmDelete.Designer.cs\nmsgid \"This will permanently remove this entry.\"\nmsgstr \"将完全地删除此词条\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\DictionaryBrowseAndEdit\\ConfirmDelete.Designer.cs\nmsgid \"Confirm Delete\"\nmsgstr \"确定删除\"\n\n#. The label for the task that lets you see all entries, search for entries,\n#. and edit various fields.  We don't like the English name very much, so feel\n#. free to call this something very different in the language you are\n#. translating to.\n#. The long label for the task that lets you see all entries, search for\n#. entries, and edit various fields.  We don't like the English name very\n#. much, so feel free to call this something very different in the language\n#. you are translating to.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\DictionaryBrowseAndEdit\\DictionaryBrowseAndEditConfiguration.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\DictionaryBrowseAndEdit\\DictionaryBrowseAndEditConfiguration.cs\nmsgid \"Dictionary Browse && Edit\"\nmsgstr \"浏览词条与编辑\"\n\n#. This is what shows if the user is listing words by the glossing language,\n#. but the word doesn't have a gloss.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\DictionaryBrowseAndEdit\\DictionaryControl.cs\nmsgid \"No Gloss\"\nmsgstr \"無注释\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\DictionaryBrowseAndEdit\\DictionaryControl.cs\nmsgid \"Hide &Uncommon Fields\"\nmsgstr \"隐藏&不常用的栏位\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\DictionaryBrowseAndEdit\\DictionaryControl.cs\nmsgid \"Show &Uncommon Fields\"\nmsgstr \"显示&不常用的栏位\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\DictionaryBrowseAndEdit\\DictionaryControl.Designer.cs\nmsgid \"&Show All Fields\"\nmsgstr \"&显示所有的栏位字段\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\DictionaryBrowseAndEdit\\DictionaryControl.Designer.cs\nmsgid \"&Delete This Word\"\nmsgstr \"删去此词\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\DictionaryBrowseAndEdit\\DictionaryControl.Designer.cs\nmsgid \"&New Word\"\nmsgstr \"添加词条\"\n\n#. The description of the 'Dictionary' task.  In place of the {0} will be the\n#. number of words in the dictionary.  In place of the {1} will be the name of\n#. the project.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\DictionaryBrowseAndEdit\\DictionaryTask.cs\nmsgid \"See all {0} {1} words.\"\nmsgstr \"看{1}全部词汇{0}\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\DictionaryBrowseAndEdit\\SearchBoxControl.Designer.cs\nmsgid \"en\"\nmsgstr \"en\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherBySemanticDomains\\GatherBySemanticDomainConfig.cs\nmsgid \"Semantic Domains\"\nmsgstr \"语义域\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherBySemanticDomains\\GatherBySemanticDomainConfig.cs\nmsgid \"Gather Words By Semantic Domain\"\nmsgstr \"用语义域来收集词汇\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherBySemanticDomains\\GatherBySemanticDomainConfig.cs\nmsgid \"\"\n\"Collect new words organized by semantic domains and questions about those \"\n\"domains.\"\nmsgstr \"从语义域的提示问题来收集新词。\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherBySemanticDomains\\GatherBySemanticDomainConfig.cs\nmsgid \"Domains without words\"\nmsgstr \"此范畴没有词汇\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherBySemanticDomains\\GatherBySemanticDomainConfig.cs\nmsgid \"Total domains:\"\nmsgstr \"所有的语意范畴数：\"\n\n#. The label for the field showing the Lexeme Form of the entry.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherBySemanticDomains\\GatherBySemanticDomainsControl.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\ViewTemplate.cs\nmsgid \"Word\"\nmsgstr \"词条\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherBySemanticDomains\\GatherBySemanticDomainsControl.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherByWordList\\GatherWordListControl.Designer.cs\nmsgid \"(Enter Key)\"\nmsgstr \"（回车键）\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherBySemanticDomains\\GatherBySemanticDomainsControl.Designer.cs\nmsgid \"Try thinking of words you use to talk about these things.\"\nmsgstr \"试想你用来讨论关于这些东西的词。\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherBySemanticDomains\\GatherBySemanticDomainsControl.Designer.cs\nmsgid \"Question goes here.\"\nmsgstr \"问题：\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherBySemanticDomains\\GatherBySemanticDomainsControl.Designer.cs\nmsgid \"Description goes here.\"\nmsgstr \"描述：\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherBySemanticDomains\\GatherBySemanticDomainsControl.Designer.cs\nmsgid \"\\\"Don't translate\\\" warning goes here.\"\nmsgstr \"“不要翻译”\"\n\n#. This label is shown once, but has two roles.  1) it labels the defintion\n#. field, and 2) marks the beginning of the set of fields which make up a\n#. sense. So, in english, if we labelled this 'definition', it would describe\n#. the field well but wouldn't label the section well.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherBySemanticDomains\\GatherBySemanticDomainsControl.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\LexSenseLayouter.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\LexSenseLayouter.cs\nmsgid \"Meaning\"\nmsgstr \"词义注释\"\n\n#. This is shown in the Gather By Semantic Domains task after each semantic\n#. domain question. The questions contain example words to help clarify what\n#. the domain is about, and this was added to remind the user that he/she is\n#. gathering based on the domain, not these examples.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherBySemanticDomains\\GatherBySemanticDomainTask.cs\nmsgid \"\"\n\"Do not just translate these words; instead think of words in your own \"\n\"language.\"\nmsgstr \"不要只是翻译词汇，而是用母语来想这些词汇\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherByWordList\\GatherWordListControl.Designer.cs\nmsgid \"Try thinking of ways to say these words in your language.\"\nmsgstr \"试想你的语言中用来讨论关于这些东西的词。\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherByWordList\\GatherWordListControl.Designer.cs\nmsgid \"Word:\"\nmsgstr \"词：\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\GatherByWordList\\GatherWordListControl.Designer.cs\nmsgid \"Foobar\"\nmsgstr \"Foobar\"\n\n#. This is the field containing an example sentence of a sense of a word.\n#. This is the field containing an example sentence of a sense of a word.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\LexExampleSentenceLayouter.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\LexExampleSentenceLayouter.cs\nmsgid \"Example\"\nmsgstr \"例句\"\n\n#. This is the field for putting in a translation of an example sentence.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\LexExampleSentenceLayouter.cs\nmsgid \"Translation\"\nmsgstr \"翻译\"\n\n#. The label for the field showing a single word translation, as used in\n#. interlinear text glossing.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\LexSenseLayouter.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\ViewTemplate.cs\nmsgid \"Gloss\"\nmsgstr \"注释词汇\"\n\n#. Generic desciption of how many items in a task are left to do.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\TaskBase.cs\nmsgid \"Remaining:\"\nmsgstr \"尚有：\"\n\n#. Generic description of how many total items there are in a task.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\LexicalTools\\TaskBase.cs\nmsgid \"Total:\"\nmsgstr \"总数：\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\RelationControlTestApp\\Form1.Designer.cs\nmsgid \"Refresh\"\nmsgstr \"刷新\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\RelationControlTestApp\\Form1.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\RelationControlTestApp\\Form1.Designer.cs\nmsgid \"Key\"\nmsgstr \"关键key\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\RelationControlTestApp\\Form1.Designer.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\RelationControlTestApp\\Form1.Designer.cs\nmsgid \"Value\"\nmsgstr \"值Value\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\RelationControlTestApp\\Form1.Designer.cs\nmsgid \"Placeholder for control which uses generics so breaks the designer\"\nmsgstr \"Placeholder for control which uses generics so breaks the designer\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\RelationControlTestApp\\Form1.Designer.cs\nmsgid \"Reference Collection\"\nmsgstr \"参考的文献\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\RelationControlTestApp\\Form1.Designer.cs\nmsgid \"Source Collection\"\nmsgstr \"资源资料库\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.AddinLib\\ActionItemControl.cs\nmsgid \"Make visible in WeSay\"\nmsgstr \"在Wesay中显示\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.AddinLib\\ActionItemControl.cs\nmsgid \"Make invisible in WeSay\"\nmsgstr \"在Wesay中隐藏\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.AddinLib\\ActionItemControl.designer.cs\nmsgid \"blah blah blah\"\nmsgstr \"blah blah blah\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.AddinLib\\ActionItemControl.designer.cs\nmsgid \"Action Name\"\nmsgstr \"动作名称\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.AddinLib\\ActionItemControl.designer.cs\nmsgid \"Set up...\"\nmsgstr \"设置中....\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.AddinLib\\ActionItemControl.designer.cs\nmsgid \"Visible In WeSay\"\nmsgstr \"在Wesay可见\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.AddinLib\\ActionItemControl.designer.cs\nmsgid \"More Info...\"\nmsgstr \"更多的讯息...\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.AddinLib\\ActionSetupDialog.Designer.cs\nmsgid \"Setup Action...\"\nmsgstr \"设置\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\CommandLineParser.cs\nmsgid \"Count number of lines in the input text.\"\nmsgstr \"计算导入文本行数\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\CommandLineParser.cs\nmsgid \"Count number of words in the input text.\"\nmsgstr \"夹断导入文本的字数\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\CommandLineParser.cs\nmsgid \"Count number of chars in the input text.\"\nmsgstr \"计算导入文本的字元数\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\CommandLineParser.cs\nmsgid \"Input files to count.\"\nmsgstr \"导入档案计算\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\StatusBarController.cs\nmsgid \"Configure This Project...\"\nmsgstr \"设置这个项目...\"\n\n#. Shown at the bottom of the screen.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\StatusBarController.cs\nmsgid \"Dictionary has {0} words\"\nmsgstr \"词典共有{0}字\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\StatusBarController.cs\nmsgid \"error\"\nmsgstr \"错误\"\n\n#. Appended to the name of a task, in its tab, while the user is waiting for\n#. the task to come up.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\TabbedForm.cs\nmsgid \"Loading...\"\nmsgstr \"载入中...\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\TabbedForm.Designer.cs\nmsgid \"tabPage2\"\nmsgstr \"标示第二页\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\WeSayApp.cs\nmsgid \"Please wait while WeSay prepares your data\"\nmsgstr \"稍等一下Wsay正在预备你的资料\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\WeSayApp.cs\nmsgid \"\"\n\"Welcome to WeSay.\\\\r\\\\nThe Configuration Tool will now open so that you can \"\n\"make a new project or choose an existing one.\"\nmsgstr \"欢迎使用Wesay。\\\\r \\\\n这些设置工具现在是开放的，那样你可以打开已经存在的新项目。\"\n\n#. The label on the message box which the user sees if WeSay can't figure out\n#. what project to open.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\WeSayApp.cs\nmsgid \"No Default Project\"\nmsgstr \"没有默认的项目\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\WeSayApp.cs\nmsgid \"Path to the Lift Xml file (e.g. on windows, \\\"c:\\\\thai\\\\wesay\\\\thai.lift\\\").\"\nmsgstr \"路径到 Lift Xml file (e.g. on windows, \\\"c:\\\\thai\\\\wesay\\\\thai.lift\\\").\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\WeSayApp.cs\nmsgid \"Language to show the user interface in.\"\nmsgstr \"在使用者界面的显示的语言\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\WeSayApp.cs\nmsgid \"\"\n\"Start without a user interface (will have no effect if WeSay is already \"\n\"running with a UI.\"\nmsgstr \"启动时不要用使用者界面（将不受影响，如果Wesay已经打开UI软件）\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\WeSayApp.cs\nmsgid \"\"\n\"Some things, like backup, just gum up automated tests.  This is used to turn\"\n\" them off.\"\nmsgstr \"有些功能如：备份..，在自动测试会出问题||这是用来关闭那些功能的。\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.App\\WeSayApp.cs\nmsgid \"Make it easy to get back to the configuration tool.\"\nmsgstr \"快速回到设置界面\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Foundation\\IThingOnDashboard.cs\nmsgid \"Gather\"\nmsgstr \"收集\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Foundation\\IThingOnDashboard.cs\nmsgid \"Describe\"\nmsgstr \"描述\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Foundation\\IThingOnDashboard.cs\nmsgid \"Refine\"\nmsgstr \"修订更新\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Foundation\\IThingOnDashboard.cs\nmsgid \"Review\"\nmsgstr \"检查\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Foundation\\IThingOnDashboard.cs\nmsgid \"Share\"\nmsgstr \"伙伴合作备份及输出\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\ChorusBackupMaker.cs\nmsgid \"Wesay Automatic Backup\"\nmsgstr \"Wesay 自动备份\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\FailedLoadTask.cs\nmsgid \"Failed To Load: {0}\"\nmsgstr \"无法成功载入: {0}\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\FailedLoadTask.cs\nmsgid \"Error: {0}\"\nmsgstr \"错误: {0}\"\n\n#. Label for action which uses Chorus to synchronize the dictionary with other\n#. users, devices, and servers. Here, 'synchronizing' means putting your\n#. changes in the repository, and getting changes that others have put in the\n#. repository. In English, we are going with Send/Receive because it is\n#. similar to email and this is the term Paratext uses.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\Synchronize\\SendReceiveAction.cs\nmsgid \"Send/Receive\"\nmsgstr \"传送/接受\"\n\n#. description of send/receive action\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\Synchronize\\SendReceiveAction.cs\nmsgid \"\"\n\"Sends your changes to a USB flash drive, server, or other users, and \"\n\"receives the changes made by other members of your team.\"\nmsgstr \"传送你的词条修订到U盘、主机或其他的使用者，而且接受其他工作成员的修订。\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\Synchronize\\SendReceiveAction.cs\nmsgid \"WeSay Send/Receive\"\nmsgstr \"Wesay 传送/接受\"\n\n#. Long label for send/receive action.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\Synchronize\\SendReceiveAction.cs\nmsgid \"\"\n\"Send/Receive Changes to devices, servers, or other users on your network.\"\nmsgstr \"传送/接受 词条的修订到设备、主机或其他工作成员。\"\n\n#. The label for the field holding the citation form, which is how the word\n#. will be displayed in the dictionary.  This is used in languages where the\n#. lexeme form may be different from what the Headword should be.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\ViewTemplate.cs\nmsgid \"Citation Form\"\nmsgstr \"引用的形式\"\n\n#. The label for the field showing the definition of the word.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\ViewTemplate.cs\nmsgid \"Definition\"\nmsgstr \"定义词条\"\n\n#. The label for the field showing the literal meaning of idiom or proverb.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\ViewTemplate.cs\nmsgid \"Literal Meaning\"\nmsgstr \"直译\"\n\n#. The label for the field showing a note.\n#. The label for the field showing a note.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\ViewTemplate.cs\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\ViewTemplate.cs\nmsgid \"Note\"\nmsgstr \"笔记note\"\n\n#. The label for the field showing a picture.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\ViewTemplate.cs\nmsgid \"Picture\"\nmsgstr \"图片\"\n\n#. The label for the field showing Part Of Speech\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\ViewTemplate.cs\nmsgid \"POS\"\nmsgstr \"词性\"\n\n#. The label for the field showing an example use of the word.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\ViewTemplate.cs\nmsgid \"Example Sentence\"\nmsgstr \"例句\"\n\n#. The label for the field showing the example sentence translated into other\n#. languages.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\ViewTemplate.cs\nmsgid \"Example Translation\"\nmsgstr \"例句翻译\"\n\n#. The label for the field showing Semantic Domains\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\ViewTemplate.cs\nmsgid \"Sem Dom\"\nmsgstr \"语义分类\"\n\n#. The label for the field showing the entry which this entry is derived from,\n#. is a subentry of, etc.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\ViewTemplate.cs\nmsgid \"Base Form\"\nmsgstr \"基本形式\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\ViewTemplate.cs\nmsgid \"Cross Reference\"\nmsgstr \"参见\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\WeSayWordsProject.cs\nmsgid \"Checking file...\"\nmsgstr \"检查档案...\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.Project\\WeSayWordsProject.cs\nmsgid \"Checking files...\"\nmsgstr \"检查档案...\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.UI\\CheckBoxControl.Designer.cs\nmsgid \"checkBox1\"\nmsgstr \"检查box1\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.UI\\PictureControl.Designer.cs\nmsgid \"Remove Picture...\"\nmsgstr \"\"\n\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.UI\\PictureControl.Designer.cs\nmsgid \"Get Picture...\"\nmsgstr \"\"\n\n#. This is shown in a combo-box (list of options, like Part Of Speech) when no\n#. option has been chosen, or the user just doesn't know what to put in this\n#. field.\n#: C\\BuildAgent\\work\\wesay-localize-dev\\bld\\..\\src\\WeSay.UI\\SingleOptionControl.cs\nmsgid \"unknown\"\nmsgstr \"未知\"\n",
-	"mimetype": "text/x-po"
-}
+#
+# Translators:
+#   <dsylai@gmail.com>, 2012.
+# palaso_admin <admin@palaso.org>, 2011.
+# rperlin <ross.perlin@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: WeSay\n"
+"Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
+"POT-Creation-Date: 2012-05-11T20:29:49\n"
+"PO-Revision-Date: 2012-05-01 08:17+0000\n"
+"Last-Translator: suiwesay <dsylai@gmail.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.net/projects/p/wesay/language/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+# Project-Id-Version: WeSay
+# Report-Msgid-Bugs-To: hattonjohn@gmail.com
+# POT-Creation-Date: 2012-05-11T20:29:49
+# Content-Type: text/plain; charset=UTF-8
+msgid "Meanings"
+msgstr "词义注释"
+
+msgid "Add Meanings"
+msgstr "添加词义"
+
+msgid "Add meanings (senses) to entries where they are missing."
+msgstr "添加词义注释（词义）到缺词义的词条"
+
+msgid "Parts of Speech"
+msgstr "词性"
+
+msgid "Add Parts of Speech"
+msgstr "添加词性"
+
+msgid "Add parts of speech to senses where they are missing."
+msgstr "添加词性到缺词义的词条"
+
+msgid "Example Sentences"
+msgstr "例句"
+
+msgid "Add Example Sentences"
+msgstr "添加"
+
+msgid "Add example sentences to senses where they are missing."
+msgstr "添加例句到缺例句的词条"
+
+msgid "Base Forms"
+msgstr "基本形式"
+
+msgid "Add Base Forms"
+msgstr "添加基本形式"
+
+msgid ""
+"Identify the \"base form\" word that this word is built from. In the printed"
+" dictionary, the derived or variant words can optionally be shown as "
+"subentries of their base forms."
+msgstr "确定\"基本形式\""
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
+msgid "Looking for USB Flash Drives..."
+msgstr "寻找U盘中..."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
+msgid "Backing Up..."
+msgstr "备份..."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
+msgid "Backup Complete"
+msgstr "备份完成..."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
+msgid "Files backed up to {0}"
+msgstr "文件备份到{0}"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
+msgid "Files were not backed up."
+msgstr "文件未备份。"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionSetupDialog.Designer.cs
+msgid "&OK"
+msgstr "&确定"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
+msgid "Please insert the USB Flash Drive to backup to."
+msgstr "请插入U盘作备份"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.cs
+msgid "Unable to look for the device due to an error."
+msgstr "因为错误无法找到设备"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
+msgid "status goes here"
+msgstr "词条的重要程度在这里"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
+msgid "Secondary status goes here"
+msgstr "词条次要程度在这里"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
+msgid "&Cancel"
+msgstr "取消"
+
+#. Long name for action which makes a zip file on a usb flash-drive
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
+msgid "Backup To USB Flash Drive"
+msgstr "备份到U盘"
+
+#. description of usb backup action
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
+msgid "Saves a backup on an external device, like a USB Flash Drive."
+msgstr "存储备份到移动硬盘（如U盘）"
+
+#. Short buton label for usb flash-drive backup action
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\BackupToDevice.cs
+msgid "Backup"
+msgstr "备份"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
+msgid "Email this dictionary to {0}"
+msgstr "电邮此词典到{0}"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
+msgid "Email this dictionary as a compressed attachment"
+msgstr "电邮此词典以压缩附件的形式"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
+msgid "The latest WeSay project data is attached."
+msgstr "最新的Wesay项目资料已经附上"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmail.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
+msgid "Email"
+msgstr "电子邮件"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
+msgid "Recipient Name"
+msgstr "收件人名称"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Backup\SendProjectEmailSettingsDialog.Designer.cs
+msgid "Send Project Email Settings..."
+msgstr "传送项目电邮设置"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
+msgid "<"
+msgstr "后退"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
+msgid ">"
+msgstr "前进"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\AutoCompleteTextBox\AutoCompleteWithCreationBox.Designer.cs
+msgid "+"
+msgstr "+添加"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\GraphComponents\Plotter.cs
+msgid "-"
+msgstr "-"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
+msgid "Lexicon Report"
+msgstr "词典报告"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
+msgid "Entries Contents"
+msgstr "词条的内容"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
+msgid "Senses Contents"
+msgstr "词义内容"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\Report.Designer.cs
+msgid "label4"
+msgstr "标签4"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\ReportMaker.cs
+msgid "View Report"
+msgstr "浏览报告"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\ReportMaker.cs
+msgid "Shows some information about the lexicon."
+msgstr "显示关于词汇的某些信息。"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\ReportMaker.cs
+msgid "Report"
+msgstr "报告"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.LiftReports\XPathChart.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\LongStartupNotification.Designer.cs
+msgid "label1"
+msgstr "标签1"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlInWord.cs
+msgid "Export to Word"
+msgstr "导出到Word"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlInWord.cs
+msgid "Creates a very basic dictionary publication in Microsoft Word."
+msgstr "创建Word基本词典的文档"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
+msgid "Export to HTML"
+msgstr "到处到HTML档"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\HtmlTransformer.cs
+msgid ""
+"Creates a simple Html version of the dictionary.  Not a very good way to go."
+msgstr "创建简单网页版的词典||这不是最好的作法"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\SimpleProgressDialog.Designer.cs
+msgid "Backing up..."
+msgstr "备份中"
+
+#. It's up to you whether to bother translating this or not.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LameProgressDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\LongStartupNotification.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\SimpleProgressDialog.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\TabbedForm.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "WeSay"
+msgstr "Wesay"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
+msgid "http://lexiquepro.com"
+msgstr "http://lexiquepro.com"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
+msgid "http://lexiquepro.com/test.htm"
+msgstr "http://lexiquepro.com/test.htm"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
+msgid "About Lexique Pro"
+msgstr "有关词典宝 Lexique Pro"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\LexiqueProSender.cs
+msgid "Open in Lexique Pro"
+msgstr "打开词典宝 Lexique Pro"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\LexiquePro\LexiqueProSender.cs
+msgid ""
+"Open dictionary in Lexique Pro for printing or web-page creation. Requires "
+"version LP ver 3.0 or higher."
+msgstr "在词典宝Lexique Pro打印或做网页版。需要词典宝3.0以上的版本。"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\OpenOffice\OpenOfficeAddin.cs
+msgid "Make OpenOffice Document"
+msgstr "做成Openoffice文档"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
+msgid "http://princexml.com"
+msgstr "http://princexml.com"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
+msgid "http://wesay.org/wiki/MakePdfDictionary"
+msgstr "http://wesay.org/wiki/MakePdfDictionary"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
+msgid "About Make Pdf Dictionary"
+msgstr "有关制作电子书版词典"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\PdfDictionary\PdfMaker.cs
+msgid "Make Pdf Dictionary"
+msgstr "制作电子书版词典"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "Tweaks"
+msgstr "修正"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "Language Output"
+msgstr "语言输出"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "English"
+msgstr "英语"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "National"
+msgstr "官方的"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "Regional"
+msgstr "地区的"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "Vernacular"
+msgstr "本地的"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SFMChangesDialog.Designer.cs
+msgid "Setup Standard Format Export..."
+msgstr "设置SFM标准化输出格式"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SfmTransformer.cs
+msgid "Export To SFM"
+msgstr "导出到SFM"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\SfmTransformer.cs
+msgid "Saves the lexicon in a form of standard format."
+msgstr "保存词汇的标准格式文件。"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Addin.Transform\Xhtml\XHtml.cs
+msgid "Export to XHTML"
+msgstr "导出到XHML"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
+#: App\ImagePicker\Form1.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Form1"
+msgstr "形式1"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
+#: App\ImagePicker\ImageDisplayWidget.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.cs
+msgid "Cannot find {0}"
+msgstr "找不到{0}"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
+#: App\ImagePicker\ImageDisplayWidget.Designer.cs
+msgid "Choose Image..."
+msgstr "选择图片"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
+#: App\ImagePicker\ImageDisplayWidget.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
+msgid "What is the problem?"
+msgstr "遇到问题吗？"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\Image Picker Test
+#: App\ImagePicker\ImageDisplayWidget.Designer.cs
+msgid "Remove Image..."
+msgstr "移除图片"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalModel\Foundation\SpellCheckerIdToDisplayStringConverter.cs
+msgid "Not installed"
+msgstr "尚未安装"
+
+#. This is what shows for a word in a list when the user hasn't yet typed
+#. anything in for the word.  Like if you click the 'New Word' button
+#. repeatedly.
+#. This is what shows for a word in a list when the user hasn't yet typed
+#. anything in for the word.  Like if you click the 'New Word' button
+#. repeatedly.
+#. This is what shows for a word in a list when the user hasn't yet typed
+#. anything in for the word.  Like if you click the 'New Word' button
+#. repeatedly.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalModel\KeyToEntryIdInitializer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
+msgid "Empty"
+msgstr "清空"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoConfiguration.cs
+msgid "Entries without this:"
+msgstr "词条中缺了："
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoConfiguration.cs
+msgid "Total Entries:"
+msgstr "词条总数："
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
+msgid "Congratulations. You have completed this task."
+msgstr "祝贺你完成了任务。"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.cs
+msgid "There is no work left to be done on this task."
+msgstr "任务已经完成。"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.Designer.cs
+msgid "To Do:"
+msgstr "下一步做;"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.Designer.cs
+msgid "Completed:"
+msgstr "完成："
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoControl.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
+msgid "(Page Down Key)"
+msgstr "（翻页）"
+
+#. The user will click this to say that this word has no baseform.  E.g.
+#. Kindness has Kind as a baseform, but Kind has no other word as a baseform.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddMissingInfo\MissingInfoViewMaker.cs
+msgid "&This word has no Base Form"
+msgstr "&这个词不是基本形式"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddPictures\AddPicturesControl.Designer.cs
+msgid "Search Words"
+msgstr "搜索词"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\AddPictures\AddPicturesControl.Designer.cs
+msgid "Search"
+msgstr "搜索"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\CongratulationsControl.Designer.cs
+msgid "✔"
+msgstr "✔"
+
+#. The label for the 'dashboard'; the task which lets you see the status of
+#. other tasks and jump to them.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\Dash.cs
+msgid "Home"
+msgstr "主页"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\Dash.cs
+msgid "Switch tasks and see current status of tasks"
+msgstr "转换任务和查看当前任务情况。"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\Dash.Designer.cs
+msgid ""
+"NOTE: This control should be the same size as the initial tab page size so "
+"the in"
+msgstr "附注："
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\DictionaryStatusControl.designer.cs
+msgid "{1} dictionary has {0} words"
+msgstr "{1}词典有 {0} 词"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\GroupHeader.designer.cs
+msgid "_label"
+msgstr "_标签"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\TaskIndicator.designer.cs
+msgid "Gather from Foo words"
+msgstr "从食物词汇中收集"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\Dashboard\TaskIndicator.designer.cs
+msgid "See words in Foo, write the same words in Boo"
+msgstr "看到词Foo,写下相同的词Boo"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
+msgid "&Delete"
+msgstr "&删除"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
+msgid "This will permanently remove this entry."
+msgstr "将完全地删除此词条"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\ConfirmDelete.Designer.cs
+msgid "Confirm Delete"
+msgstr "确定删除"
+
+#. The label for the task that lets you see all entries, search for entries,
+#. and edit various fields.  We don't like the English name very much, so feel
+#. free to call this something very different in the language you are
+#. translating to.
+#. The long label for the task that lets you see all entries, search for
+#. entries, and edit various fields.  We don't like the English name very
+#. much, so feel free to call this something very different in the language
+#. you are translating to.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryBrowseAndEditConfiguration.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryBrowseAndEditConfiguration.cs
+msgid "Dictionary Browse && Edit"
+msgstr "浏览词条与编辑"
+
+#. This is what shows if the user is listing words by the glossing language,
+#. but the word doesn't have a gloss.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
+msgid "No Gloss"
+msgstr "無注释"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
+msgid "Hide &Uncommon Fields"
+msgstr "隐藏&不常用的栏位"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
+msgid "Show &Uncommon Fields"
+msgstr "显示&不常用的栏位"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.Designer.cs
+msgid "&Show All Fields"
+msgstr "&显示所有的栏位字段"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.Designer.cs
+msgid "&Delete This Word"
+msgstr "删去此词"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.Designer.cs
+msgid "&New Word"
+msgstr "添加词条"
+
+#. The description of the 'Dictionary' task.  In place of the {0} will be the
+#. number of words in the dictionary.  In place of the {1} will be the name of
+#. the project.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryTask.cs
+msgid "See all {0} {1} words."
+msgstr "看{1}全部词汇{0}"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\DictionaryBrowseAndEdit\SearchBoxControl.Designer.cs
+msgid "en"
+msgstr "en"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
+msgid "Semantic Domains"
+msgstr "语义域"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
+msgid "Gather Words By Semantic Domain"
+msgstr "用语义域来收集词汇"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
+msgid ""
+"Collect new words organized by semantic domains and questions about those "
+"domains."
+msgstr "从语义域的提示问题来收集新词。"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
+msgid "Domains without words"
+msgstr "此范畴没有词汇"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainConfig.cs
+msgid "Total domains:"
+msgstr "所有的语意范畴数："
+
+#. The label for the field showing the Lexeme Form of the entry.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
+msgid "Word"
+msgstr "词条"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
+msgid "(Enter Key)"
+msgstr "（回车键）"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+msgid "Try thinking of words you use to talk about these things."
+msgstr "试想你用来讨论关于这些东西的词。"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+msgid "Question goes here."
+msgstr "问题："
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+msgid "Description goes here."
+msgstr "描述："
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+msgid "\"Don't translate\" warning goes here."
+msgstr "“不要翻译”"
+
+#. This label is shown once, but has two roles.  1) it labels the defintion
+#. field, and 2) marks the beginning of the set of fields which make up a
+#. sense. So, in english, if we labelled this 'definition', it would describe
+#. the field well but wouldn't label the section well.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexSenseLayouter.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexSenseLayouter.cs
+msgid "Meaning"
+msgstr "词义注释"
+
+#. This is shown in the Gather By Semantic Domains task after each semantic
+#. domain question. The questions contain example words to help clarify what
+#. the domain is about, and this was added to remind the user that he/she is
+#. gathering based on the domain, not these examples.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainTask.cs
+msgid ""
+"Do not just translate these words; instead think of words in your own "
+"language."
+msgstr "不要只是翻译词汇，而是用母语来想这些词汇"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
+msgid "Try thinking of ways to say these words in your language."
+msgstr "试想你的语言中用来讨论关于这些东西的词。"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
+msgid "Word:"
+msgstr "词："
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\GatherByWordList\GatherWordListControl.Designer.cs
+msgid "Foobar"
+msgstr "Foobar"
+
+#. This is the field containing an example sentence of a sense of a word.
+#. This is the field containing an example sentence of a sense of a word.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexExampleSentenceLayouter.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexExampleSentenceLayouter.cs
+msgid "Example"
+msgstr "例句"
+
+#. This is the field for putting in a translation of an example sentence.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexExampleSentenceLayouter.cs
+msgid "Translation"
+msgstr "翻译"
+
+#. The label for the field showing a single word translation, as used in
+#. interlinear text glossing.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\LexSenseLayouter.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
+msgid "Gloss"
+msgstr "注释词汇"
+
+#. Generic desciption of how many items in a task are left to do.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\TaskBase.cs
+msgid "Remaining:"
+msgstr "尚有："
+
+#. Generic description of how many total items there are in a task.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\LexicalTools\TaskBase.cs
+msgid "Total:"
+msgstr "总数："
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Refresh"
+msgstr "刷新"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Key"
+msgstr "关键key"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Value"
+msgstr "值Value"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Placeholder for control which uses generics so breaks the designer"
+msgstr "Placeholder for control which uses generics so breaks the designer"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Reference Collection"
+msgstr "参考的文献"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\RelationControlTestApp\Form1.Designer.cs
+msgid "Source Collection"
+msgstr "资源资料库"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.cs
+msgid "Make visible in WeSay"
+msgstr "在Wesay中显示"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.cs
+msgid "Make invisible in WeSay"
+msgstr "在Wesay中隐藏"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+msgid "blah blah blah"
+msgstr "blah blah blah"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+msgid "Action Name"
+msgstr "动作名称"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+msgid "Set up..."
+msgstr "设置中...."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+msgid "Visible In WeSay"
+msgstr "在Wesay可见"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionItemControl.designer.cs
+msgid "More Info..."
+msgstr "更多的讯息..."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.AddinLib\ActionSetupDialog.Designer.cs
+msgid "Setup Action..."
+msgstr "设置"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\CommandLineParser.cs
+msgid "Count number of lines in the input text."
+msgstr "计算导入文本行数"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\CommandLineParser.cs
+msgid "Count number of words in the input text."
+msgstr "夹断导入文本的字数"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\CommandLineParser.cs
+msgid "Count number of chars in the input text."
+msgstr "计算导入文本的字元数"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\CommandLineParser.cs
+msgid "Input files to count."
+msgstr "导入档案计算"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
+msgid "Configure This Project..."
+msgstr "设置这个项目..."
+
+#. Shown at the bottom of the screen.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
+msgid "Dictionary has {0} words"
+msgstr "词典共有{0}字"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\StatusBarController.cs
+msgid "error"
+msgstr "错误"
+
+#. Appended to the name of a task, in its tab, while the user is waiting for
+#. the task to come up.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\TabbedForm.cs
+msgid "Loading..."
+msgstr "载入中..."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\TabbedForm.Designer.cs
+msgid "tabPage2"
+msgstr "标示第二页"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Please wait while WeSay prepares your data"
+msgstr "稍等一下Wsay正在预备你的资料"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid ""
+"Welcome to WeSay.\\r\\nThe Configuration Tool will now open so that you can "
+"make a new project or choose an existing one."
+msgstr "欢迎使用Wesay。\\r \\n这些设置工具现在是开放的，那样你可以打开已经存在的新项目。"
+
+#. The label on the message box which the user sees if WeSay can't figure out
+#. what project to open.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "No Default Project"
+msgstr "没有默认的项目"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Path to the Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
+msgstr "路径到 Lift Xml file (e.g. on windows, \"c:\\thai\\wesay\\thai.lift\")."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Language to show the user interface in."
+msgstr "在使用者界面的显示的语言"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid ""
+"Start without a user interface (will have no effect if WeSay is already "
+"running with a UI."
+msgstr "启动时不要用使用者界面（将不受影响，如果Wesay已经打开UI软件）"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid ""
+"Some things, like backup, just gum up automated tests.  This is used to turn"
+" them off."
+msgstr "有些功能如：备份..，在自动测试会出问题||这是用来关闭那些功能的。"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.App\WeSayApp.cs
+msgid "Make it easy to get back to the configuration tool."
+msgstr "快速回到设置界面"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Gather"
+msgstr "收集"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Describe"
+msgstr "描述"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Refine"
+msgstr "修订更新"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Review"
+msgstr "检查"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Foundation\IThingOnDashboard.cs
+msgid "Share"
+msgstr "伙伴合作备份及输出"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ChorusBackupMaker.cs
+msgid "Wesay Automatic Backup"
+msgstr "Wesay 自动备份"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\FailedLoadTask.cs
+msgid "Failed To Load: {0}"
+msgstr "无法成功载入: {0}"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\FailedLoadTask.cs
+msgid "Error: {0}"
+msgstr "错误: {0}"
+
+#. Label for action which uses Chorus to synchronize the dictionary with other
+#. users, devices, and servers. Here, 'synchronizing' means putting your
+#. changes in the repository, and getting changes that others have put in the
+#. repository. In English, we are going with Send/Receive because it is
+#. similar to email and this is the term Paratext uses.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
+msgid "Send/Receive"
+msgstr "传送/接受"
+
+#. description of send/receive action
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
+msgid ""
+"Sends your changes to a USB flash drive, server, or other users, and "
+"receives the changes made by other members of your team."
+msgstr "传送你的词条修订到U盘、主机或其他的使用者，而且接受其他工作成员的修订。"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
+msgid "WeSay Send/Receive"
+msgstr "Wesay 传送/接受"
+
+#. Long label for send/receive action.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\Synchronize\SendReceiveAction.cs
+msgid ""
+"Send/Receive Changes to devices, servers, or other users on your network."
+msgstr "传送/接受 词条的修订到设备、主机或其他工作成员。"
+
+#. The label for the field holding the citation form, which is how the word
+#. will be displayed in the dictionary.  This is used in languages where the
+#. lexeme form may be different from what the Headword should be.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
+msgid "Citation Form"
+msgstr "引用的形式"
+
+#. The label for the field showing the definition of the word.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
+msgid "Definition"
+msgstr "定义词条"
+
+#. The label for the field showing the literal meaning of idiom or proverb.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
+msgid "Literal Meaning"
+msgstr "直译"
+
+#. The label for the field showing a note.
+#. The label for the field showing a note.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
+msgid "Note"
+msgstr "笔记note"
+
+#. The label for the field showing a picture.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
+msgid "Picture"
+msgstr "图片"
+
+#. The label for the field showing Part Of Speech
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
+msgid "POS"
+msgstr "词性"
+
+#. The label for the field showing an example use of the word.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
+msgid "Example Sentence"
+msgstr "例句"
+
+#. The label for the field showing the example sentence translated into other
+#. languages.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
+msgid "Example Translation"
+msgstr "例句翻译"
+
+#. The label for the field showing Semantic Domains
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
+msgid "Sem Dom"
+msgstr "语义分类"
+
+#. The label for the field showing the entry which this entry is derived from,
+#. is a subentry of, etc.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
+msgid "Base Form"
+msgstr "基本形式"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\ViewTemplate.cs
+msgid "Cross Reference"
+msgstr "参见"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
+msgid "Checking file..."
+msgstr "检查档案..."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.Project\WeSayWordsProject.cs
+msgid "Checking files..."
+msgstr "检查档案..."
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\CheckBoxControl.Designer.cs
+msgid "checkBox1"
+msgstr "检查box1"
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
+msgid "Remove Picture..."
+msgstr ""
+
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
+msgid "Get Picture..."
+msgstr ""
+
+#. This is shown in a combo-box (list of options, like Part Of Speech) when no
+#. option has been chosen, or the user just doesn't know what to put in this
+#. field.
+#: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\SingleOptionControl.cs
+msgid "unknown"
+msgstr "未知"
