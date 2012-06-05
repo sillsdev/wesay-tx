@@ -22,52 +22,66 @@
 	</Target>
 
 	<ItemGroup>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/id/?file">
+		<URL Include = "https://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/id/">
+			<GetFile>%3Ffile</GetFile>
 			<Destination>wesay.id.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/fr/?file">
+		<URL Include = "https://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/fr/">
+			<GetFile>%3Ffile</GetFile>
 			<Destination>wesay.fr.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/hi/?file">
+		<URL Include = "https://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/hi/">
+			<GetFile>%3Ffile</GetFile>
 			<Destination>wesay.hi.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/th/?file">
+		<URL Include = "https://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/th/">
+			<GetFile>%3Ffile</GetFile>
 			<Destination>wesay.th.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/es/?file">
+		<URL Include = "https://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/es/">
+			<GetFile>%3Ffile</GetFile>
 			<Destination>wesay.es.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/lo/?file">
+		<URL Include = "https://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/lo/">
+			<GetFile>%3Ffile</GetFile>
 			<Destination>wesay.lo.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/my/?file">
+		<URL Include = "https://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/my/">
+			<GetFile>%3Ffile</GetFile>
 			<Destination>wesay.my.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/ru/?file">
+		<URL Include = "https://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/ru/">
+			<GetFile>%3Ffile</GetFile>
 			<Destination>wesay.ru.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/vi/?file">
+		<URL Include = "https://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/vi/">
+			<GetFile>%3Ffile</GetFile>
 			<Destination>wesay.vi.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/zh_CN/?file">
+		<URL Include = "https://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/zh_CN/">
+			<GetFile>%3Ffile</GetFile>
 			<Destination>wesay.zh_CN.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/km/?file">
+		<URL Include = "https://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/km/">
+			<GetFile>%3Ffile</GetFile>
 			<Destination>wesay.km.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/az/?file">
+		<URL Include = "https://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/az/">
+			<GetFile>%3Ffile</GetFile>
 			<Destination>wesay.az.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/rw/?file">
+		<URL Include = "https://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/rw/">
+			<GetFile>%3Ffile</GetFile>
 			<Destination>wesay.rw.po</Destination>
 		</URL>
-		<URL Include = "http://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/zh_TW/?file">
+		<URL Include = "https://$(TransifexCredentials)@www.transifex.net/api/2/project/wesay/resource/wesay-dev/translation/zh_TW/">
+			<GetFile>%3Ffile</GetFile>
 			<Destination>wesay.zh_TW.po</Destination>
 		</URL>
 	</ItemGroup>
 
 	<Target Name="PullFromTransifex">
-		<Exec Command="wget -O$(PoDir)\%(Destination) @(URL)" WorkingDirectory="." />
+		<Exec Command="wget -O$(PoDir)\%(Destination) @(URL)%(GetFile)" WorkingDirectory="." />
 		<!--<WebDownload FileUri="@(URL)" FileName="%(Destination)" />-->
 	</Target>
 </Project>
