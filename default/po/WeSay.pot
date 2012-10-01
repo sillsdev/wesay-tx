@@ -1,6 +1,6 @@
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: issues@wesay.org
-# POT-Creation-Date: 2012-08-28T06:07:48
+# POT-Creation-Date: 2012-09-29T00:11:54
 # Content-Type: text/plain; charset=UTF-8
 
 
