@@ -1,6 +1,6 @@
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: issues@wesay.org
-# POT-Creation-Date: 2012-09-29T00:11:54
+# POT-Creation-Date: 2012-10-29T06:04:35
 # Content-Type: text/plain; charset=UTF-8
 
 
@@ -731,6 +731,10 @@ msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.App\WeSayApp.cs
 msgid "Make it easy to get back to the configuration tool."
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.App\WeSayApp.cs
+msgid "Enable use of the help editor by pressing Ctrl+F1"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.Foundation\IThingOnDashboard.cs
