@@ -1,9 +1,9 @@
 #
 # Translators:
-# Bun Ang Van <bunangv@gmail.com>, 2011.
-# Makara SOK <lrtc_makara@icc.org.kh>, 2011, 2012.
-# palaso_admin <admin@palaso.org>, 2011.
-# sungkhum <sungkhum@gmail.com>, 2011.
+# Bun Ang Van <bunangv@gmail.com>, 2011
+# Makara SOK <lrtc_makara@icc.org.kh>, 2011, 2012
+# palaso_admin <admin@palaso.org>, 2011
+# sungkhum <sungkhum@gmail.com>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"

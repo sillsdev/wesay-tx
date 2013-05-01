@@ -1,7 +1,7 @@
 #
 # Translators:
-# DavidRowe <david_rowe@kastanet.org>, 2011.
-# palaso_admin <admin@palaso.org>, 2011.
+# DavidRowe <david_rowe@kastanet.org>, 2011
+# palaso_admin <admin@palaso.org>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"

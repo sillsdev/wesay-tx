@@ -1,8 +1,8 @@
 #
 # Translators:
-#   <admin@palaso.org>, 2011.
-# Greg Blok <greg_blok@sil.org>, 2011.
-# palaso_admin <admin@palaso.org>, 2011.
+# palaso_admin <admin@palaso.org>, 2011
+# Greg Blok <greg_blok@sil.org>, 2011
+# palaso_admin <admin@palaso.org>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"

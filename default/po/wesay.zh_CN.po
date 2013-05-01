@@ -1,8 +1,8 @@
 #
 # Translators:
-#   <dsylai@gmail.com>, 2012.
-# palaso_admin <admin@palaso.org>, 2011.
-# rperlin <ross.perlin@gmail.com>, 2011.
+# suiwesay <dsylai@gmail.com>, 2012
+# palaso_admin <admin@palaso.org>, 2011
+# rperlin <ross.perlin@gmail.com>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"

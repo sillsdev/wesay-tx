@@ -1,10 +1,10 @@
 #
 # Translators:
-# palaso_admin <admin@palaso.org>, 2011.
-# toddho <thoatson@hotmail.com>, 2011.
-# Vedder Joes <>, 2012.
-# Wira Grafika <wira@loksado.com>, 2012.
-#   <wira@loksado.com>, 2012.
+# palaso_admin <admin@palaso.org>, 2011
+# toddho <thoatson@hotmail.com>, 2011
+# Vedder Joes <>, 2012
+# Tri Wira <wira@loksado.com>, 2012
+# Tri Wira <wira@loksado.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"

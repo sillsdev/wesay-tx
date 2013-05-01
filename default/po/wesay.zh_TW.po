@@ -1,6 +1,6 @@
 #
 # Translators:
-#   <dsylai@gmail.com>, 2012.
+# suiwesay <dsylai@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"

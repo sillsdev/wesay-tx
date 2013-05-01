@@ -1,6 +1,6 @@
 #
 # Translators:
-# Emmanuel Habumuremyi <emmahab2008@gmail.com>, 2011, 2012.
+# Emmanuel Habumuremyi <emmahab2008@gmail.com>, 2011, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
