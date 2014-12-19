@@ -1,6 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WeSay\n"
+"POT-Creation-Date: 2014-12-19T20:29:20\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # Project-Id-Version: WeSay
 # Report-Msgid-Bugs-To: issues@wesay.org
-# POT-Creation-Date: 2013-03-06T19:33:02
+# POT-Creation-Date: 2014-12-19T20:29:20
 # Content-Type: text/plain; charset=UTF-8
 
 
@@ -157,56 +169,6 @@ msgstr ""
 msgid "Send Project Email Settings..."
 msgstr ""
 
-#: C:\BuildAgent\work\wesay-localize-dev\src\Addin.LiftReports\GraphComponents\Plotter.cs
-msgid "<"
-msgstr ""
-
-#: C:\BuildAgent\work\wesay-localize-dev\src\Addin.LiftReports\GraphComponents\Plotter.cs
-msgid ">"
-msgstr ""
-
-#: C:\BuildAgent\work\wesay-localize-dev\src\Addin.LiftReports\GraphComponents\Plotter.cs
-#: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.UI\AutoCompleteTextBox\AutoCompleteWithCreationBox.Designer.cs
-msgid "+"
-msgstr ""
-
-#: C:\BuildAgent\work\wesay-localize-dev\src\Addin.LiftReports\GraphComponents\Plotter.cs
-msgid "-"
-msgstr ""
-
-#: C:\BuildAgent\work\wesay-localize-dev\src\Addin.LiftReports\Report.Designer.cs
-msgid "Lexicon Report"
-msgstr ""
-
-#: C:\BuildAgent\work\wesay-localize-dev\src\Addin.LiftReports\Report.Designer.cs
-msgid "Entries Contents"
-msgstr ""
-
-#: C:\BuildAgent\work\wesay-localize-dev\src\Addin.LiftReports\Report.Designer.cs
-msgid "Senses Contents"
-msgstr ""
-
-#: C:\BuildAgent\work\wesay-localize-dev\src\Addin.LiftReports\Report.Designer.cs
-msgid "label4"
-msgstr ""
-
-#: C:\BuildAgent\work\wesay-localize-dev\src\Addin.LiftReports\ReportMaker.cs
-msgid "View Report"
-msgstr ""
-
-#: C:\BuildAgent\work\wesay-localize-dev\src\Addin.LiftReports\ReportMaker.cs
-msgid "Shows some information about the lexicon."
-msgstr ""
-
-#: C:\BuildAgent\work\wesay-localize-dev\src\Addin.LiftReports\ReportMaker.cs
-msgid "Report"
-msgstr ""
-
-#: C:\BuildAgent\work\wesay-localize-dev\src\Addin.LiftReports\XPathChart.Designer.cs
-#: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.App\LongStartupNotification.Designer.cs
-msgid "label1"
-msgstr ""
-
 #: C:\BuildAgent\work\wesay-localize-dev\src\Addin.Transform\HtmlInWord.cs
 msgid "Export to Word"
 msgstr ""
@@ -242,7 +204,7 @@ msgid "http://lexiquepro.com"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
-msgid "http://lexiquepro.com/test.htm"
+msgid "http://lexiquepro.com/download.htm"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\Addin.Transform\LexiquePro\AboutLexiquePro.Designer.cs
@@ -275,11 +237,11 @@ msgid "http://princexml.com"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
-msgid "http://wesay.org/wiki/MakePdfDictionary"
+msgid "http://wesay.palaso.org/printing-dictionaries-with-wesay/"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\Addin.Transform\PdfDictionary\AboutMakePdfDictionary.Designer.cs
-msgid "About Make Pdf Dictionary"
+msgid "About Make Simple Pdf Dictionary"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\Addin.Transform\PdfDictionary\LibreOfficePdf.cs
@@ -363,6 +325,8 @@ msgstr ""
 #. This is what shows for a word in a list when the user hasn't yet typed anything in for the word.  Like if you click the 'New Word' button repeatedly.
 #: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\DictionaryBrowseAndEdit\DictionaryControl.cs
 #. This is what shows for a word in a list when the user hasn't yet typed anything in for the word.  Like if you click the 'New Word' button repeatedly.
+#: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.UI\TextBoxes\GeckoListView.cs
+#. This is what shows for a word in a list when the user hasn't yet typed anything in for the word.  Like if you click the 'New Word' button repeatedly.
 msgid "Empty"
 msgstr ""
 
@@ -409,8 +373,8 @@ msgstr ""
 msgid "Search"
 msgstr ""
 
-#: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\CongratulationsControl.Designer.cs
-msgid "✔"
+#: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\CongratulationsControl.cs
+msgid "\\u2714 "
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\Dashboard\Dash.cs
@@ -432,16 +396,6 @@ msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\Dashboard\GroupHeader.designer.cs
 msgid "_label"
-msgstr ""
-
-#: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\Dashboard\ShapeControl.cs
-#: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\EntryHeaderView.Designer.cs
-#: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\GatherByWordList\GatherWordListControl.cs
-#: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.UI\GhostBinding.cs
-#: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.UI\TextBoxes\MultiTextControl.cs
-#: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.UI\TextBoxes\WeSayTextBox.cs
-#: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.UI\TextBoxes\WeSayTextBox.cs
-msgid ""
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\Dashboard\TaskIndicator.designer.cs
@@ -541,10 +495,6 @@ msgid "Try thinking of words you use to talk about these things."
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
-msgid "Question goes here."
-msgstr ""
-
-#: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\GatherBySemanticDomains\GatherBySemanticDomainsControl.Designer.cs
 msgid "Description goes here."
 msgstr ""
 
@@ -576,6 +526,14 @@ msgstr ""
 msgid "Foobar"
 msgstr ""
 
+#: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\Layouter.cs
+msgid "Delete Meaning"
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\LexEntryLayouter.cs
+msgid "This will permanently remove the meaning"
+msgstr ""
+
 #: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\LexExampleSentenceLayouter.cs
 #. This is the field containing an example sentence of a sense of a word.
 #: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\LexExampleSentenceLayouter.cs
@@ -586,12 +544,6 @@ msgstr ""
 #: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\LexExampleSentenceLayouter.cs
 #. This is the field for putting in a translation of an example sentence.
 msgid "Translation"
-msgstr ""
-
-#: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\LexSenseLayouter.cs
-#: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.Project\ViewTemplate.cs
-#. The label for the field showing a single word translation, as used in interlinear text glossing.
-msgid "Gloss"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\LexicalTools\TaskBase.cs
@@ -678,6 +630,10 @@ msgstr ""
 msgid "Input files to count."
 msgstr ""
 
+#: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.App\LongStartupNotification.Designer.cs
+msgid "label1"
+msgstr ""
+
 #: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.App\StatusBarController.cs
 msgid "Configure This Project..."
 msgstr ""
@@ -758,7 +714,7 @@ msgid "Share"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.Project\ChorusBackupMaker.cs
-msgid "Wesay Automatic Backup"
+msgid "WeSay Automatic Backup"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.Project\FailedLoadTask.cs
@@ -799,6 +755,11 @@ msgid "Definition"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.Project\ViewTemplate.cs
+#. The label for the field showing a single word translation, as used in interlinear text glossing.
+msgid "Gloss"
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.Project\ViewTemplate.cs
 #. The label for the field showing the literal meaning of idiom or proverb.
 msgid "Literal Meaning"
 msgstr ""
@@ -818,6 +779,11 @@ msgstr ""
 #: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.Project\ViewTemplate.cs
 #. The label for the field showing Part Of Speech
 msgid "POS"
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.Project\ViewTemplate.cs
+#. The label for the field showing Part Of Speech
+msgid "PartOfSpeech"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.Project\ViewTemplate.cs
@@ -850,6 +816,10 @@ msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.Project\WeSayWordsProject.cs
 msgid "Checking files..."
+msgstr ""
+
+#: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.UI\AutoCompleteTextBox\AutoCompleteWithCreationBox.Designer.cs
+msgid "+"
 msgstr ""
 
 #: C:\BuildAgent\work\wesay-localize-dev\src\WeSay.UI\CheckBoxControl.Designer.cs
