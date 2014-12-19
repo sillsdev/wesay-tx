@@ -1,16 +1,15 @@
-#
+# 
 # Translators:
 # Bun Ang Van <bunangv@gmail.com>, 2011
-# Makara SOK <lrtc_makara@icc.org.kh>, 2011, 2012
+# Makara SOK <makara_sok@hotmail.com>, 2011, 2012
 # palaso_admin <admin@palaso.org>, 2011
 # sungkhum <sungkhum@gmail.com>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
-"Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
 "POT-Creation-Date: 2012-05-11T20:29:49\n"
-"PO-Revision-Date: 2012-05-01 08:17+0000\n"
-"Last-Translator: Makara SOK <lrtc_makara@icc.org.kh>\n"
+"PO-Revision-Date: 2013-11-20 09:47+0000\n"
+"Last-Translator: Makara SOK <makara_sok@hotmail.com>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/wesay/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

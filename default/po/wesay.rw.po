@@ -1,12 +1,11 @@
-#
+# 
 # Translators:
 # Emmanuel Habumuremyi <emmahab2008@gmail.com>, 2011, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
-"Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
 "POT-Creation-Date: 2012-05-11T20:29:49\n"
-"PO-Revision-Date: 2012-05-08 07:33+0000\n"
+"PO-Revision-Date: 2013-11-20 09:47+0000\n"
 "Last-Translator: Emmanuel Habumuremyi <emmahab2008@gmail.com>\n"
 "Language-Team: Kinyarwanda (http://www.transifex.com/projects/p/wesay/language/rw/)\n"
 "MIME-Version: 1.0\n"

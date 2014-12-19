@@ -1,14 +1,14 @@
-#
+# 
 # Translators:
+# suiwesay <dsylai@gmail.com>, 2014
 # suiwesay <dsylai@gmail.com>, 2012
 # palaso_admin <admin@palaso.org>, 2011
 # rperlin <ross.perlin@gmail.com>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
-"Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
 "POT-Creation-Date: 2012-05-11T20:29:49\n"
-"PO-Revision-Date: 2012-05-01 08:17+0000\n"
+"PO-Revision-Date: 2014-02-17 07:05+0000\n"
 "Last-Translator: suiwesay <dsylai@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/wesay/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -22,13 +22,13 @@ msgstr ""
 # POT-Creation-Date: 2012-05-11T20:29:49
 # Content-Type: text/plain; charset=UTF-8
 msgid "Meanings"
-msgstr "词义注释"
+msgstr "添加词义"
 
 msgid "Add Meanings"
 msgstr "添加词义"
 
 msgid "Add meanings (senses) to entries where they are missing."
-msgstr "添加词义注释（词义）到缺词义的词条"
+msgstr "添加词义到没有词义的词条中"
 
 msgid "Parts of Speech"
 msgstr "词性"
@@ -885,11 +885,11 @@ msgstr "检查box1"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
 msgid "Remove Picture..."
-msgstr ""
+msgstr "移除图片"
 
 #: C\BuildAgent\work\wesay-localize-dev\bld\..\src\WeSay.UI\PictureControl.Designer.cs
 msgid "Get Picture..."
-msgstr ""
+msgstr "加入图片..."
 
 #. This is shown in a combo-box (list of options, like Part Of Speech) when no
 #. option has been chosen, or the user just doesn't know what to put in this

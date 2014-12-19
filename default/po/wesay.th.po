@@ -1,4 +1,4 @@
-#
+# 
 # Translators:
 # palaso_admin <admin@palaso.org>, 2011
 # Greg Blok <greg_blok@sil.org>, 2011
@@ -6,9 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
-"Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
 "POT-Creation-Date: 2012-05-11T20:29:49\n"
-"PO-Revision-Date: 2012-05-01 08:17+0000\n"
+"PO-Revision-Date: 2013-11-20 09:47+0000\n"
 "Last-Translator: Greg Blok <greg_blok@sil.org>\n"
 "Language-Team: Thai (http://www.transifex.com/projects/p/wesay/language/th/)\n"
 "MIME-Version: 1.0\n"

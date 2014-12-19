@@ -1,17 +1,16 @@
-#
+# 
 # Translators:
 # palaso_admin <admin@palaso.org>, 2011
 # toddho <thoatson@hotmail.com>, 2011
 # Vedder Joes <>, 2012
-# Tri Wira <wira@loksado.com>, 2012
-# Tri Wira <wira@loksado.com>, 2012
+# Triwira <wira@loksado.com>, 2012
+# Triwira <wira@loksado.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: WeSay\n"
-"Report-Msgid-Bugs-To: http://issues.wesay.org/\n"
 "POT-Creation-Date: 2012-05-11T20:29:49\n"
-"PO-Revision-Date: 2012-10-31 06:28+0000\n"
-"Last-Translator: Tri Wira <wira@loksado.com>\n"
+"PO-Revision-Date: 2013-11-20 09:47+0000\n"
+"Last-Translator: Triwira <wira@loksado.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/projects/p/wesay/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
