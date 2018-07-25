@@ -7,17 +7,17 @@
 
 	<Target Name="UpdatePot">
 		<!-- Update using mercurial -->
-		<Exec Command='hg commit -u "bob" -m "palaso_admin updated deafult/po/WeSay.pot" default/po/WeSay.pot'
+		<Exec Command='git commit --author=bob -m "palaso_admin updated default/po/WeSay.pot" default/po/WeSay.pot'
 			WorkingDirectory="$(RootDir)"/>
-		<Exec Command='hg push "$(PushRepo)"'
+		<Exec Command='git push "$(PushRepo)"'
 			WorkingDirectory="$(RootDir)"/>
 	</Target>
 
 	<Target Name="UpdatePo" DependsOnTargets="PullFromTransifex">
 		<!-- Update using mercurial -->
-		<Exec Command='hg commit -u "bob" -m "palaso_admin updated deafult/po/ files" default/po/*.po'
+		<Exec Command='git commit --author=bob -m "palaso_admin updated default/po/ files" default/po/*.po'
 			WorkingDirectory="$(RootDir)"/>
-		<Exec Command='hg push "$(PushRepo)"'
+		<Exec Command='git push "$(PushRepo)"'
 			WorkingDirectory="$(RootDir)"/>
 	</Target>
 
