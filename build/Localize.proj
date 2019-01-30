@@ -14,8 +14,8 @@
 	</Target>
 
 	<Target Name="UpdatePo" DependsOnTargets="PullFromTransifex">
-		<!-- Update using mercurial -->
-		<Exec Command='git commit --author=bob -m "palaso_admin updated default/po/ files" default/po/*.po'
+		<!-- Update using git -->
+		<Exec Command='git commit --author="bob <devnull@localhost>" -m "palaso_admin updated default/po/ files" default/po/*.po'
 			WorkingDirectory="$(RootDir)"/>
 		<Exec Command='git push "$(PushRepo)"'
 			WorkingDirectory="$(RootDir)"/>
