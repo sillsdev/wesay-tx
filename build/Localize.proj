@@ -7,9 +7,9 @@
 
 	<Target Name="UpdatePot">
 		<!-- Update using git -->
-		<Exec Command='git config --global user.email="devnull@localhost"'
+		<Exec Command='git config --global user.email "devnull@localhost"'
 			WorkingDirectory="$(RootDir)"/>
-		<Exec Command='git config --global user.name="bob"'
+		<Exec Command='git config --global user.name "bob"'
 			WorkingDirectory="$(RootDir)"/>
 		<Exec Command='git commit -m "palaso_admin updated default/po/WeSay.pot" default/po/WeSay.pot'
 			WorkingDirectory="$(RootDir)"/>
@@ -19,9 +19,9 @@
 
 	<Target Name="UpdatePo" DependsOnTargets="PullFromTransifex">
 		<!-- Update using git -->
-		<Exec Command='git config --global user.email="devnull@localhost"'
+		<Exec Command='git config --global user.email "devnull@localhost"'
 			WorkingDirectory="$(RootDir)"/>
-		<Exec Command='git config --global user.name="bob"'
+		<Exec Command='git config --global user.name "bob"'
 			WorkingDirectory="$(RootDir)"/>
 		<Exec Command='git commit -m "palaso_admin updated default/po/ files" default/po/*.po'
 			WorkingDirectory="$(RootDir)"/>
